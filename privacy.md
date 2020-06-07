@@ -6,9 +6,9 @@
 
 Thank you for choosing to be part of our community at  TradeGrub  ("**Company**", "**we**", "**us**", or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our  policy, or our practices with regards to your personal information, please contact us at  tradegrub@gmail.com
 
-When you visit our  and use our services, you trust us with your personal information. We take your privacy very seriously. In this  privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this  privacy policy that you do not agree with, please discontinue use of our  and our services.
+When you visit our app and use our services, you trust us with your personal information. We take your privacy very seriously. In this  privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this  privacy policy that you do not agree with, please discontinue use of our app and our services.
 
-This  privacy policy applies to all information collected through our  and/or any related services, sales, marketing or events (we refer to them collectively in this  privacy policy as the "**Services**").
+This  privacy policy applies to all information collected through our app and/or any related services, sales, marketing or events (we refer to them collectively in this  privacy policy as the "**Services**").
 
 **Please read this  privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.**
 
@@ -20,19 +20,19 @@ This  privacy policy applies to all information collected through our  and/or an
 
 **_In Short:_** _We collect personal information that you provide to us._
 
-We collect personal information that you voluntarily provide to us when  registering at the  expressing an interest in obtaining information about us or our products and services, when participating in activities on the  (such as posting messages in our online forums or entering competitions, contests or giveaways)  or otherwise contacting us.
+We collect personal information that you voluntarily provide to us when  registering at the app expressing an interest in obtaining information about us or our products and services or otherwise contacting us.
 
-The personal information that we collect depends on the context of your interactions with us and the  , the choices you make and the products and features you use. The personal information we collect can include the following:
+The personal information that we collect depends on the context of your interactions with us and the app, the choices you make and the products and features you use. The personal information we collect can include the following:
 
-**Social Media Login Data.** We may provide you with the option to register using social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the Information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS]" below.
+**Social Media Login Data.** We may provide you with the option to register using social media account details, like your Google account. If you choose to register in this way, we will collect the Information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS]" below.
 
 All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
 **Information automatically collected**
 
-**_In Short:_** _Some information such as IP address and/or browser and device characteristics is collected automatically when you visit our website or use mobile application.
+**_In Short:_** _Some information such as IP address and/or browser and device characteristics is collected automatically when you visit our website or use mobile application._
 
-We automatically collect certain information when you visit, use or navigate the website or use mobile application. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our  and other technical information. This information is primarily needed to maintain the security and operation of our  , and for our internal analytics and reporting purposes.
+We automatically collect certain information when you visit, use or navigate the website or use mobile application. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our services and other technical information. This information is primarily needed to maintain the security and operation of our services, and for our internal analytics and reporting purposes.
 
 Like many businesses, we also collect information through cookies and similar technologies.
 
@@ -66,16 +66,13 @@ More specifically, we may need to process your data or share your personal infor
 -   **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.  
       
     
--   **Third-Party Advertisers.** We may use third-party advertising companies to serve ads when you visit the  . These companies may use information about your visits to our Website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you.  
-      
-    
 -   **Affiliates.** We may share your information with our affiliates, in which case we will require those affiliates to honor this  privacy policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.  
       
     
 -   **Business Partners.** We may share your information with our business partners to offer you certain products, services or promotions.  
       
     
--   **Other Users.** When you share personal information  or otherwise interact with public areas of the  , such personal information may be viewed by all users and may be publicly distributed outside the  in perpetuity.  If you interact with other users of our  and register through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity.  Similarly, other users will be able to view descriptions of your activity, communicate with you within our  , and view your profile.
+-   **Other Users.** When you share personal information  or otherwise interact with public areas of the services, such personal information may be viewed by all users and may be publicly distributed outside the  in perpetuity.  If you interact with other users of our  and register through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity.  Similarly, other users will be able to view descriptions of your activity, communicate with you within our services, and view your profile.
 
   
 
@@ -101,7 +98,7 @@ We will use the information we receive only for the purposes that are described 
 
 **_In Short:_** _We may transfer, store, and process your information in countries other than your own._
 
-Our servers are located in. If you are accessing our  from outside, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "[WILL YOUR INFORMATION BE SHARED WITH ANYONE?]" above), in  and other countries.
+Our servers are located in United States and India. If you are accessing our services from outside, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "[WILL YOUR INFORMATION BE SHARED WITH ANYONE?]" above), in  and other countries.
 
 If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this  privacy policy and applicable law.
 
@@ -137,8 +134,6 @@ We do not knowingly solicit data from or market to children under 18 years of ag
 
 **_In Short:_** _You may review, change, or terminate your account at any time._
 
-If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
-
   
 
 **Account Information**
@@ -163,7 +158,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
 
-If you are under 18 years of age, reside in California, and have a registered account with the  , you have the right to request removal of unwanted data that you publicly post on the  . To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the  , but please be aware that the data may not be completely or comprehensively removed from our systems.
+If you are under 18 years of age, reside in California, and have a registered account with the TradeGrub, you have the right to request removal of unwanted data that you publicly post on the site. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the site, but please be aware that the data may not be completely or comprehensively removed from our systems.
 
   
 
