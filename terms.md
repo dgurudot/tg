@@ -1,16 +1,16 @@
-TERMS OF USE
+**TERMS OF USE**
 
   
 
-Last updated  04/15/2020
+Last updated  06/07/2020
 
   
 
-AGREEMENT TO TERMS
+**AGREEMENT TO TERMS**
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and TradeGrub ("Company", "we", "us", or "our"), concerning your access to and use of the [http://www.tradegrub.com](http://www.tradegrub.com/) website, app as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the "Site"). You agree that by accessing the Site, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and TradeGrub ("Company", "we", "us", or "our"), concerning your access to and use of the [http://www.tradegrub.com](http://www.tradegrub.com/) website, app as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the "Site"). You agree that by accessing the Site, you have read, understood, and agree to be bound by all of these Terms of Use. 
 
-  
+**IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.**
 
 By using TradeGrub Services, you're agreeing to be bound by all of these Terms and Conditions ("Terms and Conditions" or "Terms of Use" or "Terms") INCLUDING THE BINDING ARBITRATION AND CLASS ACTION WAIVER DETAILED BELOW.
 
@@ -24,7 +24,7 @@ The Site is intended for users who are at least 18 years old. Persons under the 
 
   
 
-CONFIDENTIALITY
+**CONFIDENTIALITY**
 
 1.  CONFIDENTIALITY of the information provided via TradeGrub app is MUST and please exit now if you cannot maintain confidentiality of this information.
     
@@ -35,12 +35,12 @@ CONFIDENTIALITY
 4.  You may not reproduce, retransmit, disseminate, sell, publish, broadcast, nor shall the Information be used in connection with creating, promoting, trading, marketing Investment Products without the express written consent of TradeGrub, LLC or its Information Providers. You are only entitled to use the Information it contains for your private, non-commercial use only.
     
 
-## Copyright © 2020 TradeGrub. No part of this publication and information provided via TradeGrub app may be reproduced, stored in a retrieval system, used in spreadsheet or document, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording or otherwise - without written permission from TradeGrub.
+## Copyright  © 2020 TradeGrub. No part of this publication and information provided via TradeGrub app may be reproduced, stored in a retrieval system, used in spreadsheet or document, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording or otherwise - without written permission from TradeGrub.
 
   
   
 
-INTELLECTUAL PROPERTY RIGHTS
+**INTELLECTUAL PROPERTY RIGHTS**
 
 Unless otherwise indicated, the Site is our proprietary property and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Site (collectively, the "Content") and the trademarks, service marks, and logos contained therein (the "Marks") are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, international copyright laws, and international conventions. The Content and the Marks are provided on the Site "AS IS" for your information and personal use only. Except as expressly provided in these Terms of Use, no part of the Site and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
@@ -48,7 +48,7 @@ Provided that you are eligible to use the Site, you are granted a limited licens
 
   
 
-USER REPRESENTATIONS
+**USER REPRESENTATIONS**
 
 By using the Site, you represent and warrant that: (1) all registration information you submit will be true, accurate, current, and complete; (2) you will maintain the accuracy of such information and promptly update such registration information as necessary; (3) you have the legal capacity and you agree to comply with these Terms of Use; (4) you are not a minor in the jurisdiction in which you reside; (5) you will not access the Site through automated or non-human means, whether through a bot, script or otherwise; (6) you will not use the Site for any illegal or unauthorized purpose; and (7) your use of the Site will not violate any applicable law or regulation.
 
@@ -57,14 +57,14 @@ If you provide any information that is untrue, inaccurate, not current, or incom
   
   
 
-USER REGISTRATION
+**USER REGISTRATION**
 
 You may be required to register with the Site. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
 
   
   
 
-FEES AND PAYMENT
+**FEES AND PAYMENT**
 
   
 
@@ -95,7 +95,7 @@ We reserve the right to correct any errors or mistakes in pricing, even if we ha
   
   
 
-CANCELLATION
+**CANCELLATION**
 
 All purchases are non-refundable. You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term.
 
@@ -104,14 +104,14 @@ If you are unsatisfied with our services, please email us at tradegrub@gmail.com
   
   
 
-SOFTWARE
+**SOFTWARE**
 
 We may include software for use in connection with our services. If such software is accompanied by an end user license agreement ("EULA"), the terms of the EULA will govern your use of the software. If such software is not accompanied by a EULA, then we grant to you a non-exclusive, revocable, personal, and non-transferable license to use such software solely in connection with our services and in accordance with these Terms of Use. Any Software and any related documentation is provided "as is" without warranty of any kind, either express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. You accept any and all risk arising out of use or performance of any Software. You may not reproduce or redistribute any software except in accordance with the EULA or these Terms of Use.
 
   
   
 
-PROHIBITED ACTIVITIES
+**PROHIBITED ACTIVITIES**
 
   
 
@@ -136,7 +136,7 @@ As a user of the Site, you agree not to:
   
   
 
-USER GENERATED CONTRIBUTIONS
+**USER GENERATED CONTRIBUTIONS**
 
 The Site may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
 
@@ -176,7 +176,7 @@ Any use of the Site in violation of the foregoing violates these Terms of Use an
 
   
 
-CONTRIBUTION LICENSE
+**CONTRIBUTION LICENSE**
 
 By posting your Contributions to any part of the Site or making Contributions accessible to the Site by linking your account from the Site to any of your social networking accounts, you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial, advertising, or otherwise, and to prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels.
 
@@ -189,7 +189,7 @@ We have the right, in our sole and absolute discretion, (1) to edit, redact, or 
   
   
 
-MOBILE APPLICATION LICENSE
+**MOBILE APPLICATION LICENSE**
 
 Use License
 
@@ -202,35 +202,35 @@ The following terms apply when you use a mobile application obtained from either
   
   
 
-SOCIAL MEDIA
+**SOCIAL MEDIA**
 
 As part of the functionality of the Site, you may link your account with online accounts you have with third-party service providers (each such account, a "Third-Party Account") by either: (1) providing your Third-Party Account login information through the Site; or (2) allowing us to access your Third-Party Account, as is permitted under the applicable terms and conditions that govern your use of each Third-Party Account. You represent and warrant that you are entitled to disclose your Third-Party Account login information to us and/or grant us access to your Third-Party Account, without breach by you of any of the terms and conditions that govern your use of the applicable Third-Party Account, and without obligating us to pay any fees or making us subject to any usage limitations imposed by the third-party service provider of the Third-Party Account. By granting us access to any Third-Party Accounts, you understand that (1) we may access, make available, and store (if applicable) any content that you have provided to and stored in your Third-Party Account (the "Social Network Content") so that it is available on and through the Site via your account, including without limitation any friend lists and (2) we may submit to and receive from your Third-Party Account additional information to the extent you are notified when you link your account with the Third-Party Account. Depending on the Third-Party Accounts you choose and subject to the privacy settings that you have set in such Third-Party Accounts, personally identifiable information that you post to your Third-Party Accounts may be available on and through your account on the Site. Please note that if a Third-Party Account or associated service becomes unavailable or our access to such Third-Party Account is terminated by the third-party service provider, then Social Network Content may no longer be available on and through the Site. You will have the ability to disable the connection between your account on the Site and your Third-Party Accounts at any time. PLEASE NOTE THAT YOUR RELATIONSHIP WITH THE THIRD-PARTY SERVICE PROVIDERS ASSOCIATED WITH YOUR THIRD-PARTY ACCOUNTS IS GOVERNED SOLELY BY YOUR AGREEMENT(S) WITH SUCH THIRD-PARTY SERVICE PROVIDERS. We make no effort to review any Social Network Content for any purpose, including but not limited to, for accuracy, legality, or non-infringement, and we are not responsible for any Social Network Content. You acknowledge and agree that we may access your email address book associated with a Third-Party Account and your contacts list stored on your mobile device or tablet computer solely for purposes of identifying and informing you of those contacts who have also registered to use the Site. You can deactivate the connection between the Site and your Third-Party Account by contacting us using the contact information below or through your account settings (if applicable). We will attempt to delete any information stored on our servers that was obtained through such Third-Party Account, except the username and profile picture that become associated with your account.
 
   
   
 
-SUBMISSIONS
+**SUBMISSIONS**
 
 You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Site ("Submissions") provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you. You hereby waive all moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.
 
   
   
 
-SITE MANAGEMENT
+**SITE MANAGEMENT**
 
 We reserve the right, but not the obligation, to: (1) monitor the Site for violations of these Terms of Use; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms of Use, including without limitation, reporting such user to law enforcement authorities; (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; (4) in our sole discretion and without limitation, notice, or liability, to remove from the Site or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site.
 
   
   
 
-PRIVACY POLICY
+**PRIVACY POLICY**
 
 We care about data privacy and security. By using the Site, you agree to be bound by our Privacy Policy posted on the Site, which is incorporated into these Terms of Use. Please be advised the Site is hosted in the United States. If you access the Site from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you agree to have your data transferred to and processed in the United States.
 
   
   
 
-TERM AND TERMINATION
+**TERM AND TERMINATION**
 
 These Terms of Use shall remain in full force and effect while you use the Site. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE OR DELETE YOUR ACCOUNT AND ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
 
@@ -238,7 +238,7 @@ If we terminate or suspend your account for any reason, you are prohibited from 
 
   
 
-MODIFICATIONS AND INTERRUPTIONS
+**MODIFICATIONS AND INTERRUPTIONS**
 
 We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Site. We also reserve the right to modify or discontinue all or part of the Site without notice at any time. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Site.
 
@@ -246,7 +246,7 @@ We cannot guarantee the Site will be available at all times. We may experience h
 
   
 
-GOVERNING LAW
+**GOVERNING LAW**
 
   
 
@@ -254,7 +254,7 @@ These Terms of Use and your use of the Site are governed by and construed in acc
 
   
 
-DISPUTE RESOLUTION
+**DISPUTE RESOLUTION**
 
   
 
@@ -308,7 +308,7 @@ The Parties agree that the following Disputes are not subject to the above provi
   
   
 
-CORRECTIONS
+**CORRECTIONS**
 
   
 
@@ -317,7 +317,7 @@ There may be information on the Site that contains typographical errors, inaccur
   
   
 
-DISCLAIMER
+**DISCLAIMER**
 
   
 
@@ -368,19 +368,19 @@ We hold no investment licenses and are thus neither licensed nor qualified to pr
 
 -   One of the principal tenets here at the TradeGrub is that the best person to handle your finances is you. By your use of our Services, you're agreeing that you bear responsibility for your own investment research and investment decisions. You also agree that TradeGrub, its directors, its employees, and its agents will not be liable for any investment decision made or action taken by you and others based on news, information, opinion, or any other material published through our Services.
 
-LIMITATIONS OF LIABILITY
+**LIMITATIONS OF LIABILITY**
 
 IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SITE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO US DURING THE SIX (6) MONTH PERIOD PRIOR TO ANY CAUSE OF ACTION ARISING. CERTAIN US STATE LAWS AND INTERNATIONAL LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
 
   
-INDEMNIFICATION
+**INDEMNIFICATION**
 
 You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (1) your Contributions; (2) use of the Site; (3) breach of these Terms of Use; (4) any breach of your representations and warranties set forth in these Terms of Use; (5) your violation of the rights of a third party, including but not limited to intellectual property rights; or (6) any overt harmful act toward any other user of the Site with whom you connected via the Site. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
 
   
   
 
-USER DATA
+**USER DATA**
 
   
 
@@ -389,7 +389,7 @@ We will maintain certain data that you transmit to the Site for the purpose of m
   
   
 
-ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
+**ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES**
 
   
 
@@ -398,7 +398,7 @@ Visiting the Site, sending us emails, and completing online forms constitute ele
   
   
 
-MISCELLANEOUS
+**MISCELLANEOUS**
 
   
 
@@ -407,7 +407,7 @@ These Terms of Use and any policies or operating rules posted by us on the Site 
   
   
 
-CONTACT US
+**CONTACT US**
 
   
 
