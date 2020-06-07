@@ -175,6 +175,6 @@ We may update this  privacy policy from time to time. The updated version will b
 If you have questions or comments about this policy, you may  email us at  tradegrub@gmail.com
 
   
-**HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
+**14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
 Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please send us an email at tradegrub@gmail.com. We will respond to your request within 30 days.
