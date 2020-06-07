@@ -1,6 +1,6 @@
 **PRIVACY POLICY**
 
-**Last updated  04/15/2020**
+**Last updated  06/07/2020**
 
   
 
@@ -28,8 +28,7 @@ The personal information that we collect depends on the context of your interact
 
 All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
-**  
-Information automatically collected**
+**Information automatically collected**
 
 **_In Short:_** _Some information such as IP address and/or browser and device characteristics is collected automatically when you visit our website or use mobile application.
 
