@@ -37,10 +37,7 @@ The Site is intended for users who are at least 18 years old. Persons under the 
 
 ## Copyright  © 2020 TradeGrub. No part of this publication and information provided via TradeGrub app may be reproduced, stored in a retrieval system, used in spreadsheet or document, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording or otherwise - without written permission from TradeGrub.
 
-  
-  
-  
-  
+
 
 **3. INTELLECTUAL PROPERTY RIGHTS**
 
