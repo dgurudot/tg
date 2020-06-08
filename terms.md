@@ -335,7 +335,7 @@ TRADEGRUB IS NOT INTENDED TO BE TRADING OR INVESTING ADVICE. ALWAYS DO YOUR OWN 
 
 Neither TradeGrub nor its Information Providers can guarantee the accuracy, completeness, timeliness, or correct sequencing of any of the Information on the app, including, but not limited to Information originated by TradeGrub, LLC, licensed by TradeGrub, LLC from Information Providers, or gathered by TradeGrub, LLC from publicly available sources. There may be delays, omissions, or inaccuracies in the Information.
 
-NEITHER TRADEGRUB, LLC NOR THE INFORMATION PROVIDERS SHALL HAVE ANY LIABILITY, CONTINGENT OR OTHERWISE FOR THE ACCURACY, COMPLETENESS, TIMELINESS, OR CORRECT SEQUENCING OF THE INFORMATION OR FOR ANY DECISION MADE OR ACTION TAKEN BY YOU IN RELIANCE UPON THE INFORMATION OR "TRADEGRUB.COM," OR FOR INTERRUPTION OF ANY DATA, INFORMATION, OR ANY OTHER ASPECT OF "TRADEGRUB.COM." THE PAST PERFORMANCE OF A MUTUAL FUND, STOCK, OR INVESTMENT STRATEGY CANNOT GUARANTEE ITS FUTURE PERFORMANCE.
+NEITHER TRADEGRUB, LLC NOR THE INFORMATION PROVIDERS SHALL HAVE ANY LIABILITY, CONTINGENT OR OTHERWISE FOR THE ACCURACY, COMPLETENESS, TIMELINESS, OR CORRECT SEQUENCING OF THE INFORMATION OR FOR ANY DECISION MADE OR ACTION TAKEN BY YOU IN RELIANCE UPON THE INFORMATION OR "TRADEGRUB.COM," OR FOR INTERRUPTION OF ANY DATA, INFORMATION, OR ANY OTHER ASPECT OF "TRADEGRUB.COM." THE PAST PERFORMANCE OF A STOCK, OR INVESTMENT STRATEGY CANNOT GUARANTEE ITS FUTURE PERFORMANCE.
 
 NEITHER TRADEGRUB LLC NOR ITS INFORMATION PROVIDERS MAKE ANY REPRESENTATIONS ABOUT THE SUITABILITY OF THE INFORMATION, SOFTWARE, PRODUCTS, OR SERVICES CONTAINED IN "TRADEGRUB.COM" ALL SUCH INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
 
@@ -347,14 +347,14 @@ All Information available through TradeGrub is the property of TradeGrub, LLC or
 
 ## Nature of Service
 
-TradeGrub contains statements and statistics that have been obtained from sources believed to be reliable but are not guaranteed as to accuracy or completeness. References to any specific securities do not constitute an offer to buy or sell securities. The past performance of a mutual fund, stock, or investment strategy cannot guarantee its future performance.
+TradeGrub contains statements and statistics that have been obtained from sources believed to be reliable but are not guaranteed as to accuracy or completeness. References to any specific securities do not constitute an offer to buy or sell securities. 
     
 
 ### No Personalized Advice
 
 -   We want to help you make money. However, TradeGrub is not in the business of rendering personalized investment advice. We can't know all the relevant facts about you and your individual needs, and we cannot claim or represent that any particular Services are suitable for you. Accordingly, you agree that any recommendation or action taken by a Service does not constitute a recommendation that a particular security, strategy, or action is suitable for you. If you want personal advice, then you should seek a registered investment advisor.
     
--   TradeGrub may partner with third parties in order to make buying our Services' recommendations easier for you. We will not, and cannot, trade on your behalf at your brokerage. Only you can decide whether or not a stock is right for you and you agree to be liable for any trades you initiate at your brokerage using tools that we or our partners provide.
+-   TradeGrub may partner with third parties in order to make buying our Services recommendations easier for you. We will not, and cannot, trade on your behalf at your brokerage. Only you can decide whether or not a stock is right for you and you agree to be liable for any trades you initiate at your brokerage using tools that we or our partners provide.
     
 -   We are neither licensed nor qualified to provide investment advice. The contents shared are not provided to any particular individual with a view toward their individual circumstances. The information shared is not an offer to buy or sell securities.
     
@@ -369,6 +369,20 @@ We hold no investment licenses and are thus neither licensed nor qualified to pr
 ### You Bear Responsibility for Your Financial and Investment Decisions
 
 -   One of the principal tenets here at the TradeGrub is that the best person to handle your finances is you. By your use of our Services, you're agreeing that you bear responsibility for your own investment research and investment decisions. You also agree that TradeGrub, its directors, its employees, and its agents will not be liable for any investment decision made or action taken by you and others based on news, information, opinion, or any other material published through our Services.
+
+All investments involve risk and the past performance of a security, or financial product does not guarantee future results or returns. Keep in mind that while diversification may help spread risk it does not assure a profit, or protect against loss, in a down market. There is always the potential of losing money when you invest in securities, or other financial products. Investors should consider their investment objectives and risks carefully before investing.
+
+Conditional orders may have increased risk as a result of their reliance on trigger processing, market data, and other internal and external systems. Such orders are not sent to the market until specified conditions are met. During that time, issues such as system outages with downstream technologies or third parties may occur. Conditional orders triggering near the market close may fail to execute that day. Furthermore, our executing partner may impose controls on conditional orders to limit erroneous trades triggering downstream orders. TradeGrub, LLC may not always be made aware of such changes to external controls immediately, which may lead to some conditional orders not being executed. As such, it is important to monitor conditional orders for reasonability. Conditional orders are “Not Held” orders whose execution instructions are on a best efforts basis upon being triggered. Furthermore, conditional orders may be subject to the increased risks of stop orders and market orders outlined above. Given the increased potential risk of using conditional orders, the client agrees that TradeGrub, LLC cannot be held responsible for losses, damages, or missed opportunity costs associated with market data problems, systems issues, and user error, among other factors. By using conditional orders the client understands and accepts the risks outlined above. TradeGrub, LLC encourages leveraging the use of Paper accounts to become more comfortable with the intricacies associated with these orders.
+
+Market prices, data and other information available through TradeGrub are not warranted as to completeness or accuracy and are subject to change without notice. System response and account access times may vary due to a variety of factors, including trading volumes, market conditions, system performance, and other factors. A more complete description of the impact these factors may have can be found in our risks of automated trading systems section.
+
+The Paper Trading is offered by brokerage firm and does not require real money or permit a user to transact in real securities in the market. Providing use of the Paper Trading is not an offer or solicitation to buy or sell securities, securities derivative or futures products of any kind, or any type of trading or investment advice, recommendation or strategy, given or in any manner endorsed by TradeGrub, Inc. or any TradeGrub, Inc. affiliate and the information made available through Paper Trading is not an offer or solicitation of any kind in any jurisdiction where TradeGrub, Inc. or any TradeGrub, Inc. affiliate is not authorized to do business.
+
+You should know that the use or granting of any third party access to your account information or place transactions in your account at your direction is solely at your risk. TradeGrub does not warrant against loss of use or any direct, indirect or consequential damages or losses to you caused by your assent, expressed or implied, to a third party accessing your account or information, including access provided through any other third party apps, systems, or sites.
+
+The information transmitted is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. Any review, retransmission, dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you have received this communication in error, please destroy all electronic and paper copies and notify the sender immediately. This message cannot be guaranteed to be secure or error-free. TradeGrub reserves the right, to the extent required and/or permitted under applicable law, to monitor electronic communications.
+
+
 
 **23. LIMITATIONS OF LIABILITY**
 
