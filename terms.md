@@ -12,13 +12,19 @@ These Terms of Use constitute a legally binding agreement made between you, whet
 
 **IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.**
 
+If you do not agree with any term of provision of our Terms and Conditions you should not use our Site, Services, Content or Information. Please be advised that your continued use of the Site, Services, Content, or Information provided shall indicate your consent and agreement to our Terms and Conditions.
+
 By using TradeGrub Services, you're agreeing to be bound by all of these Terms and Conditions ("Terms and Conditions" or "Terms of Use" or "Terms") INCLUDING THE BINDING ARBITRATION AND CLASS ACTION WAIVER DETAILED BELOW.
 
 Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason. We will alert you about any changes by updating the "Last updated" date of these Terms of Use, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Use to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.
 
 The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
 
-  
+TradeGrub, LLC may publish testimonials or descriptions of past performance but these results are NOT typical, are not indicative of future results or performance, and are not intended to be a representation, warranty or guarantee that similar results will be obtained by you.
+
+Your results may differ materially from those expressed or utilized by TradeGrub due to a number of factors. Trading is a high risk activity and can result in the loss of your entire investment. Any trade or investment is at your own risk.
+Any and all information discussed is for educational and informational purposes only and should not be considered tax, legal or investment advice. A referral to a stock or commodity is not an indication to buy or sell that stock or commodity.
+
 
 The Site is intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Site.
 
