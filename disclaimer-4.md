@@ -1,4 +1,4 @@
-## Do you accept that TradeGrub doesn't have any liability from your stock trading losses?
+## Do you accept that TradeGrub doesn't have any liability from your stock trading losses ?
 	
 - TradeGrub LLC, its officers, directors, and investors, do not make any guarantee or other promise as to any results that may be obtained from using our content. No one should make any investment decision without first consulting his or her own financial advisor and conducting his or her own research and due diligence.
 - To the maximum extent permitted by law, TradeGrub LLC, its officers, directors, investors, and contractors, disclaims any and all liability in the event any information, commentary, analysis, opinions, advice and/or recommendations prove to be inaccurate, incomplete or unreliable, or result in any investment or other losses.
