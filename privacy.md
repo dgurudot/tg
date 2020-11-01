@@ -1,10 +1,10 @@
 **PRIVACY POLICY**
 
-**Last updated  06/07/2020**
+**Last updated  11/01/2020**
 
   
 
-Thank you for choosing to be part of our community at  TradeGrub  ("**Company**", "**we**", "**us**", or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our  policy, or our practices with regards to your personal information, please contact us at  tradegrub@gmail.com
+Thank you for choosing to be part of our community at  TradeGrub  ("**Company**", "**we**", "**us**", or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our  policy, or our practices with regards to your personal information, please contact us at  privacy@tradegrub.com
 
 When you visit our app and use our services, you trust us with your personal information. We take your privacy very seriously. In this  privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this  privacy policy that you do not agree with, please discontinue use of our app and our services.
 
@@ -126,7 +126,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
 **_In Short:_** _We do not knowingly collect data from or market to children under 18 years of age._
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the  TradeGrub mobile application or service, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the  mobile application. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at  tradegrub@gmail.com
+We do not knowingly solicit data from or market to children under 18 years of age. By using the  TradeGrub mobile application or service, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the  mobile application. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at  privacy@tradegrub.com
 
   
 
@@ -172,9 +172,9 @@ We may update this  privacy policy from time to time. The updated version will b
 
 **13. HOW CAN YOU CONTACT US ABOUT THIS POLICY?**
 
-If you have questions or comments about this policy, you may  email us at  tradegrub@gmail.com
+If you have questions or comments about this policy, you may  email us at  privacy@tradegrub.com
 
   
 **14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
-Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please send us an email at tradegrub@gmail.com. We will respond to your request within 30 days.
+Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please send us an email at privacy@tradegrub.com. We will respond to your request within 30 days.
