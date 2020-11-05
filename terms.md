@@ -2,7 +2,7 @@
 
   
 
-Last updated  11/01/2020
+Last updated  11/05/2020
 
   
 
@@ -347,6 +347,8 @@ Copyright 2020, TradeGrub, All Rights Reserved
 ## Copyright
 
 All Information available through TradeGrub is the property of TradeGrub LLC or its Information Providers and is protected by copyright and intellectual property laws. All rights reserved.
+
+All product & company names and marks mentioned to display quick links or equity information are the property of their respective owners and are mentioned for identification purposes only.
 
 ## Nature of Service
 
