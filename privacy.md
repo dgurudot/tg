@@ -60,7 +60,7 @@ We may process or share data based on the following legal basis:
 
 More specifically, we may need to process your data or share your personal information in the following situations:
 
--   **Vendors, Consultants and Other Third-Party Service Providers.** We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the  , which will enable them to collect data about how you interact with the  over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.  
+-   **Vendors, Consultants and Other Third-Party Service Providers.** We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the website or app, which will enable them to collect data about how you interact with the services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.
       
     
 -   **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.  
@@ -69,10 +69,10 @@ More specifically, we may need to process your data or share your personal infor
 -   **Affiliates.** We may share your information with our affiliates, in which case we will require those affiliates to honor this  privacy policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.  
       
     
--   **Business Partners.** We may share your information with our business partners to offer you certain products, services or promotions.  
+-   **Business Partners.** We may share your information with our business partners to offer you certain products, services.  
       
     
--   **Other Users.** When you share personal information  or otherwise interact with public areas of the services, such personal information may be viewed by all users and may be publicly distributed outside the  in perpetuity.  If you interact with other users of our  and register through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity.  Similarly, other users will be able to view descriptions of your activity, communicate with you within our services, and view your profile.
+-   **Other Users.** When you share personal information  or otherwise interact with public areas of the services, such personal information may be viewed by all users and may be publicly distributed outside the services in perpetuity.  If you interact with other users of our services and register through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity.  Similarly, other users will be able to view descriptions of your activity, communicate with you within our services, and view your profile.
 
   
 
@@ -88,9 +88,9 @@ We may use cookies and similar tracking technologies (like web beacons and pixel
 
 **_In Short:_** _If you choose to register or log in to our services using a social media account, we may have access to certain information about you._
 
-Our  offer you the ability to register and login using your third party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile Information we receive may vary depending on the social media provider concerned, but will often include your name, e-mail address, friends list, profile picture as well as other information you choose to make public.
+Our services offer you the ability to register and login using your third party social media account details (like your Google, Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile Information we receive may vary depending on the social media provider concerned, but will often include your name, e-mail address, friends list, profile picture as well as other information you choose to make public.
 
-We will use the information we receive only for the purposes that are described in this  privacy policy or that are otherwise made clear to you on the  . Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
+We will use the information we receive only for the purposes that are described in this  privacy policy or that are otherwise made clear to you on the service. Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
   
 
@@ -108,7 +108,7 @@ If you are a resident in the European Economic Area, then these countries may no
 
 **_In Short:_** _We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our websites._
 
-The  may contain advertisements from third parties that are not affiliated with us and which may link to other websites, online services or mobile applications. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this  privacy policy. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the  . You should review the policies of such third parties and contact them directly to respond to your questions.
+The services may contain advertisements from third parties that are not affiliated with us and which may link to other websites, online services or mobile applications. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this  privacy policy. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the services. You should review the policies of such third parties and contact them directly to respond to your questions.
 
   
 
@@ -142,7 +142,7 @@ If you would at any time like to review or change the information in your accoun
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.
 
-**Opting out of email marketing:** You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may:
+**Opting out of email marketing:** You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list however, we will still need to send you service-related emails that are necessary for the administration and use of your account. 
 
   
 
