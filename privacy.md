@@ -32,9 +32,9 @@ All personal information that you provide to us must be true, complete and accur
 
 **_In Short:_** _Some information such as IP address and/or browser and device characteristics is collected automatically when you visit our website or use mobile application._
 
-We automatically collect certain information when you visit, use or navigate the website or use mobile application. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our services and other technical information. This information is primarily needed to maintain the security and operation of our services, and for our internal analytics and reporting purposes.
+We automatically collect certain information when you visit, use or navigate the website or use mobile application. This information may include your specific identity (like your name or contact information) and may also include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our services and other technical information. This information is primarily needed to maintain the security and operation of our services, and for our internal analytics and reporting purposes.
 
-Like many businesses, we also collect information through cookies and similar technologies.
+We also collect information through cookies and similar technologies.
 
   
 
