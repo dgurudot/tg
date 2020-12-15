@@ -8,7 +8,7 @@ Thank you for choosing to be part of our community at  TradeGrub  ("**Company**"
 
 When you visit our app and use our services, you trust us with your personal information. We take your privacy very seriously. In this  privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this  privacy policy that you do not agree with, please discontinue use of our app and our services.
 
-This  privacy policy applies to all information collected through our app and/or any related services, app, website, sales, marketing or events (we refer to them collectively in this  privacy policy as the "**Services**").
+This  privacy policy applies to all information collected through our app and/or any related services, app, website, sales, marketing or events (we refer to them collectively in this  privacy policy as the "**Services**"). Remember that your use of TradeGrub’s Services is at all times subject to our Terms of Use, which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Use.
 
 **Please read this  privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.**
 
@@ -28,6 +28,19 @@ The personal information that we collect depends on the context of your interact
 
 All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
+Personal Data You Provide to Us:
+
+We receive and store any information you provide to us. For example, through the registration process and/or through your account settings, we may collect Personal Data such as the following:
+	• First and last name
+	• Email address
+	• Telephone number
+	• Information related to stocks and assets you engage with through the Services (such as stocks on your watch list) (“Stock Tracking Information”)
+	• Financial or payment information
+	• Anything you upload, post or choose to share (for example, comments and posts you submit publicly, photographs you upload, etc.), which can include Personal Data if you include Personal Data in such content
+	
+Please note that certain information may be required to register with us or to take advantage of some of our features.
+
+
 **Information automatically collected**
 
 **_In Short:_** _Some information such as IP address and/or browser and device characteristics is collected automatically when you visit our website or use mobile application._
@@ -36,7 +49,19 @@ We automatically collect certain information when you visit, use or navigate the
 
 We also collect information through cookies and similar technologies.
 
-  
+Information Collected Automatically:
+Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser or device, which may include the following:
+	• IP address
+	• Device identifiers and information
+	• Web browser information
+	• Page view statistics
+	• Browsing history
+	• Usage information
+	• Transaction information (e.g. transaction amount, date and time such transaction occurred)
+	• Cookies and certain other tracking technologies
+	• Location information (e.g. IP address, zip code), including geolocation/GPS data
+	• Log data (e.g. access times, hardware and software information)
+
 
 **2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?**
 
@@ -174,7 +199,9 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
 **_In Short:_** _Yes, we will update this policy as necessary to stay compliant with relevant laws._
 
-We may update this  privacy policy from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this  privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this  privacy policy frequently to be informed of how we are protecting your information.
+We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to material changes by prominently placing a notice on the website, by sending you an email, and/or by some other means.
+
+The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. We encourage you to review this  privacy policy frequently to be informed of how we are protecting your information.
 
   
 
