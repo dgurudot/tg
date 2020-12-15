@@ -1,6 +1,6 @@
 **PRIVACY POLICY**
 
-**Last updated  11/01/2020**
+**Last updated  12/15/2020**
 
   
 
@@ -150,9 +150,17 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this  privacy policy.
 
-  
 
-**11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+**11. COOKIES AND OTHER TRACKING TECHNOLOGIES**
+Web Cookies
+
+A “Web Cookie” is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the site. We use Web Cookies to track the pages that users visit during each Site session, both to help us improve users’ experiences and to help us understand how the Site is being used. As with other non-Personal Information gathered from users of the Site, we analyze and disclose in aggregated form information gathered using Web Cookies, in order to help us, our partners and others better understand how the Site is being used. We do not attempt to link information gathered using Web Cookies to Personal Information. USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
+
+Web Beacons
+
+A “Web Beacon” is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page or an email. We may use Web Beacons on the Site and in emails to count users who have visited particular pages, viewed emails, and to deliver co-branded services. Web Beacons are not used to access users’ Personal Information; they are a technique we may use to compile aggregated statistics about Site usage. Web Beacons collect only a limited set of information including a Web Cookie number, time and date of a page or email view, and a description of the page or email on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all Web Cookies or modifying your browser setting to notify you each time a Web Cookie is tendered and permit you to accept or decline Web Cookies on an individual basis.
+
+**12. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
 
 **_In Short:_** _Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information._
 
@@ -160,9 +168,9 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 If you are under 18 years of age, reside in California, and have a registered account with the TradeGrub, you have the right to request removal of unwanted data that you publicly post on the site. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the site, but please be aware that the data may not be completely or comprehensively removed from our systems.
 
-  
 
-**12. DO WE MAKE UPDATES TO THIS POLICY?**
+
+**13. DO WE MAKE UPDATES TO THIS POLICY?**
 
 **_In Short:_** _Yes, we will update this policy as necessary to stay compliant with relevant laws._
 
@@ -170,11 +178,11 @@ We may update this  privacy policy from time to time. The updated version will b
 
   
 
-**13. HOW CAN YOU CONTACT US ABOUT THIS POLICY?**
+**14. HOW CAN YOU CONTACT US ABOUT THIS POLICY?**
 
 If you have questions or comments about this policy, you may  email us at  privacy@tradegrub.com
 
   
-**14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
+**15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
 Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please send us an email at privacy@tradegrub.com. We will respond to your request within 30 days.
