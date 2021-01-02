@@ -6,7 +6,7 @@
  - Step 5: Set the "Secret Key" and "API Key ID" in TradeGrub app for your Alpaca account for paper trading
 
 # Known Limitations for Alpaca Account
-	- Extended hours are not supported.
-	- Number of symbols are limited to 30.
-	- Net Change and Volume information not available. Position cards would not show Red or Green color.
-	- Account activity is not available. Orders and Positions are not updated immediately after completion on Pro Order screen.
+ - Extended hours are not supported.
+ - Number of symbols are limited to 30.
+ - Net Change and Volume information not available. Position cards would not show Red or Green color.
+ - Account activity is not available. Orders and Positions are not updated immediately after completion on Pro Order screen.
