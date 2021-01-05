@@ -1,6 +1,6 @@
 **TERMS OF USE**
 
-Last updated  12/15/2020
+Last updated  01/05/2020
 
 **1. AGREEMENT TO TERMS**
 
@@ -304,4 +304,4 @@ terms@tradegrub.com
 
 All Information available through TradeGrub is the property of TradeGrub LLC or its Information Providers and is protected by copyright and intellectual property laws. All rights reserved.
 
-All product & company names and marks mentioned to display quick links or equity information are the property of their respective owners and are mentioned for identification purposes only.
+All product & company names and marks mentioned to display quick links or equity information are the property of their respective owners and are mentioned for identification purposes only. Use of any names of third parties on Site is for identification purposes only and does not imply, nor is intended to imply, any affiliation, endorsement, or business relationship with any third-party or specific brokerage.
