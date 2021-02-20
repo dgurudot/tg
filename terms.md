@@ -1,6 +1,6 @@
 **TERMS OF USE**
 
-Last updated  01/05/2021
+Last updated  02/20/2021
 
 **1. AGREEMENT TO TERMS**
 
