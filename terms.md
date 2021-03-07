@@ -1,6 +1,6 @@
 **TERMS OF USE**
 
-Last updated  02/20/2021
+Last updated  03/07/2021
 
 **1. AGREEMENT TO TERMS**
 
@@ -176,6 +176,8 @@ If we terminate or suspend your account for any reason, you are prohibited from 
 We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Site. We also reserve the right to modify or discontinue all or part of the Site without notice at any time. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Site.
 
 We cannot guarantee the Site will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Site, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Site at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site during any downtime or discontinuance of the Site. Nothing in these Terms of Use will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection therewith.
+
+System response and account access time may vary due to a variety of factors, including trading volume, overall market conditions, overall system performance and several other factors. Kindly keep your specific brokerage application familariaty and access handy as well to execute the transactions in rare case application doesn't perform at particular moment.
 
 **19. GOVERNING LAW**
 
