@@ -1,6 +1,6 @@
 **TERMS OF USE**
 
-Last updated  03/07/2021
+Last updated  04/06/2021
 
 **1. AGREEMENT TO TERMS**
 
@@ -273,10 +273,10 @@ You should know that the use or granting of any third party access to your accou
 
 The information transmitted is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. Any review, retransmission, dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you have received this communication in error, please destroy all electronic and paper copies and notify the sender immediately. This message cannot be guaranteed to be secure or error-free. TradeGrub reserves the right, to the extent required and/or permitted under applicable law, to monitor electronic communications.
 
-### Broker Link
+### Brokerage Link
 -   TradeGrub LLC is not a registered broker-dealer and does not endorse or recommend the services of any brokerage company. TradeGrub LLC is not affiliated with any specific broker and we are broker neutral trading platform.   TradeGrub LLC simply provides the broker connectivity for easy and convenient trading across your brokerage accounts from a single easy to use application. All trading is executed directly on your respective brokerage platform and  must follow your respective brokerage policies and procedures.
 
--   TradeGrub LLC accepts no liability and will in no way ever be held liable for any direct or consequential losses resulting from data inaccuracies, platform or broker outages or interruptions of any kind. Kindly keep your brokerage app handy in case you have to execute any trades directly on brokerage and also confirm any data.
+-   TradeGrub LLC accepts no liability and will in no way ever be held liable for any direct or consequential losses resulting from data inaccuracies, platform or broker outages or interruptions of any kind. Kindly keep your brokerage app handy in case you have to execute any trades directly on brokerage and also confirm/ double check any data.
 
 -   TradeGrub LLC platform provides delayed quote where your respective broker or selected data source is not providing real-time quotes. Kindly do paper trading and get comfortable with all aspects of trading before you invest with real money. Kindly note that trading profits or losses in paper account may or may not directly translate to real money account due to various factors like emotions, trade fills and market conditions.
 
@@ -291,6 +291,10 @@ You agree to defend, indemnify, and hold us harmless, including our subsidiaries
 **25. USER DATA**
 
 We will maintain certain data that you transmit to the Site for the purpose of managing the performance of the Site, as well as data relating to your use of the Site. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Site. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
+
+### Data
+-   TradeGrub LLC does provide data feed for quotes, news, account activity from your respective brokers where it is provided. You are governed by the broker data feed terms of service for using the data feed. You will be required to sign and agree to your respective broker terms of service for using real time data feed.
+-   TradeGrub LLC also use data feed from IEX and “Data provided by IEX Cloud” https://iexcloud.io for default delayed quotes, news, company information and other fundamental and technical data.
 
 **26. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES**
 
