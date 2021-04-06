@@ -296,6 +296,7 @@ We will maintain certain data that you transmit to the Site for the purpose of m
 -   TradeGrub LLC does provide data feed for quotes, news, account activity from your respective brokers where it is provided. You are governed by the broker data feed terms of service for using the data feed. You will be required to sign and agree to your respective broker terms of service for using real time data feed.
 -   TradeGrub LLC also use data feed from IEX and “Data provided by IEX Cloud” https://iexcloud.io for default delayed quotes, news, company information and other fundamental and technical data.
 
+
 **26. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES**
 
 Visiting the Site, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SITE. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
