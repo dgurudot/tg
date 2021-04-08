@@ -1,6 +1,6 @@
 **TERMS OF USE**
 
-Last updated  04/06/2021
+Last updated  04/08/2021
 
 **1. AGREEMENT TO TERMS**
 
@@ -279,6 +279,9 @@ The information transmitted is intended only for the person or entity to which i
 -   TradeGrub LLC accepts no liability and will in no way ever be held liable for any direct or consequential losses resulting from data inaccuracies, platform or broker outages or interruptions of any kind. Kindly keep your brokerage app handy in case you have to execute any trades directly on brokerage and also confirm/ double check any data.
 
 -   TradeGrub LLC platform provides delayed quote where your respective broker or selected data source is not providing real-time quotes. Kindly do paper trading and get comfortable with all aspects of trading before you invest with real money. Kindly note that trading profits or losses in paper account may or may not directly translate to real money account due to various factors like emotions, trade fills and market conditions.
+
+-   TradeGrub LLC enable customers to trade directly on specific broker account from TradeGrub interface. TradeGrub connects to brokerages, subscription and free datafeeds for market data. You can get real-time market data feed from specific brokers based on licensing terms and data source. You also have an option to select specific subscription based real time data feed. TradeGrub provides broker connectivity as a convenience functionality to end customer. You can choose to use your specific brokerage apps and platform directly as well. TradeGrub LLC is not affiliated with any of the third-party providers and not responsible for any aspect of the third-party content, including its accuracy and availability. Use of any specific names of third parties is simply for identification purposes only and does not imply, nor is intended to imply, any affiliation, endorsement, or business relationship with any third-party online brokers.
+
 
 **23. LIMITATIONS OF LIABILITY**
 
