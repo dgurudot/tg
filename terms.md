@@ -33,7 +33,9 @@ The Site is intended for users who are at least 18 years old. Persons under the 
     
 4.  You may not reproduce, retransmit, disseminate, sell, publish, broadcast, nor shall the Information be used in connection with creating, promoting, trading, marketing Investment Products without the express written consent of TradeGrub LLC or its Information Providers. You are only entitled to use the Information it contains for single person private, non-commercial use only.
     
-## Copyright © 2020 TradeGrub LLC. All rights reserved. No part of this publication and information provided via TradeGrub app may be reproduced, stored in a retrieval system, used in spreadsheet or document, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording or otherwise - without written permission from TradeGrub LLC.
+## Copyright © 2021 TradeGrub LLC. All rights reserved. 
+
+No part of this publication and information provided via TradeGrub app may be reproduced, stored in a retrieval system, used in spreadsheet or document, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording or otherwise - without written permission from TradeGrub LLC.
 
 **3. INTELLECTUAL PROPERTY RIGHTS**
 
