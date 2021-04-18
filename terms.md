@@ -324,4 +324,5 @@ terms@tradegrub.com
 
 All Information available through TradeGrub is the property of TradeGrub LLC or its Information Providers and is protected by copyright and intellectual property laws. All rights reserved.
 
-All product & company names and marks mentioned to display quick links or equity information are the property of their respective owners and are mentioned for identification purposes only. Use of any names of third parties on Site is for identification purposes only and does not imply, nor is intended to imply, any affiliation, endorsement, or business relationship with any third-party or specific brokerage.
+All product & company names and marks mentioned to display quick links or equity information are trademarks™ or registered® trademarks of their respective holders and are mentioned for identification purposes only. Use of any names of third parties on Site is for identification purposes only and does not imply, nor is intended to imply, any affiliation, endorsement, or business relationship with any third-party or specific brokerage.
+
