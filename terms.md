@@ -301,13 +301,16 @@ We will maintain certain data that you transmit to the Site for the purpose of m
 -   TradeGrub LLC does provide data feed for quotes, news, account activity from your respective brokers where it is provided. You are governed by the broker data feed terms of service for using the data feed. You will be required to sign and agree to your respective broker terms of service for using real time data feed.
 -   TradeGrub LLC also use data feed from IEX and “Data provided by IEX Cloud” https://iexcloud.io for default delayed quotes, news, company information and other fundamental and technical data.
 
+
 **26. NO OTHER RIGHTS**
 
 No other rights or licenses are granted to user under this terms and this terms does not grant user any right to resell or otherwise distribute any TradeGrub LLC product, nor any right to use any TradeGrub trademark, nor any right to provide any services related to any TradeGrub product. 
 
+
 **27. NO WARRANTY**
 
 TradeGrub makes no warranties and representations, and expressly disclaims all warranties and representations, express or implied, including any implied warranties of fitness for a particular purpose, merchantability or otherwise with respect to this terms.
+
 
 **28. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES**
 
