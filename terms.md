@@ -237,11 +237,11 @@ THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE
 
 8. Neither TradeGrub LLC nor its information providers make any representations about the suitability of the information, software, products, or services contained in "tradegrub.com". All such information, software, products, and services are provided "as is" without warranty of any kind.
 
-## Nature of Service
+Nature of Service
 
 TradeGrub contains statements and statistics that have been obtained from sources believed to be reliable but are not guaranteed as to accuracy or completeness. References and information related to any specific securities do not constitute an offer to buy or sell securities. These trades are one hundred percent unbiased and TradeGrub LLC is never compensated for them. 
     
-### No Personalized Advice
+No Personalized Advice
 
 -   We want to help you make money. However, TradeGrub is not in the business of rendering personalized investment advice. We can't know all the relevant facts about you and your individual needs, and we cannot claim or represent that any particular Services are suitable for you. Accordingly, you agree that any recommendation or action taken by a Service does not constitute a recommendation that a particular security, strategy, or action is suitable for you. If you want personal advice, then you should seek a registered investment advisor.
     
@@ -303,10 +303,12 @@ We will maintain certain data that you transmit to the Site for the purpose of m
 
 
 **26. NO OTHER RIGHTS**
+
 No other rights or licenses are granted to user under this terms and this terms does not grant user any right to resell or otherwise distribute any TradeGrub LLC product, nor any right to use any TradeGrub trademark, nor any right to provide any services related to any TradeGrub product. 
 
 
 **27. NO WARRANTY**
+
 TradeGrub makes no warranties and representations, and expressly disclaims all warranties and representations, express or implied, including any implied warranties of fitness for a particular purpose, merchantability or otherwise with respect to this terms.
 
 
