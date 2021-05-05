@@ -1,6 +1,6 @@
 **TERMS OF USE**
 
-Last updated  04/08/2021
+Last updated  05/05/2021
 
 **1. AGREEMENT TO TERMS**
 
@@ -65,7 +65,7 @@ We accept the following forms of payment:
 
 - Discover
 
-You may be required to purchase or pay a fee to access some of our services. You agree to provide current, complete, and accurate purchase and account information for all purchases made via the Site. You further agree to promptly update account and payment information, including name, email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. We bill you through an online billing account for purchases made via the Site. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time. All payments shall be in U.S. dollars.
+You may be required to purchase or pay a fee to access some of our services. You agree to provide current, complete, and accurate purchase and account information for all purchases made via the Site. You further agree to promptly update account and payment information, including name, email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. We bill you through an online billing account for purchases made via the Site. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time and all pricing is in TradeGrub's sole discretion. All payments shall be in U.S. dollars.
 
 You agree to pay all charges or fees at the prices then in effect for your purchases, and you authorize us to charge your chosen payment provider for any such amounts upon making your purchase. If your purchase is subject to recurring charges, then you consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge, until you notify us of your cancellation.
 
@@ -302,16 +302,24 @@ We will maintain certain data that you transmit to the Site for the purpose of m
 -   TradeGrub LLC also use data feed from IEX and “Data provided by IEX Cloud” https://iexcloud.io for default delayed quotes, news, company information and other fundamental and technical data.
 
 
-**26. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES**
+**26. NO OTHER RIGHTS**
+No other rights or licenses are granted to user under this terms and this terms does not grant user any right to resell or otherwise distribute any TradeGrub LLC product, nor any right to use any TradeGrub trademark, nor any right to provide any services related to any TradeGrub product. 
+
+
+**27. NO WARRANTY**
+TradeGrub makes no warranties and representations, and expressly disclaims all warranties and representations, express or implied, including any implied warranties of fitness for a particular purpose, merchantability or otherwise with respect to this terms.
+
+
+**28. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES**
 
 Visiting the Site, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SITE. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
 
 
-**27. MISCELLANEOUS**
+**29. MISCELLANEOUS**
 
 These Terms of Use and any policies or operating rules posted by us on the Site or in respect to the Site constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms of Use shall not operate as a waiver of such right or provision. These Terms of Use operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Terms of Use is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Use and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of Use or use of the Site. You agree that these Terms of Use will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.
 
-**28. CONTACT US**
+**30. CONTACT US**
 
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at:
 
