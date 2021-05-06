@@ -275,6 +275,10 @@ You should know that the use or granting of any third party access to your accou
 
 The information transmitted is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. Any review, retransmission, dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you have received this communication in error, please destroy all electronic and paper copies and notify the sender immediately. This message cannot be guaranteed to be secure or error-free. TradeGrub reserves the right, to the extent required and/or permitted under applicable law, to monitor electronic communications.
 
+### No Offers or Solicitations
+
+Nothing in this Agreement or in the TradeGrub website constitutes an offer or a solicitation for the purchase or sale of any security to any person or entity. All purchases and sales of securities must be made, and Licensee agrees will be made, through a registered securities broker-dealer of Licensee's choosing and subject to the terms and conditions of Licensee's agreement with the specific broker-dealer.
+
 ### Brokerage Link
 -   TradeGrub LLC is not a registered broker-dealer and does not endorse or recommend the services of any brokerage company. TradeGrub LLC is not affiliated with any specific broker and we are broker neutral trading platform.   TradeGrub LLC simply provides the broker connectivity for easy and convenient trading across your brokerage accounts from a single easy to use application. All trading is executed directly on your respective brokerage platform and  must follow your respective brokerage policies and procedures.
 
@@ -304,12 +308,19 @@ We will maintain certain data that you transmit to the Site for the purpose of m
 
 **26. NO OTHER RIGHTS**
 
-No other rights or licenses are granted to user under this terms and this terms does not grant user any right to resell or otherwise distribute any TradeGrub LLC product, nor any right to use any TradeGrub trademark, nor any right to provide any services related to any TradeGrub product. 
+No other rights or licenses are granted to user under this terms and this terms does not grant user any right to resell or otherwise distribute any TradeGrub LLC product, nor any right to use any TradeGrub trademark, nor any right to provide any services related to any TradeGrub product.
+
+
+**26. INFORMATION** 
+
+Information provided through the Software, including through any other links within the Software ("Information") has been independently obtained by third parties, various securities markets, such as stock exchanges and their affiliates, and through other outside sources. The accuracy, completeness, timeliness or correct sequencing of the Information is not guaranteed by Licensor, the third parties or any parties transmitting the information. There may be delays, omissions or inaccuracies in the Information. The Information is not to be construed as an endorsement, recommendation, investment advice or an offer or solicitation to buy or sell securities of any kind but solely as a resource to Licensee.
 
 
 **27. NO WARRANTY**
 
 TradeGrub makes no warranties and representations, and expressly disclaims all warranties and representations, express or implied, including any implied warranties of fitness for a particular purpose, merchantability or otherwise with respect to this terms.
+
+Licensor hereby disclaims, and licensee hereby waives all representations and warranties, including but limited to the warranty of merchantability, the warranty of fitness for a particular use, warranty against interference with enjoyment of the information or against infringement, and any and all other warranties of any kind, express or implied, regarding the information or any aspect of the software. The software is provided on an as is, as available basis, with all faults, and the entire risk as to satisfactory quality, performance and effort is with the licensee.
 
 
 **28. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES**
