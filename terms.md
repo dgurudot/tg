@@ -303,7 +303,7 @@ We will maintain certain data that you transmit to the Site for the purpose of m
 
 ### Data
 -   TradeGrub LLC does provide data feed for quotes, news, account activity from your respective brokers where it is provided. You are governed by the broker data feed terms of service for using the data feed. You will be required to sign and agree to your respective broker terms of service for using real time data feed.
--   TradeGrub LLC also use data feed from IEX and “Data provided by IEX Cloud” https://iexcloud.io for default delayed quotes, news, company information and other fundamental and technical data.
+-   TradeGrub LLC also use data feed from IEX and “Data provided by IEX Cloud” https://iexcloud.io for default delayed quotes, news, company information and other fundamental and technical data. We also use data for certain features that is real-time data from only 5 top US stock exchanges, that's formidable market coverage and 99.95% price accuracy – without the costly exchange fees typically associated with real-time market data streams.
 
 
 **26. NO OTHER RIGHTS**
