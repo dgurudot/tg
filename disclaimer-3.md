@@ -1,4 +1,4 @@
-## Do you accept that this is NOT legal, financial or tax advice ?
+## You accept that this is NOT legal, financial or tax advice
 	
 - Any information or use of information from TradeGrub should not be considered legal or financial advice. You should consult with an attorney or other professional to determine what may be best for your individual needs.
 TradeGrub is not intended to be trading or investment advice. Always do your own due diligence using multiple sources of information and/or seek the advice of a licensed professional before trading or investing.
