@@ -1,4 +1,4 @@
-## Do you accept that information provided by TradeGrub LLC is for single person personal and non-commercial use only ?
+## You accept that information provided by TradeGrub LLC is for single person personal and non-commercial use only
 
 - You MUST not be associated (friends, family, employee, colleague) with a commercial organization providing similar services and using this information for any commercial purposes and non private purpose.
 - Information provided by TradeGrub LLC app and other modes of communication by TradeGrub LLC is strictly for your personal consumption only. You MUST not share this with friends, family, colleagues in any form or a modification, subset and derivative of these notes. You cannot reference this information in any possible way except strictly for single person personal use.
