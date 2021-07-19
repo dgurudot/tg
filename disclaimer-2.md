@@ -1,4 +1,4 @@
-## Do you accept the risks involved with trading stocks ?
+## You accept the risks involved with trading stocks
 
 - Trading has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in stocks. Don't trade with money you can't afford to lose. This is neither a solicitation nor an offer to Buy/Sell stocks. No representation is being made that any account will or is likely to achieve profits or losses similar to those discussed on this app or on any reports. The past performance of any trading system, methodology, strategy, or results is not necessarily indicative of future results.
 - Trading is a high risk activity and can result in the loss of your entire investment. Any trade or investment is at your own risk.
