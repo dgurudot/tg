@@ -1,6 +1,6 @@
 **TERMS OF USE**
 
-Last updated  07/19/2021
+Last updated  09/10/2021
 
 **1. AGREEMENT TO TERMS**
 
@@ -21,6 +21,13 @@ We will alert you about any changes by updating the "Last updated" date of these
 
 The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
 
+By agreeing to these Terms of Service, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to use this site.
+You may not use our products for any illegal or unauthorized purpose nor may you, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).
+You must not transmit any worms or viruses or any code of a destructive nature.
+A breach or violation of any of the Terms will result in an immediate termination of your Services.
+
+We reserve the right to refuse service to anyone for any reason at any time.
+
 The Site is intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Site.
 
 **2. CONFIDENTIALITY**
@@ -29,8 +36,8 @@ The Site is intended for users who are at least 18 years old. Persons under the 
     
 2.  Information provided by TradeGrub app and other modes of communication by TradeGrub is strictly for your personal consumption only. You MUST not share this with friends, family, colleagues in any form or a modification, subset and derivative of these notes. You cannot reference this information in any possible way except strictly for single person personal use.
     
-3.  Copying, sharing, saving or transmitting this information in any form (digital or manual) to another individual is strictly prohibited.
-    
+3.  Copying, sharing, saving or transmitting this information in any form (digital or manual) to another individual is strictly prohibited. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service or any contact on the site through which the service is provided, without express written permission by us.
+
 4.  You may not reproduce, retransmit, disseminate, sell, publish, broadcast, nor shall the Information be used in connection with creating, promoting, trading, marketing Investment Products without the express written consent of TradeGrub LLC or its Information Providers. You are only entitled to use the Information it contains for single person private, non-commercial use only.
     
 ## Copyright © 2021 TradeGrub LLC. All rights reserved. 
@@ -96,6 +103,8 @@ As a user of the Site, you agree not to:
 4. Copy or adapt the Site's software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
 
 5. Use the Site in a manner inconsistent with any applicable laws or regulations.
+
+In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the site or its content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet; (l) forge headers or otherwise manipulate identifiers in order to disguise the origin of any information transmitted through the Services; (m) “frame” or “mirror” any part of the Services, without our prior written authorization or use meta tags or code or other devices containing any reference to us in order to direct any person to any other service or Web site for any purpose; (n) modify, adapt, translate, reverse engineer, decipher, decompile, separate, or otherwise disassemble any portion of the Services or any software used on or for the Services; or (o) to interfere with or circumvent the security features of the Services. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.
 
 **10. USER GENERATED CONTRIBUTIONS**
 
