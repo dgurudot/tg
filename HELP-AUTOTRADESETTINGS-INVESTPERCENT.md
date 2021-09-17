@@ -1,9 +1,11 @@
 # Quantity Percent Per Trade
 
 
+
 ## Purpose: 
 
 ### This setting defines the percentage of quantity to be purchased compared to normal quantity for trade.
+
 
 ## Example: 
 
