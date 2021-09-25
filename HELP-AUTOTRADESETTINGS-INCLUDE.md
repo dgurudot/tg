@@ -1,8 +1,14 @@
 # Include Symbols
 
-You can choose which specific symbols you would like to be included for autotrades.
-The list of symbols can be provided via a comma separated symbols. Example:
+## Purpose:
 
-AAPL,TSLA,FB
+### You can choose which specific symbols you would like to be included for autotrades.
+The list of symbols can be provided via a comma separated symbols.
+Default: Includes all symbols, unless you provide an explicit list with only symbols to be included for autotrade.
 
-Default: Include all symbols unless you provide an explicit list only to be included for autotrade.
+
+## Example:
+
+### AAPL,TSLA,FB
+
+
