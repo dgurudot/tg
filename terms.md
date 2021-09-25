@@ -246,6 +246,8 @@ The site is provided on an as-is and as-available basis. You agree that your use
 
 8. Neither TradeGrub LLC nor its information providers make any representations about the suitability of the information, software, products, or services contained in "tradegrub.com". All such information, software, products, and services are provided "as is" without warranty of any kind.
 
+9. Kindly note that trading is not a quick rich method or gambling. In order to consistently make profits in market and do appropriate risk management, we provide resources for investor education, strategy learning, risk free paper trading, all sorts of tools for investors to do research from multiple independent sources and also provide easily digestible information to make informed trading decisions.
+
 ### Nature of Service
 
 TradeGrub contains statements and statistics that have been obtained from sources believed to be reliable but are not guaranteed as to accuracy or completeness. References and information related to any specific securities do not constitute an offer to buy or sell securities. These trades are one hundred percent unbiased and TradeGrub LLC is never compensated for them. 
