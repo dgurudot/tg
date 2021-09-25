@@ -7,4 +7,4 @@ You have full control of autotrades by using the appropriate settings
 - You can determine the % of investment to be used for single symbol.
 - You can also keep your risk tolerance stop loss % and adjust market retry count from default.
 
-You can view our full list of [Disclaimer](https://tradegrub.com/disclaimer) and [Terms](https://tradegrub.com/terms) via App Support or www.tradegrub.com as well. 
+You can view our full list of [Terms](https://tradegrub.com/terms) via App Support or www.tradegrub.com as well. 
