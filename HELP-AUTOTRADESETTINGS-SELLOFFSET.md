@@ -5,7 +5,7 @@
 ### This setting allows you to adjust the sell price by fixed offset. Sell offset will be subtracted to selected sell price (Bid or Ask or Mark).
 
 Trade will be placed initally at Sell price received in signal. 
-If it doesn't get executed within 5 seconds, then retry attempt will sell at sell price (could be Ask, Bid or Mark depending on setting) minus offset (default is 0.05). 
+If it doesn't get executed within 5 seconds, then retry attempt will sell at sell price (Could be Ask, Bid or Mark. Default = Bid) minus offset (default is 0.05). 
 
 Example:
 
