@@ -7,6 +7,6 @@
 - Specific settings are given below for reference:
 
 - **Separate Symbols by a Comma** - Allows you to create a list of symbols and display would only show records matching those symbols. Example: AAPL, TSLA, FB
-- **Type of Transaction (Sell, Buy, Int, Div, Wid, Dep, Other)** - Applicable for transactions only. It will allow you to display transactions of type Buy, Sell, Interest, Dividend, Withdrawal, Depost and any other type of transactions.
-- **Days (14, 30, 60, All)** - Applicable for transactions and Gains only. Allows you to load transactions of last 14, 30, 60 or All days.
-- **Date Range** - Applicable for transactions and Gains only. Allows you to select date ranges to show specific transactions.
+- **Type of Transaction (Sell, Buy, Int, Div, Wid, Dep, Other)** - Applicable for Transactions only. It will allow you to display transactions of type Buy, Sell, Interest, Dividend, Withdrawal, Deposit and any other type of transactions.
+- **Days (14, 30, 60, All)** - Applicable for Transactions and Gains only. Allows you to load transactions of last 14, 30, 60 or All days.
+- **Date Range** - Applicable for Transactions and Gains only. Allows you to select date ranges to show specific transactions.
