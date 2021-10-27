@@ -1,6 +1,5 @@
 # Pro Orders Widgets ReOrder
 
-## Purpose:
 
 - You can choose to select position of specific widget relative to other widgets in layout.
 - You can also rename the title of widget from default.
