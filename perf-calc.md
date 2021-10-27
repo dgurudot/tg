@@ -1,4 +1,4 @@
-# How we compute past performance
+# How we compute performance
  - Gain % reflect the profit range for specific trade. It also shows the profit target acheived by green color.
  - Trade is "closed" when we don't recommend any additional buys for stock and we are in sell zone. You can continue to hold in sell zone for swing and long trades.
  - Minimum captured profit is from B1 (First Buy Price) to S1 (First Sell Target) price that we reached.
