@@ -1,6 +1,5 @@
 # Dashboard Report
 
-## Purpose:  
 
 - Allows you to export your positions, transactions, gains in CSV format. It will export what is visible in those tables based on filters and reorder settings.
 - Allows you to export your insights, performance, stats in PDF format. It will export what is visible in those screens based on filters and reorder settings.
