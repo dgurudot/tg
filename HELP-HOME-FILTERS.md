@@ -1,8 +1,6 @@
 # Positions, Transactions, Gains Filters  
 
 
-## Purpose: 
-
 - This setting allows you to filter and view specific items only on screen.  It is context sensitive filter button so depending on selected table, filter settings would change.
 - Specific settings are given below for reference:
 
