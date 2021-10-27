@@ -1,6 +1,4 @@
 # Orders Settings
-
-## Purpose:
  
 ### Default parameters for placing orders quickly while placing orders outside of trades. Various settings are given below for reference:
 
