@@ -5,7 +5,7 @@
 -  **Auto Refresh** : Fetches Orders periodically for brokers that don't support real-time activity feed.
 -  **Delete** : Delete a specific account
 -  **Relogin** : Allows you to relogin and refresh account. Required for certain account types every 90 days.
--  **Set Default Account** : Sets specific account as default for orders, positions, dashboard.
+-  **Set Default Account** : Sets specific account as default for orders, positions, dashboard.  **One account MUST be set as default.**
 -  **Set Data Source** : Allows to select real-time data source. You can select specific broker account if that supports real-time data or another data source.
--  **Set Name** : Allows to set a name for account. Max length: 8 
+-  **Set Name** : Allows to set a name for account. Max length: 6
 -  **Toggle Read Only** : Enables trading lock and stops placing orders from TradeGrub.
