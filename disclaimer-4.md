@@ -7,4 +7,4 @@
 - TradeGrub LLC nor any of its directors, officers, investors, advisor, or any affiliates in no way warrants the solvency, financial condition, or investment advisability of any of the securities mentioned in communications or websites. 
 - In addition, TradeGrub LLC nor any of its directors, officers, investors, advisor, or any affiliates accepts no liability whatsoever for any direct or consequential loss arising from any use of this information. This information is not intended to be used as the sole basis of any investment decision, nor should it be construed as advice designed to meet the investment needs of any particular investor. Past performance is not necessarily indicative of future returns.
 	
-By using this app, you agree to the disclaimer and release all liability in any losses which may occur.
+By using TradeGrub platform, you agree to the disclaimer and release all liability in any losses which may occur.
