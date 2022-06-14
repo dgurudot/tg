@@ -6,5 +6,6 @@
 - No adult content, name calling, racial, personal attacks, flaming, profanity, vulgarity or degrading content allowed
 - Be kind, respectful and courteous and respect rights and opinions of others
 - Be professional and helpful
-- Do your own research and do not take advice/discussions from community to make financial decisions.
+- Do your own research and do not take advice/discussions from community to make financial decisions
 - Do NOT mirror trades and always have your own trading plan
+- Focus: Discuss stocks and markets only. Avoid hello, hi and good morning messages.
