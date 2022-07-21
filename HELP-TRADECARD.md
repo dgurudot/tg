@@ -1,5 +1,6 @@
 # Understanding Trades
 
+**Note:** Not an investment advice. For full list of disclaimers, please refer to [https://tradegrub.com/disclaimer](https://tradegrub.com/disclaimer)
 
 - **Buy** with levels B1, B2, B3. Green color indicates completed buy level.
 - **Sell** with levels S1, S2, S3. Green color indicates completed sell level.
