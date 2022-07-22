@@ -11,6 +11,6 @@
 - **Gain** - Indicates the range from sell done at S1 to S3
 - **Tag** - "D" is Day Trade, "S" is Swing Trade, "L" is Long Trade and displayed with unique color code
 - **Open** - Indicates time when trade was open
-- **Close** - Indicates time when trade was closed. Closed means that there are no additional buys for this symbol or you have already hit initial sell target. You *MUST* still use Stop price as indication to exit trade when it goes negative
+- **Close** - Indicates time when trade was closed. Closed means that there are no additional buys expected for this symbol or you have already hit initial sell target. You *MUST* still use Stop price as indication to exit trade when it goes negative
 - Amber color dot indicator next to symbol indicates active position for default account
 
