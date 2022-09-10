@@ -16,7 +16,7 @@ Buy and Sell orders can be limit or market orders can it can be selected from dr
 Stop orders allows you to select trailstop by switching from STD to TSTP. You MUST have only STOP order selected to allow switching to TSTP.
 
 TSTP order allows you select the trailstop offset by clicking on *STOP* buttom in Red color to update offset price from ATR to 3ATR or 6ATR.
-Kindly refer to Support article to completely undertand the how trailing stop works and purpose of ATR based trail offset.
+Kindly refer to Support -> FAQ to completely undertand how trailing stop works and purpose of ATR based trail offset and how to use it.
 
 - **Advanced Options** - Allows you to select order routing for certain brokers. For example: You could switch from SMART routing (default) to NASDAQ or ARCA.
 
