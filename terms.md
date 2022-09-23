@@ -78,6 +78,8 @@ You agree to pay all charges or fees at the prices then in effect for your purch
 
 We reserve the right to correct any errors or mistakes in pricing, even if we have already requested or received payment. We also reserve the right to refuse any order placed through the Site.
 
+All payments are securely processed by Stripe. View Stripe's [terms](https://stripe.com/legal/link-account-terms) and [privacy](https://stripe.com/privacy) policies.
+
 **7. CANCELLATION**
 
 All purchases are non-refundable. You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term.
