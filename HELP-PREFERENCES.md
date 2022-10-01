@@ -1,7 +1,7 @@
 # Preferences
   
   
-Update user preferences 
+Kindly use following options to update user preferences 
 - **Photo**: Can only be updated for Email based accounts. Click on camera button next to photo to update.
 - **Email**: Logged-in account Email address. Cannot be changed and used for support.
 - **Name, Phone**: Cannot be changed from application. Contact Support if you would like it to be updated.
