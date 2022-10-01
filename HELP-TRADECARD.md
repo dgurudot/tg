@@ -14,3 +14,8 @@
 - **Close** - Indicates time when trade was closed. Closed means that there are no additional buys expected for this symbol or you have already hit initial sell target. You *MUST* still use Stop price as indication to exit trade when it goes negative
 - Amber color dot indicator next to symbol indicates active position for default account
 
+- **Swipe Actions**:
+- Order (Swipe Right) - Allows you to order based on specific trade and order information pre-filled (and can be adjusted)
+- Set Alert (Swipe Left) - Allows you to set typical alerts for trade and information pre-filled (and can be adjusted). You must set alerts for each active positions and orders.
+- Updates (Swipe Left) - Allows you to view updates history for specific trades
+
