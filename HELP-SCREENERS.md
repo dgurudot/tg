@@ -1,6 +1,6 @@
 # Screeners
 
-Equity Market (US) is scanner every 5-15 mins for specific market cap range to filter the following:
+Equity Market is scanned every 5-15 mins for specific market cap range to filter the following:
   
 - **Gainers**: Top Gainers across market
 - **Losers**: Top Losers across market 
