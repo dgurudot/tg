@@ -1,7 +1,7 @@
-# Positions, Transactions, Gains Filters  
+# **Positions, Transactions, Gains Filters**
 
 
-- This setting allows you to filter and view specific items only on screen.  It is context sensitive filter button so depending on selected table, filter settings would change.
+- This setting allows you to **filter and view** specific items only on screen.  It is **context sensitive filter button** so depending on selected table (and tab), filter settings would change.
 - Specific settings are given below for reference:
 
 - **Separate Symbols by a Comma** - Allows you to create a list of symbols and display would only show records matching those symbols. Example: AAPL, TSLA, FB
