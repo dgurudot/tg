@@ -1,4 +1,4 @@
-# Buy Offset
+# **Buy Offset**
 
 ## Purpose: 
 
