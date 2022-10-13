@@ -1,4 +1,4 @@
-# Exclude Symbols
+# **Exclude Symbols**
 
 ## Purpose:
 
