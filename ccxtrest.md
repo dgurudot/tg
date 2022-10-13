@@ -1,4 +1,4 @@
-# **Instructions for getting keys for Crypto Account**
+# **Instructions for adding keys**
  - **Step 1:** Login to your exchange account. Using account menu, select option to go to 'API'. 
  - **Step 2:** Click on 'New API Key'. Refer to exchange doc on how to generate new API Key.
   **Note**: Keep separate API key for TradeGrub (if possible). You MUST provide view, trade permissions and transfer permissions are **NOT** needed.
