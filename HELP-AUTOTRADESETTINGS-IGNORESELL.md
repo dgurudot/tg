@@ -1,4 +1,4 @@
-# Ignore Sell Signal
+# **Ignore Sell Signal**
 
 
 - You can choose to ignore sell signal and can sell it manually via limit, market or trail orders.
