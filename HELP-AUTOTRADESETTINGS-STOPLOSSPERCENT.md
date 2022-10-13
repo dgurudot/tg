@@ -1,4 +1,4 @@
-# Stop Loss Percent
+# **Stop Loss Percent**
 
 ## Purpose: 
 
