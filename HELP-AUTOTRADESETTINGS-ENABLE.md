@@ -1,4 +1,4 @@
-# AutoTrades Settings
+# **AutoTrades Settings**
 
 - Enable AutoTrade on **single device only** using the AutoTrade enable checkbox. Enable AutoTrade is meant for only single device.
 - Kindly make sure that you have disabled screensavers, auto device lock to avoid app to be stopped due to device auto lock.
