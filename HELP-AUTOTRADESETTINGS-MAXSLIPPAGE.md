@@ -1,4 +1,4 @@
-# Max Slippage
+# **Max Slippage**
 
 ## Purpose: 
 
