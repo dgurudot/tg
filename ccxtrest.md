@@ -3,4 +3,4 @@
  - **Step 2:** Click on 'New API Key'. Refer to exchange doc on how to generate new API Key.
   **Note**: Keep separate API key for TradeGrub (if possible). Enable view, trade (**only if you want buy/sell**) permissions and transfer permissions are **NOT** needed.
  - **Step 3:** Securely save the API Key, Secret and Passphrase (optional and depends on certain exchanges).
- - **Step 4:** Add keys from Step 3 below. Your keys will be saved in secured manner and validated.
+ - **Step 4:** Add keys from Step 3 below. Your keys will be validated and **encrypted**.
