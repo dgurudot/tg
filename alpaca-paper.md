@@ -10,6 +10,6 @@
  - 1: Extended hours are not supported.
  - 2: Number of symbols are limited to 30.
  - 3: Net Change and Volume information not available. Position cards would not show Red or Green color.
- - 4: Account activity is not available. Orders and Positions are not updated immediately after completion on Pro Order screen.
+ - 4: Account activity is not available. Orders and Positions are not updated immediately after completion on Pro Order screen. Enable "Auto Refresh" for automated periodic delayed update of positions and orders.
  
 
