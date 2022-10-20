@@ -1,7 +1,7 @@
 # **Add New or Select Account**
 
 - Click on **Add Account** button to add new broker, crypto exchange or data or read-only account (via Plaid)
-- Select any account tile to change its settings. Click on Settings button from title to update the following settings:
+- **Select any account tile** to change its settings. Click on Settings button from title to update the following settings:
 -  **Auto Refresh** : Fetches Orders periodically for brokers that don't support real-time activity feed.
 -  **Delete** : Delete a specific account
 -  **Relogin** : Allows you to relogin and refresh account. Required for certain account types every 90 days.
