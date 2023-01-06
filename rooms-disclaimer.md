@@ -1,4 +1,3 @@
-# Rooms Disclaimer
 - Rooms discussions are **not** tax, legal or investment advice
 - Rooms discussions are **not** an indication to buy/sell stock
 - Cannot share or seek personal identifiable information including name, email, phone or any other type of contact. Respect everyone privacy
