@@ -1,6 +1,8 @@
 # Rooms Disclaimer
+- Rooms discussions is **not** tax, legal or investment advice
+- Rooms discussions is **not** an indication to buy/sell stock
+- Cannot share or seek personal identifiable information including name, email, phone or any other type of contact. Respect everyone privacy
 - Cannot promote services or products or referral links
-- Cannot share personal identifiable information including name, email, phone or any other type of contact. Respect everyone privacy
 - No spam, flooding or post any defamatory messages
 - No hate speech or bullying. Respectful and friendly arguments are okay
 - No adult content, name calling, racial, personal attacks, flaming, profanity, vulgarity or degrading content allowed
