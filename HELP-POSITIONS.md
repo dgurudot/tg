@@ -1,7 +1,7 @@
 # **Positions**
 
 Displays current portfolio in **grid mode (default)** or **table mode**. 
-You can change mode and enbable/disable using button on bottom right of the screen.
+You can change mode and enable/disable using button on bottom right of the screen.
 Click on settings to reorder and enable/disable specific header.
 Click on header to sort specific header.
 
