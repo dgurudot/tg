@@ -1,6 +1,6 @@
 # **Positions**
 
-Displays current portfolio in *grid mode (default)* or *table mode*. 
+Displays current portfolio in **grid mode (default)** or **table mode**. 
 You can change mode and enbable/disable using button on bottom right of the screen.
 
 **Grid Mode (Default):**
