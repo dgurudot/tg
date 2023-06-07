@@ -1,17 +1,22 @@
 # **Positions**
 
-Displays current portfolio in grid mode (default) or table mode. You can change mode and enbable/disable using button on bottom right of the screen.
+Displays current portfolio in *grid mode (default)* or *table mode*. 
+You can change mode and enbable/disable using button on bottom right of the screen.
 
-Positions shows the following information by default in grid mode:
+*Grid Mode (Default):*
+  - Header: Symbol (Left), Quantity (Right)
+  - Row 1: Order Indicator (Left), Mark Price (Right)
+  - Row 2: Day Gain % (Left), Day Gain (Right)
+  - Row 3: Gain % (Left), Gain (Right)
 
-Positions shows the following information by default in table mode:
-  - Symbol
-  - Mark
-  - Cost
-  - Qty
-  - Day Gain
-  - Day Gain %
-  - Gain
-  - Gain %
-  - Value (Optional)
-  - Cost (Optional)
+*Table Mode (Default):*
+  - Symbol: Name of symbol
+  - Mark: Current price of symbol
+  - Cost: Purchase price (or current avg)
+  - Qty: Total quantity
+  - Day Gain: Net gain amount during day
+  - Day Gain %: Net gain % during day
+  - Gain: Net gain
+  - Gain %: Net gain %
+  - Value (Optional): Net value based on current price
+  - Cost (Optional): Net cost based on cost price
