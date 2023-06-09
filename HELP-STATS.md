@@ -29,6 +29,13 @@ Diplays account stats as given below:
   - **Net Profit:** Total Profit + Dividend - Interest
 
 **Monthly Statistics:**
-  - **Total P/L:** Total profit or loss for specific month
-  - **Avg Daily P/L:** 
+  Provides detailed information of all transactions for specific month
+  
+**Profit Summary (Sepcific Year):**
+  Provides profit percentage and total profits for each month of year
+  
+**Totals:**
+  Provides detailed information of specific account since beginning.
+  Kindly note that this information is based on the net history available for account (5 years default).
+  
 
