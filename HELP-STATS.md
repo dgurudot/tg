@@ -1,6 +1,6 @@
 # **Stats**
 
-Diplays account stats as given below:
+Displays account stats as given below:
 
 **Account Info:**
   - **Type:** Cash or Margin Account
