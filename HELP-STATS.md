@@ -20,5 +20,15 @@ Diplays account stats as given below:
   - **BP Threshold %:** Threshold for buying power. Warning at time of orders.
   - **Cost Threshold:** Threshold for total cost. Warning at time of order placement.
 
-**Monthly:**
+**Monthly (Specific Month):**
+  - **Num Buys:** Number of buy transactions in specific month
+  - **Num Sell:** Number of sell transactions in specific month
+  - **Profit:** Total profit for the month
+  - **Interest:** Interest paid for the month
+  - **Dividend:** Dividend received for the month
+  - **Net Profit:** Total Profit + Dividend - Interest
+
+**Monthly Statistics:**
+  - **Total P/L:** Total profit or loss for specific month
+  - **Avg Daily P/L:** 
 
