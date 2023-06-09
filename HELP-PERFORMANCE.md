@@ -1,6 +1,6 @@
 # **Performance**
 
-Diplays account performance as given below:
+Displays account performance as given below:
   - **Portfolio:** Total no of positions in portfolio
   - **Buying Power:** Total buying power for account
   - **Month Buy:** Total no of buys in specific month
