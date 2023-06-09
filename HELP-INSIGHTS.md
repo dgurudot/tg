@@ -15,5 +15,27 @@ Diplays account insights as given below:
   - **Unrealized P/L %:** Shows all current positions unrealized profit/loss % summary.
   - **Buy, Sell & Gain %:** Shows summary of buy, sell, gain % for daily transactions in specific month.
   - **P/L, Deposit & Withdraw:** Shows P/L trend along with account deposits and withdrawal for specific year.
-  - **
+  - **Monthly Accuracy:** Shows monthly accuracy for trades and categorize in three broad grades.
+  - **Yearly Accuracy:** Shows yearly accuracy for trades for all months.
+  - **Risk/Reward Ratio:** Shows risk and reward ration and categorize in three broad grades.
+  - **Consistency:** Shows consistency of trades and categorize in three broad grades.
+  - **Monthly Accuracy:** Shows monthly accuracy % across all trades.
+  - **Profit Range:** (Optional) Shows range of profit across all trades.
+  - **Gain Distribution:** Shows gain % distribution across all trades.
+  - **Trade Count:** Shows trade count trend for year or specific month.
+  - **Volume Count:** Shows volume count trend for year or specific month.
+  - **Weekly Trade Count:** Shows weekly trade count as bar graph.
+  - **Weekly Accuracy:** Shows weekly accuracy trend for all trades.
+  - **Hourly Trade Count:** Shows trend for trades at specific hour of day as bar graph.
+  - **Hourly Accuracy:** Shows accuracy trend for trades in specific month.
+  - **Duration Distribution:** Shows trade hold duration trend across all trades. 
+  - **Duration Accuracy:** Shows accuracy trend for types of trades (Intraday, Swing or Long term).
+  - **Price Distribution:** Shows price range trend for all trades.
+  - **Accuracy by Price:** Shows account accuracy trend for price range.
+  - **Volume Distribution:** Shows volume distribution trend from trades.
+  - **Accuracy by Volume:** Shows trend for accuravy based on volume.
+  - **Top 10:** Shows top ten trades
+  - **Bottom 10:** Shows bottom 10 trades
+  - **Earnings:** (Optional) Earnings calendar for positions in portfolio.
+  - **World Clock:** World clock showing important timezones.
 
