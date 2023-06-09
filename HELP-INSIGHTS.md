@@ -1,6 +1,6 @@
 # **Insights**
 
-Diplays account insights as given below:
+Displays account insights as given below:
   - **Allocation Value:** Bubble chart showing current value of each position in potfolio
   - **Value %:** Pie chart showing % value of each position in portfolio.
   - **Cost:** Pie chart showing cost allocation to each position in portfolio.
