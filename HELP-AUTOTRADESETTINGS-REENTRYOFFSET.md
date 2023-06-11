@@ -3,7 +3,7 @@
 ## Purpose: 
 
 - This setting allows you to adjust the offset from Ask price (at time of Buy) or Bid (at time of Sell). 
-- Trade will be placed initally at Buy price received in signal. 
+- Trade will be placed initially at Buy price received in signal. 
 - If it doesn't get executed within 5 seconds, then retry attempt will buy at Ask plus offset (default is 0.05). 
 - Similarly, if sell signal is received then trade will be placed at sell price received in signal but if that doesn't get executed then retry attempt will be at Bid minus offset (default is 0.05).
 

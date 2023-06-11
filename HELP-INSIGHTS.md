@@ -33,7 +33,7 @@ Displays account insights as given below:
   - **Price Distribution:** Shows price range trend for all trades.
   - **Accuracy by Price:** Shows account accuracy trend for price range.
   - **Volume Distribution:** Shows volume distribution trend from trades.
-  - **Accuracy by Volume:** Shows trend for accuravy based on volume.
+  - **Accuracy by Volume:** Shows trend for accuracy based on volume.
   - **Top 10:** Shows top ten trades
   - **Bottom 10:** Shows bottom 10 trades
   - **Earnings:** (Optional) Earnings calendar for positions in portfolio.

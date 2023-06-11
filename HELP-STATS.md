@@ -31,7 +31,7 @@ Displays account stats as given below:
 **Monthly Statistics:**
   Provides detailed information of all transactions for specific month
   
-**Profit Summary (Sepcific Year):**
+**Profit Summary (Specific Year):**
   Provides profit percentage and total profits for each month of year
   
 **Totals:**
