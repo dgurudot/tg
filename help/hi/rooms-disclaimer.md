@@ -1,0 +1,12 @@
+- Rooms discussions are **not** tax, legal or investment advice
+- Rooms discussions are **not** an indication to buy/sell stock
+- Cannot share or seek personal identifiable information including name, email, phone or any other type of contact. Respect everyone privacy
+- Cannot promote services or products or referral links
+- No spam, flooding or post any defamatory messages
+- No hate speech or bullying. Respectful and friendly arguments are okay
+- No adult content, name calling, racial, personal attacks, flaming, profanity, vulgarity or degrading content allowed
+- Be kind, respectful and courteous and respect rights and opinions of others
+- Be professional and helpful
+- Do your own research and do not take advice/discussions from community to make financial decisions
+- Do NOT mirror trades and always have your own trading plan
+- Focus: Discuss stocks and markets only. Avoid hello, hi and good morning messages.

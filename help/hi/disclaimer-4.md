@@ -1,0 +1,10 @@
+## You accept that TradeGrub LLC doesn't have any liability from your stock trading losses
+	
+- TradeGrub LLC, its officers, directors, and investors, do not make any guarantee or other promise as to any results that may be obtained from using our content. No one should make any investment decision without first consulting his or her own financial advisor and conducting his or her own research and due diligence.
+- To the maximum extent permitted by law, TradeGrub LLC, its officers, directors, investors, and contractors, disclaims any and all liability in the event any information, commentary, analysis, opinions, advice and/or recommendations prove to be inaccurate, incomplete or unreliable, or result in any investment or other losses.
+- TradeGrub LLC nor any of its directors, officers, investors, advisor, or any affiliates cannot and does not assess, verify or guarantee the adequacy, accuracy or completeness of any information, the suitability or profitability of any particular investment, or the potential value of any investment or informational source. 
+- The user bears responsibility for his/her own investment research and decisions, should seek the advice of a qualified securities professional before making any investment, and investigate and fully understand any and all risks before investing. 
+- TradeGrub LLC nor any of its directors, officers, investors, advisor, or any affiliates in no way warrants the solvency, financial condition, or investment advisability of any of the securities mentioned in communications or websites. 
+- In addition, TradeGrub LLC nor any of its directors, officers, investors, advisor, or any affiliates accepts no liability whatsoever for any direct or consequential loss arising from any use of this information. This information is not intended to be used as the sole basis of any investment decision, nor should it be construed as advice designed to meet the investment needs of any particular investor. Past performance is not necessarily indicative of future returns.
+	
+By using TradeGrub platform, you agree to the disclaimer and release all liability in any losses which may occur.

@@ -1,0 +1,22 @@
+# **Order from Trade**
+
+
+When you place an order by swiping right from trade, then order form is automatically filled with trade information and it allows simple one swipe to order.
+You can also update order form as given below:
+
+- **ADJUSTED** - Shows quantity that was adjusted from trade qty based on investment. You can click on adjusted to switch to 0.75, 0.6, 0.5, 0.25, 0.15 qty.
+Alternatively, you can manually type the qty in qty text box.
+- **BUY Price** - Shows B1 price by default. You can click on *BUY* button in green color to update buy price from B1 to B2 or B3.
+- **SELL Price** - Shows S1 price by default. You can click on *SELL* button in Red color to update sell price from S1 to S2 or S3.
+- **STOP Price** - Show Stop price by default.
+
+Alternatively, you can manually type the buy, sell or stop price in specific price text box.
+
+Buy and Sell orders can be limit or market orders can it can be selected from dropdown. You can also select TIF from DAY, GTC and GTC_E.
+Stop orders allows you to select trailstop by switching from STD to TSTP. You MUST have only STOP order selected to allow switching to TSTP.
+
+TSTP order allows you select the trailstop offset by clicking on *STOP* button in Red color to update offset price from ATR to 3ATR or 6ATR.
+Kindly refer to Support -> FAQ to completely understand how trailing stop works and purpose of ATR based trail offset and how to use it.
+
+- **Advanced Options** - Allows you to select order routing for certain brokers. For example: You could switch from SMART routing (default) to NASDAQ or ARCA.
+
