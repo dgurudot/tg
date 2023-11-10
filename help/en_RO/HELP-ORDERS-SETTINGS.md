@@ -1,7 +1,7 @@
-# **Orders Settings**
+# **Setări Ordine**
  
-### Default parameters for placing orders quickly while placing orders outside of trades. Various settings are given below for reference:
+### Parametrii impliciți pentru plasarea rapidă a ordinelor în timp ce se plasează ordine în afara tranzacțiilor. Diferite setări sunt prezentate mai jos pentru referință:
 
-- **Default Qty**: Quantity to order. Default = 10
-- **Default Stop %**: Stop % from buy price. Default = 10
-- **Default Gain %**: Gain % from buy price. Default = 10
+- **Cantitate Implicită**: Cantitatea implicită a ordinului. Implicit = 10
+- **Stop Implicit %**: Stop procentual din prețul de cumpărare. Implicit = 10
+- **Câștig Implicit %**: Câștigul procentual din prețul de cumpărare. Implicit = 10

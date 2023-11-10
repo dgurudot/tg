@@ -1,18 +1,12 @@
-# **Set Targets**
+# **Update Obiective**
 
-Sets specific user account targets
+Stabilește ținte specifice contului de utilizator
 
-- **Investment:** It will be sum total of "deposit" type transactions. User can override total investment.
-- **Month Sell:** Number of monthly sell target user wants to track in Insights.
-- **Month Buy:** Number of monthly buy target user wants to track in Insights.
-- **Portfolio Size:** Total Number of positions target for diversity that user wants to track in Insights.
-- **Monthly Profit %:** Profit % goal for month that user wants to track in Insights.
-- **Yearly Profit %:** Profit % goal for year that user wants to track in Insights.
-- **BP Threshold %:** Buying power threshold % for which user wants to get warning while placing orders.
-- **Cost Threshold:** Total cost of all positions (including new buy) that user wants to get warning while placing orders.
-
-
-
-
-
-
+- **Investiție:** Va fi suma totală a tranzacțiilor de tip "depozit". Utilizatorul poate suprascrie investiția totală.
+- **Vânzări Lunar:** Numărul de obiective de vânzare lunare pe care utilizatorul dorește să le urmărească în secțiunea Informații.
+- **Cumpărături Lunar: ** Numărul de cumpărături lunare pe care utilizatorul dorește să le urmărească în secțiunea Informații.
+- **Număr Poziții:** Numărul total de poziții vizate pentru diversitate pe care utilizatorul dorește să le urmărească în secțiunea Informații.
+- **Profit Lunar %:** Obiectivul de profit % pentru luna pe care utilizatorul dorește să o urmărească în secțiunea Informații.
+- **Proft Anual %:** Obiectivul de profit % pentru anul pe care utilizatorul dorește să îl urmărească în secțiunea Informații.
+- **Prag BP %:** Pragul de putere de cumpărare % pentru care utilizatorul dorește să fie avertizat la plasarea ordinelor.
+- **Prag Cost: ** Costul total al tuturor pozițiilor (inclusiv al noilor achiziții) pentru care utilizatorul dorește să primească avertismente în timpul plasării ordinelor.

@@ -1,5 +1,5 @@
-# **Triggers**
+# **Declanșatori**
 
-- Shows Active, Triggered and Cancelled Triggers.
-- Click on filter button from top right to select filters for specific symbols.
-- Click on the plus button from top right to add new trigger.
+- Afișează declanșatori activi, declanșați și anulați.
+- Faceți clic pe butonul de filtrare din dreapta sus pentru a selecta filtre pentru anumite simboluri.
+- Faceți clic pe butonul plus din dreapta sus pentru a adăuga un nou declanșator.

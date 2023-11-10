@@ -1,12 +1,11 @@
-# **Add New or Select Account**
+# **Adaugați un cont nou sau selectați un cont**
 
-- Click on **Add Account** button to add new broker, crypto exchange or data or read-only account (via Plaid)
-- **Select any account tile** to change its settings. Click on Settings button from title to update the following settings:
-  -  **Auto Refresh** : Fetches Orders periodically for brokers that don't support real-time activity feed.
-  -  **Delete** : Delete a specific account
-  -  **Relogin** : Allows you to Re-login and refresh account. Required for certain account types every 90 days.
-  -  **Set Currency** : For crypto only accounts, you can choose to update your default currency.
-  -  **Set Default Account** : Sets specific trade account as default for orders, positions, dashboard.  **One account MUST be set as default.**
-  -  **Set Data Source** : Allows to select real-time data source. You can select specific broker account if that supports real-time data or another data source.
-  -  **Set Name** : Allows to set a name for account. Max length: 6
-  -  **Toggle Read Only** : Enables trading lock and stops placing orders from TradeGrub.
+- Faceți clic pe butonul **Adaugă Cont** pentru a adăuga un cont nou.
+- **Selectați orice cont** pentru a modifica setările acestuia. Faceți clic pe butonul Setări din titlu pentru a actualiza următoarele setări:
+  - **Ștergeți** : Eliminați un anumit cont
+  - **Resetare Parolă** : Resetați parola contului selectat.
+  - **Resetare PIN**: Resetați codul PIN al contului selectat.
+  - **Setează Contul Implicit**: Stabilește contul de tranzacționare specific ca fiind implicit pentru ordine, poziții și tabloul de bord.  **Un singur cont TREBUIE să fie setat ca implicit.**
+  - **Setează denumire**: Permite setarea unui nume pentru un cont. Lungime maximă: 6
+  - **Comutator numai pentru citire**: Dezactivează posibilitatea de a plasa ordine pe un anumit cont.
+  - **Top Up**: Încarcă contul selectat existent.

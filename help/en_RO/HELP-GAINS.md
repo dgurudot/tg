@@ -1,16 +1,16 @@
-# **Gains**
+# **P/L**
 
-Displays gains for last 60 days by default. 
-Click on settings to reorder and enable/disable specific header.
-Click on header to sort specific header.
+Afișează implicit câștigurile din ultimele 60 de zile. 
+Faceți clic pe setări pentru a reordona și a activa/dezactiva anumite antete.
+Faceți clic pe antet pentru a sorta antetul specific.
 
-**Gains (Default):**
-  - **Date:** Date of Gains
-  - **Symbol:** Name of symbol
-  - **Price:** Current price of symbol (delayed quote)
-  - **Sell Price:** Sell price
-  - **Buy Price:** Buy price
-  - **Gain:** Net Gain
-  - **Gain %:** Percentage of Gain
-  - **Qty:** Total quantity
-  - **ID (Optional):** Last Transaction ID 
+**Câștig (implicit):**
+  - **Data:** Data câștigului
+  - **Simbol:** Numele simbolului
+  - **Preț:** Prețul curent al simbolului (cotație întârziată)
+  - **Preț Sell:** Prețul de vânzare
+  - **Preț Buy:** Prețul de cumpărare
+  - **P/L:** Câștig net
+  - **P/L %:** Procentul de câștig
+  - **Qty:** Cantitate totală
+  - **ID (opțional):** ID-ul ultimei tranzacții 

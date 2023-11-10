@@ -1,14 +1,14 @@
-# **Order Placement**
+# **Plasarea Ordinelor*
 
-When you search symbol or click on the cart button or Bid/Ask price, the order form is automatically filled with price information and it allows a simple one swipe to order.
-You can also update the order form as given below:
+Atunci când căutați un simbol sau faceți clic pe butonul de coș sau pe prețul BID/ASK, formularul de ordin este completat automat cu informații despre preț și permite o plasare a ordinului prin glisare.
+Puteți, de asemenea, să actualizați formularul astfel:
 
-- **QUANTITY** - Shows default quantity based on order settings. You can click on QUANTITY to switch to 0.75, 0.6, 0.5, 0.25, and 0.15 to adjust qty.
-Alternatively, you can manually type the quantity in the qty text box. POS shows the current position quantity and clicking on it will fill the qty text box.
-- **BUY Price** - Shows Ask price by default.
-- **SELL Price** - Shows Bid price by default. It is 10% profit by default or based on Orders settings.
-- **STOP Price** - Show Stop price by default based on Orders settings.
+- **QUANTITY** - Afișează cantitatea implicită în funcție de setările ordinelor. Puteți face clic pe QUANTITY (Cantitate) pentru a ajusta cantitatea cu 0.75, 0.6, 0.5, 0.25 și 0.15.
+Alternativ, puteți introduce manual cantitatea în caseta de text qty. POS afișează cantitatea de pe poziția curentă, iar dacă faceți clic pe ea, se va completa caseta de text qty cu valoarea respectivă.
+- **BUY Price** - Afișează implicit prețul ASK.
+- **SELL Price** - Afișează implicit prețul BID. Acesta este 10% profit în mod implicit sau se bazează pe setările pentru ordine.
+- **STOP Price** - Afișează prețul Stop în mod implicit, pe baza setărilor comenzilor.
 
-Alternatively, you can manually type the buy, sell, or stop price in a specific price text box.
+Alternativ, puteți tasta manual prețul de cumpărare, de vânzare sau stop într-o casetă de text specifică pentru preț.
 
-Buy and Sell orders can be limit or market orders and they can be selected from the dropdown. You can also select TIF from DAY, GTC.
+Ordinele de cumpărare și de vânzare pot fi ordine la limită sau ordine de piață și pot fi selectate din lista derulantă. De asemenea, puteți selecta valabilitate DAY, GTC.

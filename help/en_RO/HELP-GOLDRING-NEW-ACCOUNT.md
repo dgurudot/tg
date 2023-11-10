@@ -1,10 +1,10 @@
-# **Instructions for adding Goldring Account**
-- **Step 1:** Add your existing Goldring account username and password. 
-  - You must have an existing Goldring account. If you don't have Goldring account, then click on "Sign Up" at bottom of screen.
-  - Enable "Demo" checkbox for demo/test account.
-- **Step 2:** Click on "Sign In" button to authenticate and sign-in to existing goldring account for add.
-  - All linked accounts for user would be added automatically.
-  - Click on "Forgot Password ?" if you forgot your existing account password.
+# **Instrucțiuni pentru adăugarea contului Goldring**
+- **Pasul 1:** Adăugați numele de utilizator și parola contului Goldring existent. 
+  - Trebuie să aveți un cont Goldring existent. Dacă nu aveți un cont Goldring, atunci faceți clic pe "Sign Up" în partea de jos a ecranului.
+  - Activați caseta de selectare "Demo" pentru contul demo/test.
+- **Pasul 2:** Faceți clic pe butonul "Sign In" pentru a vă autentifica și a vă conecta la contul Goldring existent pentru adăugare.
+  - Toate conturile legate pentru utilizator vor fi adăugate automat.
+  - Dați clic pe "Resetare Parolă" dacă ați uitat parola contului existent.
 
     
-- **Notes:** For any help adding goldring account, click on "?" at top right for support.
+- **Note:** Pentru orice ajutor la adăugarea contului goldring, faceți clic pe "?" din dreapta sus pentru asistență.

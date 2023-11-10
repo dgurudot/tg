@@ -1,7 +1,6 @@
-# **Notification Settings**
+# **Setări privind notificările**
   
  
-- Allows you to **select granular notifications** for each subscribed services. 
-- You can select the type of notifications (Trades, Updates, News) and specific type of service (Day, Swing, Long).
-- **IMPORTANT** : Trigger (Alert) notifications would only go to last logged-in device. Trades, Updates and News notifications would go to all logged-in devices.  
-
+- Vă permite să **selectați notificări granulare** pentru fiecare serviciu abonat. 
+- Puteți selecta tipul de notificări (Tranzacții, Actualizări, Știri) și tipul specific de serviciu (Day, Swing, Long).
+- **IMPORTANT**: Notificările de declanșare (alertă) vor ajunge doar la ultimul dispozitiv conectat. Notificările Trades, Updates (Tranzacții, Actualizări) și News (Știri) ar merge la toate dispozitivele conectate.  

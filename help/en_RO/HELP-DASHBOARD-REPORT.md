@@ -1,7 +1,7 @@
-# **Reports**
+# **Rapoarte**
 
 
-- Allows you to **export your positions, transactions, gains** in CSV format. It will export what is visible in those tables based on filters and reorder settings.
-- Allows you to **export your insights, performance, stats** in PDF format. It will export what is visible in those screens based on filters and reorder settings.
+- Vă permite să **exportați pozițiile, tranzacțiile și câștigurile** dvs. în format CSV. Va exporta ceea ce este vizibil în aceste tabele pe baza filtrelor și a setărilor de reordonare.
+- Vă permite să **exportați perspectivele, performanțele și statisticile** dvs. în format PDF. Va exporta ceea ce este vizibil în acele ecrane pe baza filtrelor și a setărilor de reordonare.
  
-- **Note:** It may take a while to generate these reports depending on amount of data for export. Kindly use patience and **DO NOT** press back button while report generation is in progress. It can take several minutes depending on amount of data to generate report.
+- **Nota:** Este posibil să dureze ceva timp pentru a genera aceste rapoarte în funcție de cantitatea de date pentru export. Vă rugăm să dați dovadă de răbdare și ** NU** apăsați butonul înapoi în timp ce generarea rapoartelor este în curs. Poate dura câteva minute în funcție de cantitatea de date pentru a genera raportul.

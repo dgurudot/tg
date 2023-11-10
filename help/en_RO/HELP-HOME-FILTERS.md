@@ -1,10 +1,10 @@
-# **Positions, Transactions, Gains Filters**
+# Filtrare poziții, tranzacții, câștiguri...
 
 
-- This setting allows you to **filter and view** specific items only on screen.  It is **context sensitive filter button** so depending on selected table (and tab), filter settings would change.
-- Specific settings are given below for reference:
+- Această setare vă permite să **filtrați și să vizualizați** elemente specifice numai pe ecran.  Este un **buton de filtrare sensibil la context**, astfel încât, în funcție de tabelul (și fila) selectat, setările de filtrare se vor schimba.
+- Setările specifice sunt prezentate mai jos pentru referință:
 
-- **Separate Symbols by a Comma** - Allows you to create a list of symbols and display would only show records matching those symbols. Example: AAPL, TSLA, FB
-- **Type of Transaction (Sell, Buy, Int, Div, Wid, Dep, Other)** - Applicable for Transactions only. It will allow you to display transactions of type Buy, Sell, Interest, Dividend, Withdrawal, Deposit and any other type of transactions.
-- **Days (14, 30, 60, All)** - Applicable for Transactions and Gains only. Allows you to load transactions of last 14, 30, 60 or All days.
-- **Date Range** - Applicable for Transactions and Gains only. Allows you to select date ranges to show specific transactions.
+- **Separați simbolurile printr-o virgulă** - Vă permite să creați o listă de simboluri, iar pe ecran vor fi afișate numai înregistrările care corespund acestor simboluri. Exemplu: TLV, BVB, SNN
+- **Type of Transaction (Sell, Buy, Int, Div, Wid, Dep, Other)** - Se aplică numai pentru tranzacții. Vă va permite să afișați tranzacțiile de tip Buy (Cumpărare), Sell (Vânzare), Interest (Dobândă), Dividend (Dividende), Withdrawal (Retragere), Deposit (Depozit) și orice alt tip de tranzacție.
+- **Days (14, 30, 60, All)** - Se aplică numai pentru tranzacții și câștiguri. Vă permite să încărcați tranzacțiile din ultimele 14, 30, 60 sau Toate zilele.
+- **Interval de date** - Se aplică numai pentru Transactions and Gains (Tranzacții și Câștiguri). Vă permite să selectați intervale de date pentru a afișa tranzacții specifice.
