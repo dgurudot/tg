@@ -2,6 +2,7 @@
 
 Sets specific user account targets
 
+- **Enable Threshold:** Enable threshold for warning based on BP Threshold % and Cost Threshold at the time of placing orders.
 - **Investment:** It will be sum total of "deposit" type transactions. User can override total investment.
 - **Month Sell:** Number of monthly sell target user wants to track in Insights.
 - **Month Buy:** Number of monthly buy target user wants to track in Insights.
