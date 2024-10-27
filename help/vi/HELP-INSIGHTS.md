@@ -1,0 +1,41 @@
+# **Thông tin chi tiết**
+
+Hiển thị thông tin chi tiết về tài khoản như sau:
+- **Giá trị phân bổ:** Biểu đồ bong bóng hiển thị giá trị hiện tại của từng vị thế trong danh mục đầu tư
+- **Giá trị %:** Biểu đồ hình tròn hiển thị giá trị % của từng vị thế trong danh mục đầu tư.
+- **Chi phí:** Biểu đồ hình tròn hiển thị phân bổ chi phí cho từng vị thế trong danh mục đầu tư.
+- **Chi phí %:** Biểu đồ hình phễu hiển thị % phân bổ chi phí hàng đầu cho các vị thế trong danh mục đầu tư.
+- **Đầu tư: Tỷ lệ tiền mặt** Biểu đồ hiển thị tổng đầu tư và số dư tiền mặt.
+- **Phân phối theo ngành:** (Tùy chọn) Hiển thị phân phối vị thế cho từng ngành.
+- **Mục tiêu hàng tháng:** Hiển thị vòng tiến trình dựa trên mục tiêu hàng tháng được đặt trong số liệu thống kê.
+- **Mục tiêu hàng năm:** Hiển thị tiến trình dựa trên mục tiêu hàng năm được đặt trong số liệu thống kê.
+- **Hàng ngày:** Hiển thị tóm tắt lợi nhuận hàng ngày trong chế độ xem lịch
+- **(Lợi nhuận hàng tháng):** Hiển thị lợi nhuận hoặc lỗ từ tất cả các giao dịch trong một tháng cụ thể.
+- **(Lợi nhuận hàng năm):** Hiển thị tóm tắt lợi nhuận/lỗ cho một năm cụ thể.
+- **Tỷ lệ P/L chưa thực hiện:** Hiển thị tóm tắt % lợi nhuận/lỗ chưa thực hiện của tất cả các vị thế hiện tại.
+- **Tỷ lệ Mua, Bán & Lãi %:** Hiển thị tóm tắt % mua, bán, lãi cho các giao dịch hàng ngày trong tháng cụ thể.
+- **Tỷ lệ P/L, Gửi và Rút tiền:** Hiển thị xu hướng P/L cùng với tiền gửi và rút tiền trong tài khoản trong những năm cụ thể.
+- **Độ chính xác hàng tháng:** Hiển thị độ chính xác hàng tháng cho các giao dịch và phân loại thành ba cấp độ rộng.
+- **Độ chính xác hàng năm:** Hiển thị độ chính xác hàng năm cho các giao dịch trong tất cả các tháng.
+- **Tỷ lệ Rủi ro/Phần thưởng:** Hiển thị tỷ lệ rủi ro và phần thưởng và phân loại thành ba cấp độ rộng.
+- **Tính nhất quán:** Hiển thị tính nhất quán của các giao dịch và phân loại thành ba cấp độ rộng.
+- **Độ chính xác hàng tháng:** Hiển thị % độ chính xác hàng tháng trên tất cả các giao dịch.
+- **Phạm vi lợi nhuận:** (Tùy chọn) Hiển thị phạm vi lợi nhuận trên tất cả các giao dịch.
+- **Phân phối lợi nhuận:** Hiển thị phân phối % lợi nhuận trên tất cả các giao dịch.
+- **Số lượng giao dịch:** Hiển thị xu hướng số lượng giao dịch trong một năm hoặc một tháng cụ thể.
+- **Số lượng khối lượng:** Hiển thị xu hướng số lượng khối lượng trong một năm hoặc một tháng cụ thể.
+- **Số lượng giao dịch hàng tuần:** Hiển thị số lượng giao dịch hàng tuần dưới dạng biểu đồ thanh.
+- **Độ chính xác hàng tuần:** Hiển thị xu hướng độ chính xác hàng tuần cho tất cả các giao dịch.
+- **Số lượng giao dịch hàng giờ:** Hiển thị xu hướng cho các giao dịch tại một giờ cụ thể trong ngày dưới dạng biểu đồ thanh.
+- **Độ chính xác hàng giờ:** Hiển thị xu hướng độ chính xác cho các giao dịch trong một tháng cụ thể.
+- **Phân phối thời gian:** Hiển thị xu hướng thời gian giữ giao dịch trên tất cả các giao dịch.
+- **Độ chính xác thời gian:** Hiển thị xu hướng độ chính xác cho các loại giao dịch (Trong ngày, Dao động hoặc Dài hạn).
+- **Phân phối giá:** Hiển thị xu hướng phạm vi giá cho tất cả các giao dịch.
+- **Độ chính xác theo giá:** Hiển thị xu hướng độ chính xác của tài khoản cho phạm vi giá.
+- **Phân phối khối lượng:** Hiển thị xu hướng phân phối khối lượng từ các giao dịch.
+- **Độ chính xác theo khối lượng:** Hiển thị xu hướng về độ chính xác dựa trên khối lượng.
+- **Top 10:** Hiển thị mười giao dịch hàng đầu
+- **Bottom 10:** Hiển thị 10 giao dịch thấp nhất
+- **Thu nhập:** (Tùy chọn) Lịch thu nhập cho các vị thế trong danh mục đầu tư.
+- **Giờ thế giới:** Đồng hồ thế giới hiển thị các múi giờ quan trọng.
+

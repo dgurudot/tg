@@ -1,12 +1,12 @@
-# **Orders**
+# **ऑर्डर**
 
-Displays account orders as given below:
+नीचे दिए गए अनुसार खाता ऑर्डर प्रदर्शित करता है:
 
-**Active:** Orders that are pending and waiting to be executed.
+**सक्रिय:** वे ऑर्डर जो लंबित हैं और निष्पादित होने की प्रतीक्षा कर रहे हैं।
 
-**Completed:** Orders that were executed. Includes partially completed orders for multi-leg orders.
+**पूर्ण:** वे ऑर्डर जो निष्पादित किए गए थे। इसमें मल्टी-लेग ऑर्डर के लिए आंशिक रूप से पूर्ण किए गए ऑर्डर शामिल हैं।
 
-**Canceled:** Orders that were canceled or rejected or error.
+**रद्द:** वे ऑर्डर जो रद्द या अस्वीकृत या त्रुटिपूर्ण थे।
 
-**Note**: A left swipe on a specific active order allows you to cancel a specific order 
-A right swipe on specific active order allows you to create a similar order or modify order.
+**नोट**: किसी विशिष्ट सक्रिय ऑर्डर पर बाईं ओर स्वाइप करने से आप किसी विशिष्ट ऑर्डर को रद्द कर सकते हैं
+विशिष्ट सक्रिय ऑर्डर पर दाईं ओर स्वाइप करने से आप कोई समान ऑर्डर बना सकते हैं या ऑर्डर संशोधित कर सकते हैं।

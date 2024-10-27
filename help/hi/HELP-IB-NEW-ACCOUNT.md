@@ -1,4 +1,4 @@
-# **Instructions for setting Account**
- - **Step 1:** Create a new docker server for accessing interactive broker. Contact onboarding@tradegrub.com for help and instructions on how to create a new docker server.
- - **Step 2:** Create new user (used purely for TradeGrub account access) in Interactive Broker. Contact IB support for any help in creating new user for existing account.
- - **Step 3:** Add server IP address and port for adding new Interactive Broker account.
+# **खाता सेट करने के निर्देश**
+- **चरण 1:** इंटरैक्टिव ब्रोकर तक पहुँचने के लिए एक नया डॉकर सर्वर बनाएँ। नया डॉकर सर्वर बनाने के तरीके के बारे में मदद और निर्देशों के लिए onboarding@tradegrub.com से संपर्क करें।
+- **चरण 2:** इंटरैक्टिव ब्रोकर में नया उपयोगकर्ता बनाएँ (पूरी तरह से TradeGrub खाते तक पहुँचने के लिए उपयोग किया जाता है)। मौजूदा खाते के लिए नया उपयोगकर्ता बनाने में किसी भी मदद के लिए IB सहायता से संपर्क करें।
+- **चरण 3:** नया इंटरैक्टिव ब्रोकर खाता जोड़ने के लिए सर्वर IP पता और पोर्ट जोड़ें।

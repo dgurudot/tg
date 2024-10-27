@@ -1,0 +1,12 @@
+- Diskussionen in den Räumen sind **keine** Steuer-, Rechts- oder Anlageberatung
+- Diskussionen in den Räumen sind **keine** Empfehlung zum Kauf/Verkauf von Aktien
+- Sie dürfen keine personenbezogenen Daten wie Name, E-Mail, Telefonnummer oder andere Kontaktarten weitergeben oder danach fragen. Respektieren Sie die Privatsphäre aller
+- Sie dürfen keine Dienstleistungen oder Produkte oder Empfehlungslinks bewerben
+- Kein Spam, keine Überflutung oder das Posten diffamierender Nachrichten
+- Keine Hassreden oder Mobbing. Respektvolle und freundliche Auseinandersetzungen sind in Ordnung
+- Keine Inhalte für Erwachsene, Beschimpfungen, rassistischen, persönlichen Angriffe, Beleidigungen, Schimpfwörter, Vulgarität oder erniedrigende Inhalte erlaubt
+- Seien Sie freundlich, respektvoll und höflich und respektieren Sie die Rechte und Meinungen anderer
+- Seien Sie professionell und hilfsbereit
+- Machen Sie Ihre eigenen Recherchen und nehmen Sie keine Ratschläge/Diskussionen der Community an, um finanzielle Entscheidungen zu treffen
+- Spiegeln Sie KEINE Trades und haben Sie immer Ihren eigenen Tradingplan
+- Fokus: Besprechen Sie nur Aktien und Märkte. Vermeiden Sie Hallo-, Hi- und Guten-Morgen-Nachrichten.

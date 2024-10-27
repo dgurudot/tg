@@ -1,16 +1,18 @@
-# **ReEntry Offset**
+# **रीएंट्री ऑफसेट**
 
-## Purpose: 
+## उद्देश्य:
 
-- This setting allows you to adjust the offset from Ask price (at time of Buy) or Bid (at time of Sell). 
-- Trade will be placed initially at Buy price received in signal. 
-- If it doesn't get executed within 5 seconds, then retry attempt will buy at Ask plus offset (default is 0.05). 
-- Similarly, if sell signal is received then trade will be placed at sell price received in signal but if that doesn't get executed then retry attempt will be at Bid minus offset (default is 0.05).
+- यह सेटिंग आपको ऑफसेट को आस्क प्राइस (खरीद के समय) या बिड (बिक्री के समय) से समायोजित करने की अनुमति देती है।
 
-## Example:
+- ट्रेड को शुरू में सिग्नल में प्राप्त खरीद मूल्य पर रखा जाएगा।
 
-- Buy signal $100 with Bid at $99 and Ask at $101. If initial limit order for Buy doesn't get filled at $100, then retry attempt will happen at $101 + 0.05 = $101.05.
+- यदि यह 5 सेकंड के भीतर निष्पादित नहीं होता है, तो पुनः प्रयास प्रयास आस्क प्लस ऑफसेट पर खरीद करेगा (डिफ़ॉल्ट 0.05 है)।
 
-- Sell signal $200 with Bid at $199 and Ask at $201. If initial limit order for Sell doesn't get filled at $200, then retry attempt will happen at $199 - 0.05 = $198.95
+- इसी तरह, यदि बिक्री संकेत प्राप्त होता है, तो ट्रेड को सिग्नल में प्राप्त बिक्री मूल्य पर रखा जाएगा, लेकिन यदि वह निष्पादित नहीं होता है, तो पुनः प्रयास बोली माइनस ऑफसेट पर होगा (डिफ़ॉल्ट 0.05 है)।
 
+## उदाहरण:
+
+- $99 पर बोली और $101 पर आस्क के साथ $100 का खरीद संकेत। यदि खरीद के लिए प्रारंभिक सीमा आदेश $100 पर नहीं भरा जाता है, तो पुनः प्रयास $101 + 0.05 = $101.05 पर होगा।
+
+- $200 पर सेल सिग्नल, बोली $199 और पूछ $201 पर। यदि बिक्री के लिए प्रारंभिक सीमा आदेश $200 पर नहीं भरा जाता है, तो पुनः प्रयास $199 - 0.05 = $198.95 पर होगा
 

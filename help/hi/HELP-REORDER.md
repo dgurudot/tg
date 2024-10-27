@@ -1,7 +1,5 @@
-# **Reorder**
+# **पुनःक्रमित करें**
 
-
-- This setting allows you to **adjust the order of columns** and also **enable or disable** specific columns for display.
-- Long press and drag/drop a particular column to change the specific order of the column relative to other columns.
-
+- यह सेटिंग आपको **स्तंभों के क्रम को समायोजित करने** और प्रदर्शन के लिए विशिष्ट स्तंभों को **सक्षम या अक्षम करने** की अनुमति देती है।
+- अन्य स्तंभों के सापेक्ष स्तंभ के विशिष्ट क्रम को बदलने के लिए किसी विशेष स्तंभ को लंबे समय तक दबाकर रखें और खींचें/छोड़ें।
 

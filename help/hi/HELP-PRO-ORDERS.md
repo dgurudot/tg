@@ -1,4 +1,4 @@
-# **Pro Orders**
+# **प्रो ऑर्डर**
 
-- **Widgets**: Tiles within each dashboard layout to show specific information. Example: Quote, Quick Actions, Charts, etc. These widgets can be grouped together based on colors. Example: If symbol on quote widget changes, then quick actions and chart will get updated for the same symbol.
-- **Layout**: You have four available layouts that can be customized by using settings on top right and also some widgets can be customized by pressing the three dots expansion menu on top right of specific widget. For example: Quick Actions widget allows you to customize each hot buttons along with keys and actions.
+- **विजेट**: प्रत्येक डैशबोर्ड लेआउट के भीतर टाइलें विशिष्ट जानकारी दिखाने के लिए। उदाहरण: कोट, त्वरित क्रियाएँ, चार्ट, आदि। इन विजेट को रंगों के आधार पर एक साथ समूहीकृत किया जा सकता है। उदाहरण: यदि कोट विजेट पर प्रतीक बदलता है, तो त्वरित क्रियाएँ और चार्ट उसी प्रतीक के लिए अपडेट हो जाएँगे।
+- **लेआउट**: आपके पास चार उपलब्ध लेआउट हैं जिन्हें शीर्ष दाईं ओर सेटिंग्स का उपयोग करके अनुकूलित किया जा सकता है और साथ ही कुछ विजेट को विशिष्ट विजेट के शीर्ष दाईं ओर तीन बिंदुओं वाले विस्तार मेनू को दबाकर अनुकूलित किया जा सकता है। उदाहरण के लिए: त्वरित क्रियाएँ विजेट आपको कुंजियों और क्रियाओं के साथ-साथ प्रत्येक हॉट बटन को अनुकूलित करने की अनुमति देता है।

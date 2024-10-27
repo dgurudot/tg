@@ -1,4 +1,4 @@
-# **Set Withdrawals**
+# **निकासी सेट करें**
 
-- **Step 1:** Add amount in "Value" field
-- **Step 2:** Select specific withdrawal date in "Date" field and click on "Create" button
+- **चरण 1:** "मूल्य" फ़ील्ड में राशि जोड़ें
+- **चरण 2:** "दिनांक" फ़ील्ड में विशिष्ट निकासी तिथि चुनें और "बनाएँ" बटन पर क्लिक करें

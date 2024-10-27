@@ -1,7 +1,7 @@
-# **Orders Settings**
- 
-### Default parameters for placing orders quickly while placing orders outside of trades. Various settings are given below for reference:
+# **ऑर्डर सेटिंग**
 
-- **Default Qty**: Quantity to order. Default = 10
-- **Default Stop %**: Stop % from buy price. Default = 10
-- **Default Gain %**: Gain % from buy price. Default = 10
+### ट्रेड के बाहर ऑर्डर देते समय जल्दी से ऑर्डर देने के लिए डिफ़ॉल्ट पैरामीटर। संदर्भ के लिए नीचे विभिन्न सेटिंग दी गई हैं:
+
+- **डिफ़ॉल्ट मात्रा**: ऑर्डर करने के लिए मात्रा। डिफ़ॉल्ट = 10
+- **डिफ़ॉल्ट स्टॉप %**: खरीद मूल्य से स्टॉप %। डिफ़ॉल्ट = 10
+- **डिफ़ॉल्ट लाभ %**: खरीद मूल्य से लाभ %। डिफ़ॉल्ट = 10

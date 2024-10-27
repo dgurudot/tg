@@ -1,0 +1,4 @@
+# **Ordini Pro**
+
+- **Widget**: riquadri all'interno di ogni layout della dashboard per mostrare informazioni specifiche. Esempio: preventivo, azioni rapide, grafici, ecc. Questi widget possono essere raggruppati in base ai colori. Esempio: se il simbolo sul widget preventivo cambia, le azioni rapide e il grafico verranno aggiornati per lo stesso simbolo.
+- **Layout**: hai quattro layout disponibili che possono essere personalizzati utilizzando le impostazioni in alto a destra e anche alcuni widget possono essere personalizzati premendo il menu di espansione a tre punti in alto a destra del widget specifico. Ad esempio: il widget Azioni rapide ti consente di personalizzare ogni pulsante di scelta rapida insieme a tasti e azioni.

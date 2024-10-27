@@ -1,8 +1,9 @@
-# **Reports**
+# **रिपोर्ट**
 
+- आपको अपनी पोजीशन, ट्रांजैक्शन और लाभ (P/L) को CSV फॉर्मेट में एक्सपोर्ट करने की सुविधा देता है। यह फ़िल्टर और रीऑर्डर सेटिंग के आधार पर होम स्क्रीन पर उन टेबल में जो दिखाई देगा उसे एक्सपोर्ट करेगा।
 
-- Allows you to **export your positions, transactions, and gains (P/L)** in CSV format. It will export what is visible in those tables on home screen based on filters and reorder settings.
-- Allows you to **export your insights, performance, and stats** in PDF format. It will export what is visible in those screens based on filters and reorder settings.
- 
-- **Note:** It may take a while to generate these reports depending on the amount of data for export. Kindly use patience and **DO NOT** press the back button while report generation is in progress. 
-It can take several minutes depending on the amount of data to generate the report.
+- आपको अपनी इनसाइट्स, परफॉरमेंस और स्टैटिस्टिक्स को PDF फॉर्मेट में एक्सपोर्ट करने की सुविधा देता है। यह फ़िल्टर और रीऑर्डर सेटिंग के आधार पर उन स्क्रीन में जो दिखाई देगा उसे एक्सपोर्ट करेगा।
+
+- **नोट:** एक्सपोर्ट के लिए डेटा की मात्रा के आधार पर इन रिपोर्ट को जनरेट करने में कुछ समय लग सकता है। कृपया धैर्य रखें और रिपोर्ट जनरेशन के दौरान बैक बटन को न दबाएँ।
+
+रिपोर्ट जनरेट करने में डेटा की मात्रा के आधार पर कई मिनट लग सकते हैं।

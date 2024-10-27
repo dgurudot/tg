@@ -1,0 +1,6 @@
+## Otomatik ticarete dikkat etmeniz ve onu gözetimsiz bırakmamanız gerektiğini kabul edin
+
+Uygun olduğunda her zaman dikkat etmeniz ve otomatik ticaretlerinizi kontrol etmeniz gerekir
+- Otomatik ticaret, yatırımcının her zaman ekrana dikkat etmesi ve işlemlerini manuel olarak kontrol edebilmesi gereken seyir kontrolü ve otomatik pilot gibi araç sürücüsüne yardımcı teknolojiye benzer.
+- Ticaret uygulamanız aktif değilse veya ağ bağlantısını kaybederse otomatik ticaretler yürütülmeyi DURDURUR. Aracı kurumda durdurma aktif olan aktif bir emriniz varsa aracı kurumunuz tarafından yürütülür ancak ağ bağlantısı kesildiğinde otomatik ticaretin etkinleştirildiği cihazda başka hiçbir otomatik ticaret sinyali yürütemezsiniz.
+- Otomatik Ticaret YÖNETİLEN bir hizmet DEĞİLDİR ve bu şekilde varsayılmamalı ve ele alınmamalıdır. Lütfen platform üzerinden uygun risk yönetimi kontrollerinizi ayarlayın ve bireysel risk iştahınıza göre ince ayar yapmak için otomatik ticaret ve küresel hesap ayarlarını kullanın.

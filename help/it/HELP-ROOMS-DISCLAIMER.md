@@ -1,0 +1,12 @@
+- Le discussioni nelle stanze **non** sono consulenza fiscale, legale o di investimento
+- Le discussioni nelle stanze **non** sono un'indicazione per acquistare/vendere azioni
+- Non è possibile condividere o cercare informazioni personali identificabili, inclusi nome, e-mail, telefono o qualsiasi altro tipo di contatto. Rispetta la privacy di tutti
+- Non è possibile promuovere servizi o prodotti o link di riferimento
+- Nessuno spam, flooding o postare messaggi diffamatori
+- Nessun discorso d'odio o bullismo. Sono consentite discussioni rispettose e amichevoli
+- Non sono ammessi contenuti per adulti, insulti, attacchi razziali, personali, insulti, parolacce, volgarità o contenuti degradanti
+- Sii gentile, rispettoso e cortese e rispetta i diritti e le opinioni degli altri
+- Sii professionale e disponibile
+- Fai le tue ricerche e non accettare consigli/discussioni dalla comunità per prendere decisioni finanziarie
+- NON rispecchiare le negoziazioni e avere sempre un tuo piano di trading
+- Focus: discutere solo di azioni e mercati. Evita messaggi di saluto, ciao e buongiorno.

@@ -1,6 +1,6 @@
-# **ReEntry Delay**
+# **पुनःप्रवेश विलंब**
 
-## Purpose: 
+## उद्देश्य:
 
-- This setting allows you to adjust the time to wait before doing retry of order.
-- Default: 5 seconds. You could possibly update it to 2 seconds as an example for faster retry.
+- यह सेटिंग आपको ऑर्डर का पुनः प्रयास करने से पहले प्रतीक्षा करने के लिए समय समायोजित करने की अनुमति देती है।
+- डिफ़ॉल्ट: 5 सेकंड। आप संभवतः इसे तेज़ पुनः प्रयास के लिए उदाहरण के रूप में 2 सेकंड में अपडेट कर सकते हैं।

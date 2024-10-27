@@ -1,17 +1,19 @@
-# **Transactions**
+# **लेनदेन**
 
-Displays transactions for the last 60 days by default. Only last year's transactions are pulled from the exchange.
-Click on settings to reorder and enable/disable specific headers.
-Click on the header to sort the specific header.
+डिफ़ॉल्ट रूप से पिछले 60 दिनों के लेन-देन प्रदर्शित करता है। एक्सचेंज से केवल पिछले वर्ष के लेन-देन ही निकाले जाते हैं।
 
-**Transactions (Default):**
-  - **Date:** Date of transaction
-  - **Type:** Type of transaction [ SELL, BUY, INT (Interest), DIV (Dividend), WID (Withdrawal), DEP (Deposit) or OTHER ]
-  - **Symbol:** Name of symbol
-  - **Qty:** Total quantity
-  - **Cost:** Purchase Price
-  - **Total Cost:** Total purchase price
-  - **Time:** Time of transaction
-  - **Commission:** Broker commission
-  - **Fee:** Broker or exchange fee or taxes
-  - **ID (Optional):** Transaction ID
+विशिष्ट हेडर को पुनः क्रमित करने और सक्षम/अक्षम करने के लिए सेटिंग्स पर क्लिक करें।
+
+विशिष्ट हेडर को क्रमबद्ध करने के लिए हेडर पर क्लिक करें।
+
+**लेनदेन (डिफ़ॉल्ट):**
+- **तारीख:** लेन-देन की तारीख
+- **प्रकार:** लेन-देन का प्रकार [बेचना, खरीदना, INT (ब्याज), DIV (लाभांश), WID (निकासी), DEP (जमा) या अन्य]
+- **प्रतीक:** प्रतीक का नाम
+- **मात्रा:** कुल मात्रा
+- **लागत:** खरीद मूल्य
+- **कुल लागत:** कुल खरीद मूल्य
+- **समय:** लेन-देन का समय
+- **कमीशन:** ब्रोकर कमीशन
+- **शुल्क:** ब्रोकर या एक्सचेंज शुल्क या कर
+- **आईडी (वैकल्पिक):** लेन-देन आईडी

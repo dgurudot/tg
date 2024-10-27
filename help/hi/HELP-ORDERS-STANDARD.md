@@ -1,16 +1,21 @@
-# **Order Placement**
+# **ऑर्डर प्लेसमेंट**
 
-When you search symbol or click on the cart button or Bid/Ask price, the order form is automatically filled with price information and it allows a simple one swipe to order.
-You can also update the order form as given below:
+जब आप सिंबल खोजते हैं या कार्ट बटन या बिड/आस्क प्राइस पर क्लिक करते हैं, तो ऑर्डर फॉर्म अपने आप कीमत की जानकारी से भर जाता है और यह ऑर्डर करने के लिए एक आसान स्वाइप की अनुमति देता है।
 
-- **QUANTITY** - Shows default quantity based on order settings. You can click on QUANTITY to switch to 0.75, 0.6, 0.5, 0.25, and 0.15 to adjust qty.
-Alternatively, you can manually type the quantity in the qty text box. POS shows the current position quantity and clicking on it will fill the qty text box.
-- **BUY Price** - Shows Ask price by default.
-- **SELL Price** - Shows Bid price by default. It is 10% profit by default or based on Orders settings.
-- **STOP Price** - Show Stop price by default based on Orders settings.
+आप ऑर्डर फॉर्म को नीचे दिए गए तरीके से अपडेट भी कर सकते हैं:
 
-Alternatively, you can manually type the buy, sell, or stop price in a specific price text box.
+- **मात्रा** - ऑर्डर सेटिंग के आधार पर डिफ़ॉल्ट मात्रा दिखाता है। आप मात्रा को समायोजित करने के लिए 0.75, 0.6, 0.5, 0.25 और 0.15 पर स्विच करने के लिए मात्रा पर क्लिक कर सकते हैं।
 
-Buy and Sell orders can be limit or market orders and they can be selected from the dropdown. You can also select TIF from DAY, GTC.
+वैकल्पिक रूप से, आप मात्रा को मात्रा टेक्स्ट बॉक्स में मैन्युअल रूप से टाइप कर सकते हैं। POS वर्तमान स्थिति मात्रा दिखाता है और उस पर क्लिक करने से मात्रा टेक्स्ट बॉक्स भर जाएगा।
 
-**Note:** Press "Enter" on quantity for order total to be updated.
+- **खरीद मूल्य** - डिफ़ॉल्ट रूप से पूछ मूल्य दिखाता है।
+
+- **बेचने का मूल्य** - डिफ़ॉल्ट रूप से बोली मूल्य दिखाता है। यह डिफ़ॉल्ट रूप से 10% लाभ है या ऑर्डर सेटिंग पर आधारित है।
+
+- **स्टॉप मूल्य** - ऑर्डर सेटिंग के आधार पर डिफ़ॉल्ट रूप से स्टॉप मूल्य दिखाता है।
+
+वैकल्पिक रूप से, आप किसी विशिष्ट मूल्य टेक्स्ट बॉक्स में मैन्युअल रूप से खरीद, बिक्री या स्टॉप मूल्य टाइप कर सकते हैं।
+
+खरीद और बिक्री के आदेश सीमा या बाजार आदेश हो सकते हैं और उन्हें ड्रॉपडाउन से चुना जा सकता है। आप DAY, GTC से TIF भी चुन सकते हैं।
+
+**नोट:** ऑर्डर कुल को अपडेट करने के लिए मात्रा पर "एंटर" दबाएँ।

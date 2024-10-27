@@ -1,42 +1,41 @@
-# **Stats**
+# **आँकड़े**
 
-Displays account stats as given below:
+नीचे दिए गए अनुसार खाते के आँकड़े प्रदर्शित करता है:
 
-**Account Info:**
-  - **Type:** Cash or Margin Account
-  - **ID:** Account ID (only the last four characters are shown)
-  - **Equity:** Total value of account
-  - **Margin Used:** Current used margin
-  - **Margin Balances:** Current balance of margin
-  - **Buying Power:** Current purchasing power for account
+**खाता जानकारी:**
+- **प्रकार:** नकद या मार्जिन खाता
+- **आईडी:** खाता आईडी (केवल अंतिम चार अक्षर दिखाए जाते हैं)
+- **इक्विटी:** खाते का कुल मूल्य
+- **उपयोग किया गया मार्जिन:** वर्तमान उपयोग किया गया मार्जिन
+- **मार्जिन शेष:** मार्जिन का वर्तमान शेष
+- **खरीदने की शक्ति:** खाते के लिए वर्तमान क्रय शक्ति
 
-**Targets:**
-  - **Enable Threshold:** Enable threshold for warning based on BP Threshold % and Cost Threshold at the time of placing orders.
-  - **Investment:** Total investment based on sum total of all deposit transactions. Can be updated manually.
-  - **Monthly Sell:** Expected target sell transactions and goal for the month
-  - **Monthly Buy:** Expected target buy transactions and goal for the month
-  - **Portfolio Size:** No of positions target in portfolio
-  - **Monthly Profit %:** Goal for monthly profit %
-  - **Yearly Profit %:** Goal for yearly profit %
-  - **BP Threshold %:** Threshold for buying power. Warning at time of order placement.
-  - **Cost Threshold:** Threshold for total cost. Warning at time of order placement.
+**लक्ष्य:**
+- **सीमा सक्षम करें:** ऑर्डर देते समय BP सीमा % और लागत सीमा के आधार पर चेतावनी के लिए सीमा सक्षम करें।
+- **निवेश:** सभी जमा लेनदेन के योग के आधार पर कुल निवेश। मैन्युअल रूप से अपडेट किया जा सकता है।
+- **मासिक बिक्री:** महीने के लिए अपेक्षित लक्ष्य बिक्री लेनदेन और लक्ष्य
+- **मासिक खरीद:** महीने के लिए अपेक्षित लक्ष्य खरीद लेनदेन और लक्ष्य
+- **पोर्टफोलियो आकार:** पोर्टफोलियो में लक्ष्य पदों की संख्या
+- **मासिक लाभ %:** मासिक लाभ % के लिए लक्ष्य
+- **वार्षिक लाभ %:** वार्षिक लाभ % के लिए लक्ष्य
+- **बीपी सीमा %:** क्रय शक्ति के लिए सीमा। ऑर्डर प्लेसमेंट के समय चेतावनी।
+- **लागत सीमा:** कुल लागत के लिए सीमा। ऑर्डर प्लेसमेंट के समय चेतावनी।
 
-**Monthly (Specific Month):**
-  - **Num Buys:** Number of buy transactions in a specific month
-  - **Num Sell:** Number of sell transactions in a specific month
-  - **Profit:** Total profit for the month
-  - **Interest:** Interest paid for the month
-  - **Dividend:** Dividend received for the month
-  - **Net Profit:** Total Profit + Dividend - Interest
+**मासिक (विशिष्ट माह):**
+- **खरीद की संख्या:** किसी विशिष्ट माह में खरीद लेनदेन की संख्या
+- **बिक्री की संख्या:** किसी विशिष्ट माह में बिक्री लेनदेन की संख्या
+- **लाभ:** महीने का कुल लाभ
+- **ब्याज:** महीने के लिए भुगतान किया गया ब्याज
+- **लाभांश:** महीने के लिए प्राप्त लाभांश
+- **शुद्ध लाभ:** कुल लाभ + लाभांश - ब्याज
 
-**Monthly Statistics:**
-  Provides detailed information on all transactions for a specific month
-  
-**Profit Summary (Specific Year):**
-  Provides profit percentage and total profits for each month of the year
-  
-**Totals:**
-  Provides detailed information on specific accounts since the beginning.
-  Kindly note that this information is based on the net history available for the account (5 years default).
-  
+**मासिक सांख्यिकी:**
+किसी विशिष्ट माह के लिए सभी लेनदेन पर विस्तृत जानकारी प्रदान करता है
+
+**लाभ सारांश (विशिष्ट वर्ष):**
+वर्ष के प्रत्येक माह के लिए लाभ प्रतिशत और कुल लाभ प्रदान करता है
+
+**कुल:**
+शुरुआत से ही विशिष्ट खातों पर विस्तृत जानकारी प्रदान करता है।
+कृपया ध्यान दें कि यह जानकारी खाते के लिए उपलब्ध शुद्ध इतिहास (5 वर्ष डिफ़ॉल्ट) पर आधारित है।
 

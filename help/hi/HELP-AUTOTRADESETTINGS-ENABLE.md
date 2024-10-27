@@ -1,9 +1,8 @@
-# **AutoTrades Settings**
+# **ऑटोट्रेड्स सेटिंग**
 
-- Enable AutoTrade on **single device only** using the AutoTrade enable checkbox. Enable AutoTrade is meant for only single device.
-- Kindly make sure that you have disabled screensavers, auto device lock to avoid app to be stopped due to device auto lock.
-- Kindly ensure that TradeGrub app is always running in foreground.
-- Kindly make sure that your device has real-time data connected and active. You can easily verify it if prices are updating.
-- Kindly set any other AutoTrade settings as per individual setting help.
-
+- ऑटोट्रेड सक्षम चेकबॉक्स का उपयोग करके **केवल एक डिवाइस** पर ऑटोट्रेड सक्षम करें। ऑटोट्रेड सक्षम करना केवल एक डिवाइस के लिए है।
+- कृपया सुनिश्चित करें कि आपने स्क्रीनसेवर, ऑटो डिवाइस लॉक को अक्षम कर दिया है ताकि डिवाइस ऑटो लॉक के कारण ऐप बंद न हो।
+- कृपया सुनिश्चित करें कि TradeGrub ऐप हमेशा अग्रभूमि में चल रहा हो।
+- कृपया सुनिश्चित करें कि आपके डिवाइस में वास्तविक समय का डेटा जुड़ा हुआ और सक्रिय है। यदि कीमतें अपडेट हो रही हैं तो आप इसे आसानी से सत्यापित कर सकते हैं।
+- कृपया व्यक्तिगत सेटिंग सहायता के अनुसार कोई अन्य ऑटोट्रेड सेटिंग सेट करें।
 

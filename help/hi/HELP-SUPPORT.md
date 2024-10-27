@@ -1,19 +1,14 @@
-# **Support**
+# **सहायता**
 
-- **FAQs and Requests:** Find answers to frequently asked questions 24x7. Contact live chat support or open support cases.
-- **Feedback:** Share your feedback openly along with suggestions to improve trading experience.
-- **Status:** Check service status and subscribe to twitter for notifications.
-- **Rate:** Rate your trading experience on App/Play Stores.
-- **Share:** Share trading application with friends and family.
-- **Disclaimer:** Read about disclaimers for trading platform.
-- **Privacy:** Read about privacy for trading platform.
-- **Terms of Use:** Read about terms of use for trading platform.
-- **Social Media:** Click on specific social media icons to connect with us via your favorite social media channels.
+- **अक्सर पूछे जाने वाले प्रश्न और अनुरोध:** अक्सर पूछे जाने वाले प्रश्नों के उत्तर 24x7 पाएँ। लाइव चैट सहायता से संपर्क करें या सहायता मामले खोलें।
+- **प्रतिक्रिया:** ट्रेडिंग अनुभव को बेहतर बनाने के लिए सुझावों के साथ-साथ अपनी प्रतिक्रिया खुलकर साझा करें।
+- **स्थिति:** सेवा की स्थिति की जाँच करें और सूचनाओं के लिए ट्विटर पर सदस्यता लें।
+- **रेट करें:** ऐप/प्ले स्टोर पर अपने ट्रेडिंग अनुभव को रेट करें।
+- **साझा करें:** ट्रेडिंग एप्लिकेशन को दोस्तों और परिवार के साथ साझा करें।
+- **अस्वीकरण:** ट्रेडिंग प्लेटफ़ॉर्म के लिए अस्वीकरण के बारे में पढ़ें।
+- **गोपनीयता:** ट्रेडिंग प्लेटफ़ॉर्म के लिए गोपनीयता के बारे में पढ़ें।
+- **उपयोग की शर्तें:** ट्रेडिंग प्लेटफ़ॉर्म के लिए उपयोग की शर्तों के बारे में पढ़ें।
+- **सोशल मीडिया:** अपने पसंदीदा सोशल मीडिया चैनलों के माध्यम से हमसे जुड़ने के लिए विशिष्ट सोशल मीडिया आइकन पर क्लिक करें।
 
-- **Note:** Use the top right support tools button only with instructions from customer support team.
-
-
-
-
-
+- **नोट:** ग्राहक सहायता टीम के निर्देशों के साथ ही शीर्ष दाएँ समर्थन उपकरण बटन का उपयोग करें।
 

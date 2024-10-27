@@ -1,6 +1,5 @@
-# **Ignore Sell Signal**
+# **सेल सिग्नल को अनदेखा करें**
 
-
-- You can choose to ignore sell signal and can sell it manually via limit, market or trail orders.
-- Sell signal when ignore is enabled would not be executed where AutoTrade is enabled.
-- **Note**: Ignore Sell Signal only works for standard sell signal (with retry mechanism and placing market order). It is not meant for limit sell orders.
+- आप सेल सिग्नल को अनदेखा करना चुन सकते हैं और इसे लिमिट, मार्केट या ट्रेल ऑर्डर के ज़रिए मैन्युअल रूप से बेच सकते हैं।
+- जब अनदेखा किया जाता है तो सेल सिग्नल को तब निष्पादित नहीं किया जाएगा जब ऑटोट्रेड सक्षम हो।
+- **नोट**: सेल सिग्नल को अनदेखा करें केवल मानक सेल सिग्नल (पुनः प्रयास तंत्र और मार्केट ऑर्डर रखने के साथ) के लिए काम करता है। यह लिमिट सेल ऑर्डर के लिए नहीं है।

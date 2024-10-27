@@ -1,6 +1,6 @@
-# Stop at Cost Offset
+# लागत ऑफसेट पर स्टॉप
 
-## Purpose:
+## उद्देश्य:
 
-- You can choose specific offset to be used when moving stop at cost. 
-- This would help you with sell at stop where market order execution would still keep you above the cost price.
+- आप लागत पर स्टॉप ले जाते समय उपयोग किए जाने वाले विशिष्ट ऑफसेट को चुन सकते हैं।
+- यह आपको स्टॉप पर बेचने में मदद करेगा, जहाँ मार्केट ऑर्डर निष्पादन आपको अभी भी लागत मूल्य से ऊपर रखेगा।

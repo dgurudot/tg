@@ -1,6 +1,6 @@
-# **Triggers**
+# **ट्रिगर**
 
-- Shows Active, Triggered and Cancelled Triggers.
-- Click on filter button from top right to select filters for specific symbols.
-- Click on the plus button from top right to add new trigger.
-- Note: Trigger will only be sent on last logged-in device and based on market price movements only.
+- सक्रिय, ट्रिगर और रद्द किए गए ट्रिगर दिखाता है।
+- विशिष्ट प्रतीकों के लिए फ़िल्टर चुनने के लिए ऊपर दाईं ओर से फ़िल्टर बटन पर क्लिक करें।
+- नया ट्रिगर जोड़ने के लिए ऊपर दाईं ओर से प्लस बटन पर क्लिक करें।
+- नोट: ट्रिगर केवल अंतिम लॉग-इन डिवाइस पर और केवल बाजार मूल्य आंदोलनों के आधार पर भेजा जाएगा।

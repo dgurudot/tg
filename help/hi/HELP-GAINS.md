@@ -1,16 +1,28 @@
-# **Gains**
+# **लाभ**
 
-Displays gains for the last 60 days by default. 
-Click on settings to reorder and enable/disable specific headers.
-Click on header to sort the specific header.
+डिफ़ॉल्ट रूप से पिछले 60 दिनों के लाभ प्रदर्शित करता है।
 
-**Gains (Default):**
-  - **Date:** Date of Gain
-  - **Symbol:** Name of symbol
-  - **Price:** Current price of the symbol (delayed quote)
-  - **Sell Price:** Sell price
-  - **Buy Price:** Buy price
-  - **Gain:** Net Gain
-  - **Gain %:** Percentage of Gain
-  - **Qty:** Total quantity
-  - **ID (Optional):** Last Transaction ID 
+विशिष्ट हेडर को पुनः क्रमित करने और सक्षम/अक्षम करने के लिए सेटिंग्स पर क्लिक करें।
+
+विशिष्ट हेडर को क्रमबद्ध करने के लिए हेडर पर क्लिक करें।
+
+**लाभ (डिफ़ॉल्ट):**
+
+- **दिनांक:** लाभ की तिथि
+
+- **प्रतीक:** प्रतीक का नाम
+
+- **मूल्य:** प्रतीक का वर्तमान मूल्य (विलंबित उद्धरण)
+
+- **बिक्री मूल्य:** बिक्री मूल्य
+
+- **खरीद मूल्य:** खरीद मूल्य
+
+- **लाभ:** शुद्ध लाभ
+
+- **लाभ %:** लाभ का प्रतिशत
+
+- **मात्रा:** कुल मात्रा
+
+- **आईडी (वैकल्पिक):** अंतिम लेनदेन आईडी
+

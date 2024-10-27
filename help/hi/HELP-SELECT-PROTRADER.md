@@ -1,7 +1,7 @@
-# **Select Pro Trader**
-- **Select specific pro trader** from list depending on type of trading or blend (includes multiple types)
-- **View past trades** to determine performance of trades and history
-- **Select specific plan** and subscribe to pay securely using Stripe
-- Pro Traders provides you real-time trades depending on the subscription. For example, day trades are buy and sell within same day, swing trades is buy and hold overnight with average resolution within 8 weeks and long term trades have resolution from 8 weeks to over 1-3 year.
-- Pro Traders would also provide real-time updates for each trades. Pro Traders also provides free trades periodically and you could use them for trial purpose. Free Trades would not give you push notifications and real-time trade updates.
+# **प्रो ट्रेडर चुनें**
+- **ट्रेडिंग या मिश्रण के प्रकार (कई प्रकार शामिल हैं) के आधार पर सूची से विशिष्ट प्रो ट्रेडर चुनें**
+- **ट्रेड के प्रदर्शन और इतिहास को निर्धारित करने के लिए पिछले ट्रेड देखें**
+- **विशिष्ट योजना चुनें** और स्ट्राइप का उपयोग करके सुरक्षित रूप से भुगतान करने के लिए सदस्यता लें
+- प्रो ट्रेडर्स आपको सदस्यता के आधार पर वास्तविक समय के ट्रेड प्रदान करता है। उदाहरण के लिए, दिन के ट्रेड में उसी दिन खरीदना और बेचना होता है, स्विंग ट्रेड में रात भर खरीदना और रखना होता है, जिसका औसत समाधान 8 सप्ताह के भीतर होता है और लंबी अवधि के ट्रेड में 8 सप्ताह से लेकर 1-3 वर्ष तक का समाधान होता है।
+- प्रो ट्रेडर्स प्रत्येक ट्रेड के लिए वास्तविक समय के अपडेट भी प्रदान करेगा। प्रो ट्रेडर्स समय-समय पर मुफ़्त ट्रेड भी प्रदान करता है और आप उन्हें परीक्षण के उद्देश्य से उपयोग कर सकते हैं। मुफ़्त ट्रेड आपको पुश सूचनाएँ और वास्तविक समय के ट्रेड अपडेट नहीं देगा।
 

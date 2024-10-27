@@ -1,4 +1,4 @@
-# **Buy at** 
-  
-- This setting allows you to **adjust the buy price** and choose between Bid, Ask or Mark price. 
-- **Buy at offset** will also be added to selected buy price.
+# **खरीदें**
+
+- यह सेटिंग आपको **खरीद मूल्य समायोजित करने** और बोली, पूछ या अंकित मूल्य के बीच चयन करने की अनुमति देती है।
+- **खरीदें ऑफसेट** को भी चयनित खरीद मूल्य में जोड़ा जाएगा।

@@ -1,0 +1,7 @@
+# **Cómo calculamos el rendimiento**
+- El **porcentaje de ganancia** refleja el rango de ganancias para una operación específica. También muestra el objetivo de ganancias alcanzado en color verde.
+- La operación está "cerrada" cuando no recomendamos ninguna compra adicional de acciones y estamos en la zona de venta. Puede continuar manteniendo la posición en la zona de venta para operaciones de swing y largas.
+- La ganancia mínima capturada es desde B1 (primer precio de compra) hasta el precio S1 (primer objetivo de venta) que alcanzamos.
+- Si mantiene la posición más allá de S1 en la zona de venta, entonces obtiene el potencial de ganancia máxima y se muestra en el rango de porcentaje de ganancia donde alcanzamos el objetivo S3.
+- Las operaciones intradía no tienen retención más allá de un día, por lo que normalmente no hacemos un seguimiento de los objetivos S2, S3 alcanzados, aunque los usuarios aún pueden elegir vender solo una parte en S1 y luego obtener más ganancias en S2, S3 y más allá el mismo día. Para las operaciones intradía (con etiqueta D), solo mostramos la ganancia mínima para una operación específica.
+- Las operaciones de swing están etiquetadas con la etiqueta "S" (color ámbar). Las operaciones a largo plazo están etiquetadas con la etiqueta de color "L" (verde) ubicada junto al símbolo en el lado derecho.

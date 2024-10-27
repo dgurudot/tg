@@ -1,12 +1,12 @@
-# **Add New or Select Account**
+# **नया खाता जोड़ें या चुनें**
 
-- Click on **Add Account** button to add new broker, crypto exchange or data or read-only account (via Plaid)
-- **Select any account tile** to change its settings. Click on Settings button from title to update the following settings:
-  -  **Auto Refresh** : Fetches Orders periodically for brokers that don't support real-time activity feed.
-  -  **Delete** : Delete a specific account
-  -  **Relogin** : Allows you to Re-login and refresh account. Required for certain account types every 90 days.
-  -  **Set Currency** : For crypto only accounts, you can choose to update your default currency.
-  -  **Set Default Account** : Sets specific trade account as default for orders, positions, dashboard.  **One account MUST be set as default.**
-  -  **Set Data Source** : Allows to select real-time data source. You can select specific broker account if that supports real-time data or another data source.
-  -  **Set Name** : Allows to set a name for account. Max length: 6
-  -  **Toggle Read Only** : Enables trading lock and stops placing orders from TradeGrub.
+- नया ब्रोकर, क्रिप्टो एक्सचेंज या डेटा या रीड-ओनली खाता (प्लेड के माध्यम से) जोड़ने के लिए **खाता जोड़ें** बटन पर क्लिक करें
+- **किसी भी खाते की टाइल चुनें** इसकी सेटिंग बदलने के लिए। निम्न सेटिंग अपडेट करने के लिए शीर्षक से सेटिंग बटन पर क्लिक करें:
+- **ऑटो रिफ्रेश** : उन ब्रोकर के लिए समय-समय पर ऑर्डर प्राप्त करता है जो रीयल-टाइम गतिविधि फ़ीड का समर्थन नहीं करते हैं।
+- **हटाएँ** : किसी विशिष्ट खाते को हटाएँ
+- **पुनः लॉगिन करें** : आपको खाते को पुनः लॉगिन करने और रिफ्रेश करने की अनुमति देता है। कुछ खाता प्रकारों के लिए हर 90 दिनों में आवश्यक है।
+- **मुद्रा सेट करें** : केवल क्रिप्टो खातों के लिए, आप अपनी डिफ़ॉल्ट मुद्रा अपडेट करना चुन सकते हैं।
+- **डिफ़ॉल्ट खाता सेट करें** : ऑर्डर, पोज़िशन, डैशबोर्ड के लिए विशिष्ट ट्रेड खाते को डिफ़ॉल्ट के रूप में सेट करता है। **एक खाते को डिफ़ॉल्ट के रूप में सेट किया जाना चाहिए।**
+- **डेटा स्रोत सेट करें** : रीयल-टाइम डेटा स्रोत चुनने की अनुमति देता है। यदि वह वास्तविक समय डेटा या किसी अन्य डेटा स्रोत का समर्थन करता है, तो आप विशिष्ट ब्रोकर खाते का चयन कर सकते हैं।
+- **नाम सेट करें** : खाते के लिए नाम सेट करने की अनुमति देता है। अधिकतम लंबाई: 6
+- **केवल पढ़ने के लिए टॉगल करें** : ट्रेडिंग लॉक सक्षम करता है और TradeGrub से ऑर्डर देना बंद कर देता है।

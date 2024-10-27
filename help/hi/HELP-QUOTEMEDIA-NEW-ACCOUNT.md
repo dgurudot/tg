@@ -1,4 +1,4 @@
-# Instructions for new QuoteMedia Account or managing account
-- Step 1: Go to https://client.quotemedia.com/qscreg/tradegrub/ website from new and separate browser window (or by clicking on link above) and register for new account. 
-- Step 2: Kindly provide your account username and password below for adding new QuoteMedia account.
-- Step 3: For existing users, kindly use the following URL: https://client.quotemedia.com/qscreg/tradegrub/login.php?type=account to manage your account and subscription.
+# नए QuoteMedia खाते या खाते के प्रबंधन के लिए निर्देश
+- चरण 1: नई और अलग ब्राउज़र विंडो से https://client.quotemedia.com/qscreg/tradegrub/ वेबसाइट पर जाएं (या ऊपर दिए गए लिंक पर क्लिक करके) और नए खाते के लिए पंजीकरण करें।
+- चरण 2: नया QuoteMedia खाता जोड़ने के लिए कृपया नीचे अपना खाता उपयोगकर्ता नाम और पासवर्ड प्रदान करें।
+- चरण 3: मौजूदा उपयोगकर्ताओं के लिए, कृपया अपने खाते और सदस्यता को प्रबंधित करने के लिए निम्न URL का उपयोग करें: https://client.quotemedia.com/qscreg/tradegrub/login.php?type=account।

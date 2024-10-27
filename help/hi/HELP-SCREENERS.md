@@ -1,10 +1,10 @@
-# **Screeners**
+# **स्क्रीनर्स**
 
-Equity Market is scanned every 5-15 minutes for specific market cap range to filter the following:
-  
-- **Gainers**: Top Gainers across market
-- **Losers**: Top Losers across market 
-- **Active**: Most active stocks across the market based on volume activity
-- **Gappers**: Top gappers across market
+निम्नलिखित को फ़िल्टर करने के लिए विशिष्ट मार्केट कैप रेंज के लिए इक्विटी मार्केट को हर 5-15 मिनट में स्कैन किया जाता है:
 
-**Note**: Use filter from the top right menu to update based on specific symbols, market cap, price range, volume, % change, and gap %
+- **गेनर्स**: पूरे मार्केट में टॉप गेनर्स
+- **लूजर्स**: पूरे मार्केट में टॉप लूजर्स
+- **एक्टिव**: वॉल्यूम एक्टिविटी के आधार पर मार्केट में सबसे ज़्यादा एक्टिव स्टॉक
+- **गैपर्स**: मार्केट में टॉप गैपर्स
+
+**नोट**: विशिष्ट प्रतीकों, मार्केट कैप, मूल्य सीमा, वॉल्यूम, % परिवर्तन और गैप % के आधार पर अपडेट करने के लिए ऊपर दाएँ मेनू से फ़िल्टर का उपयोग करें

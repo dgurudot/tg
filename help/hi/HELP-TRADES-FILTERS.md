@@ -1,6 +1,6 @@
-# **Trades, Updates, News Filters**
+# **ट्रेड, अपडेट, समाचार फ़िल्टर**
 
-- Allows you to select comma separated **symbol list**. Example: AAPL, TSLA, FB
-- Allows you to select **open, closed or stopped** trades. Default = Open
-- Allows you to select **type of trade** (Day, Swing, Long)
-- Allows you to **view from past** week, month, year or All
+- आपको कॉमा से अलग किए गए **प्रतीक सूची** का चयन करने की अनुमति देता है। उदाहरण: AAPL, TSLA, FB
+- आपको **खुले, बंद या रुके हुए** ट्रेडों का चयन करने की अनुमति देता है। डिफ़ॉल्ट = खुला
+- आपको **ट्रेड का प्रकार** (दिन, स्विंग, लॉन्ग) चुनने की अनुमति देता है
+- आपको **पिछले** सप्ताह, महीने, वर्ष या सभी से देखने की अनुमति देता है

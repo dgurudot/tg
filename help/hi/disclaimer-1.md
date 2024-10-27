@@ -1,8 +1,8 @@
-## You agree that you are NOT a securities professional
+## आप सहमत हैं कि आप प्रतिभूति पेशेवर नहीं हैं
 
-You're a securities professional if any of the following apply to you:
-- Registered or qualified with the Securities and Exchange Commission (the "SEC"), the Commodities Futures Trading Commission, any state securities agency, any securities exchange or association, or any commodities or futures contract market or association; AND/OR
-- Engaged as an "investment advisor" as that term is defined in Section 202 (a) (11) of the Investment Advisor's Act of 1940 (whether or not registered or qualified under that Act); AND/OR
-- Employed by a bank or other organization exempt from registration under Federal and/or state securities laws to perform functions that would require him or her to be so registered or qualified if he or she were to perform such functions for an organization not so exempt; AND/OR
-- Using quote information in connection with any trade or business activity instead of your own personal investments
-- Holds Series 7 or Series 63 license
+यदि निम्न में से कोई भी आप पर लागू होता है, तो आप प्रतिभूति पेशेवर हैं:
+- प्रतिभूति और विनिमय आयोग ("एसईसी"), कमोडिटीज फ्यूचर्स ट्रेडिंग कमीशन, किसी राज्य प्रतिभूति एजेंसी, किसी प्रतिभूति विनिमय या एसोसिएशन, या किसी कमोडिटी या वायदा अनुबंध बाजार या एसोसिएशन के साथ पंजीकृत या योग्य; और/या
+- "निवेश सलाहकार" के रूप में कार्यरत, जैसा कि उस शब्द को 1940 के निवेश सलाहकार अधिनियम की धारा 202 (ए) (11) में परिभाषित किया गया है (चाहे उस अधिनियम के तहत पंजीकृत या योग्य हो या नहीं); और/या
+- संघीय और/या राज्य प्रतिभूति कानूनों के तहत पंजीकरण से छूट प्राप्त किसी बैंक या अन्य संगठन द्वारा नियोजित, ऐसे कार्य करने के लिए जिसके लिए उसे ऐसे पंजीकृत या योग्य होने की आवश्यकता होगी यदि वह किसी ऐसे संगठन के लिए ऐसे कार्य करता है जो छूट प्राप्त नहीं है; और/या
+- अपने स्वयं के व्यक्तिगत निवेशों के बजाय किसी भी व्यापार या व्यावसायिक गतिविधि के संबंध में उद्धरण जानकारी का उपयोग करना
+- सीरीज 7 या सीरीज 63 लाइसेंस रखता है

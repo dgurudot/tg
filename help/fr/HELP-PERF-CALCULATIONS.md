@@ -1,0 +1,7 @@
+# **Comment nous calculons les performances**
+- **Le % de gain** reflète la fourchette de profit pour une transaction spécifique. Il indique également l'objectif de profit atteint par la couleur verte.
+- La transaction est « clôturée » lorsque nous ne recommandons aucun achat supplémentaire pour les actions et que nous sommes dans la zone de vente. Vous pouvez continuer à maintenir la zone de vente pour les transactions swing et longues.
+- Le profit minimum capturé est compris entre B1 (premier prix d'achat) et S1 (premier objectif de vente) que nous avons atteint.
+- Si vous maintenez au-delà du S1 dans la zone de vente, vous obtenez le potentiel de profit maximum et il est indiqué dans la plage de % de gain où nous avons atteint l'objectif S3.
+- Les transactions journalières n'ont pas de maintien au-delà d'une journée, nous ne suivons donc généralement pas l'atteinte des objectifs S2, S3, bien que les utilisateurs puissent toujours choisir de ne vendre qu'une partie à S1, puis de réaliser davantage de profits à S2, S3 et au-delà le même jour. Pour les transactions journalières (avec la balise D), nous affichons uniquement le profit minimum pour une transaction spécifique.
+- Les transactions swing sont marquées avec la balise « S » (couleur ambre). Les transactions à long terme sont marquées avec l'étiquette de couleur « L » (vert) située à côté du symbole sur le côté droit.

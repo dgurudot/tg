@@ -1,17 +1,16 @@
-# **Preferences**
-  
-  
-Kindly use the following options to update user preferences 
-- **Photo**: Can only be updated for Email based accounts. Click on the camera button next to the photo to update.
-- **Email**: Logged-in account Email address. Cannot be changed and used for support.
-- **Name, Phone**: Cannot be changed from the application. Contact Support if you would like it to be updated.
-- **Change Password**: Only allowed for Email based login. Num, Upper, Lower, Special & 8 Min Char Required. You must have done SignIn recently to update your password.
-- **Notifications**: Update notification preferences for subscription services.
-- **Theme**: Allows you to select "Dark", and "Light" or automatically choose based on the "System" theme.
-- **Language**: Allows you to choose a specific language. Please note that certain interfaces will still be in English.
-- **Use Face/Touch ID**: Allows you to log in to the application using the device's Face or Touch ID.
-- **Enable Trading Chart**: Switch from TradingView to Standard Charts for buy/sell and view position from Charts. Applicable for Mobile Devices only.   
-- **Devices**: View account login history based on time and IP address and location (if available).
-- **Account Update**: Allows you to update your subscription service or delete your account. 
-  -  Kindly reach us at [privacy@tradegrub.com](mailto:privacy@tradegrub.com) if you want account to be permanently deleted.
-  -  Kindly reach us at [payments@tradegrub.com](mailto:payments@tradegrub.com) for scheduling un-subscribe request.
+# **प्राथमिकताएँ**
+
+कृपया उपयोगकर्ता प्राथमिकताएँ अपडेट करने के लिए निम्न विकल्पों का उपयोग करें
+- **फ़ोटो**: केवल ईमेल आधारित खातों के लिए अपडेट किया जा सकता है। अपडेट करने के लिए फ़ोटो के बगल में कैमरा बटन पर क्लिक करें।
+- **ईमेल**: लॉग-इन खाता ईमेल पता। इसे बदला नहीं जा सकता और सहायता के लिए उपयोग नहीं किया जा सकता।
+- **नाम, फ़ोन**: एप्लिकेशन से बदला नहीं जा सकता। यदि आप इसे अपडेट करना चाहते हैं तो सहायता से संपर्क करें।
+- **पासवर्ड बदलें**: केवल ईमेल आधारित लॉगिन के लिए अनुमति है। संख्या, ऊपरी, निचला, विशेष और 8 न्यूनतम वर्ण आवश्यक हैं। आपको अपना पासवर्ड अपडेट करने के लिए हाल ही में साइन इन करना होगा।
+- **सूचनाएँ**: सदस्यता सेवाओं के लिए अधिसूचना प्राथमिकताएँ अपडेट करें।
+- **थीम**: आपको "डार्क", और "लाइट" चुनने या "सिस्टम" थीम के आधार पर स्वचालित रूप से चुनने की अनुमति देता है।
+- **भाषा**: आपको एक विशिष्ट भाषा चुनने की अनुमति देता है। कृपया ध्यान दें कि कुछ इंटरफ़ेस अभी भी अंग्रेजी में होंगे।
+- **फेस/टच आईडी का उपयोग करें**: आपको डिवाइस के फेस या टच आईडी का उपयोग करके एप्लिकेशन में लॉग इन करने की अनुमति देता है।
+- **ट्रेडिंग चार्ट सक्षम करें**: खरीद/बिक्री के लिए ट्रेडिंग व्यू से मानक चार्ट पर स्विच करें और चार्ट से स्थिति देखें। केवल मोबाइल डिवाइस के लिए लागू।
+- **डिवाइस**: समय और आईपी पते और स्थान (यदि उपलब्ध हो) के आधार पर खाता लॉगिन इतिहास देखें।
+- **खाता अपडेट**: आपको अपनी सदस्यता सेवा को अपडेट करने या अपना खाता हटाने की अनुमति देता है।
+- यदि आप चाहते हैं कि खाता स्थायी रूप से हटा दिया जाए, तो कृपया हमसे [privacy@tradegrub.com](mailto:privacy@tradegrub.com) पर संपर्क करें।
+- सदस्यता समाप्त करने के अनुरोध को शेड्यूल करने के लिए कृपया हमसे [payments@tradegrub.com](mailto:payments@tradegrub.com) पर संपर्क करें।

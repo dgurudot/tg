@@ -1,4 +1,4 @@
-# **Instructions to new Zerodha Account**
-- **Step 1:** The Account ID field is optional since it is auto-generated for every unique user. You don't need to manually enter anything in this field.
-- **Step 2:** Input your complete Account name in Account name field.
-- **Step 3:** Click set and continue using your new account by setting it default.
+# **नए Zerodha खाते के लिए निर्देश**
+- **चरण 1:** खाता आईडी फ़ील्ड वैकल्पिक है क्योंकि यह प्रत्येक अद्वितीय उपयोगकर्ता के लिए स्वचालित रूप से जेनरेट की जाती है। आपको इस फ़ील्ड में मैन्युअल रूप से कुछ भी दर्ज करने की आवश्यकता नहीं है।
+- **चरण 2:** खाता नाम फ़ील्ड में अपना पूरा खाता नाम दर्ज करें।
+- **चरण 3:** सेट पर क्लिक करें और इसे डिफ़ॉल्ट सेट करके अपने नए खाते का उपयोग जारी रखें।

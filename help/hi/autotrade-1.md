@@ -1,6 +1,6 @@
-## Agree that you must pay attention to auto trade and do NOT leave it unattended
+## सहमत हैं कि आपको ऑटो ट्रेड पर ध्यान देना चाहिए और इसे अनदेखा नहीं करना चाहिए
 
-You're are always supposed to pay attention and take control of your auto trades when appropriate
-- Auto trade is similar to car driver-assist technology like cruise control and auto-pilot where the trader is always required to pay attention to the screen and be able to take control of your trades manually.
-- If your trading application is not active or loses network connectivity then auto trades would STOP executing. If you have an active order with stop active with broker then it would get executed by your broker but you will not be able to execute any other auto trade signals while network is disconnected on device with autotrade enabled.
-- AutoTrade is NOT managed service and should NOT be assumed and treated that way. Kindly set your appropriate risk management controls available via platform and use autotrade and global account settings to fine tune it based on your individual risk appetite.
+आपको हमेशा ध्यान देना चाहिए और उचित होने पर अपने ऑटो ट्रेड पर नियंत्रण रखना चाहिए
+- ऑटो ट्रेड कार ड्राइवर-सहायता तकनीक जैसे क्रूज़ कंट्रोल और ऑटो-पायलट के समान है जहाँ व्यापारी को हमेशा स्क्रीन पर ध्यान देने और अपने ट्रेड को मैन्युअल रूप से नियंत्रित करने में सक्षम होने की आवश्यकता होती है।
+- यदि आपका ट्रेडिंग एप्लिकेशन सक्रिय नहीं है या नेटवर्क कनेक्टिविटी खो देता है तो ऑटो ट्रेड निष्पादित करना बंद कर देगा। यदि आपके पास ब्रोकर के साथ स्टॉप एक्टिव वाला कोई सक्रिय ऑर्डर है तो यह आपके ब्रोकर द्वारा निष्पादित किया जाएगा लेकिन आप ऑटोट्रेड सक्षम डिवाइस पर नेटवर्क डिस्कनेक्ट होने पर किसी अन्य ऑटो ट्रेड सिग्नल को निष्पादित नहीं कर पाएंगे।
+- ऑटोट्रेड प्रबंधित सेवा नहीं है और इसे उस तरह से नहीं माना जाना चाहिए और न ही व्यवहार किया जाना चाहिए। कृपया प्लेटफ़ॉर्म के माध्यम से उपलब्ध अपने उचित जोखिम प्रबंधन नियंत्रण सेट करें और अपनी व्यक्तिगत जोखिम क्षमता के आधार पर इसे ठीक करने के लिए ऑटोट्रेड और वैश्विक खाता सेटिंग्स का उपयोग करें।

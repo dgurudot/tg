@@ -1,14 +1,14 @@
-# **Performance**
+# **प्रदर्शन**
 
-Displays account performance as given below:
-  - **Portfolio:** Total no of positions in the portfolio
-  - **Buying Power:** Total buying power for account
-  - **Month Buy:** Total no of buy transactions in a specific month
-  - **Month Sell:** Total no of sell transactions in a specific month
-  - **Month Interest:** Interest on your account for a specific month
-  - **Month Dividend:** Total dividend received during a specific month
-  - **Month Profit:** Total profit for specific month
-  - **Month Net Profit:** Total profit + Dividend - Interest
-  - **YTD Net Buy:** Year-to-date net buy transaction count
-  - **YTD Net Sell:** Year-to-date net sell transaction count
-  - **YTD Net Profit:** Year to date net profit
+नीचे दिए गए अनुसार खाता प्रदर्शन प्रदर्शित करता है:
+- **पोर्टफोलियो:** पोर्टफोलियो में पदों की कुल संख्या
+- **खरीदने की शक्ति:** खाते के लिए कुल खरीद शक्ति
+- **मासिक खरीद:** किसी विशिष्ट महीने में खरीद लेनदेन की कुल संख्या
+- **मासिक बिक्री:** किसी विशिष्ट महीने में बिक्री लेनदेन की कुल संख्या
+- **मासिक ब्याज:** किसी विशिष्ट महीने के लिए आपके खाते पर ब्याज
+- **मासिक लाभांश:** किसी विशिष्ट महीने के दौरान प्राप्त कुल लाभांश
+- **मासिक लाभ:** विशिष्ट महीने के लिए कुल लाभ
+- **मासिक शुद्ध लाभ:** कुल लाभ + लाभांश - ब्याज
+- **YTD शुद्ध खरीद:** वर्ष-दर-वर्ष शुद्ध खरीद लेनदेन की संख्या
+- **YTD शुद्ध बिक्री:** वर्ष-दर-वर्ष शुद्ध बिक्री लेनदेन की संख्या
+- **YTD शुद्ध लाभ:** वर्ष-दर-वर्ष शुद्ध लाभ

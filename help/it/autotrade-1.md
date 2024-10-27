@@ -1,0 +1,6 @@
+## Concordo sul fatto che devi prestare attenzione al trading automatico e NON lasciarlo incustodito
+
+Dovresti sempre prestare attenzione e prendere il controllo dei tuoi scambi automatici quando appropriato
+- Il trading automatico è simile alla tecnologia di assistenza alla guida delle auto come il cruise control e il pilota automatico, in cui il trader è sempre tenuto a prestare attenzione allo schermo ed essere in grado di prendere il controllo dei propri scambi manualmente.
+- Se la tua applicazione di trading non è attiva o perde la connettività di rete, gli scambi automatici INTERROMPERANNO l'esecuzione. Se hai un ordine attivo con stop attivo con il broker, verrà eseguito dal tuo broker, ma non sarai in grado di eseguire altri segnali di trading automatico mentre la rete è disconnessa sul dispositivo con il trading automatico abilitato.
+- Il trading automatico NON è un servizio gestito e NON deve essere assunto e trattato in questo modo. Imposta i tuoi controlli di gestione del rischio appropriati disponibili tramite la piattaforma e usa le impostazioni del conto automatico e globale per perfezionarlo in base alla tua propensione al rischio individuale.

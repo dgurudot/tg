@@ -1,11 +1,13 @@
-# **ReEntry Count**
+# **पुनःप्रवेश गणना**
 
-## Purpose: 
+## उद्देश्य:
 
-- This setting allows you to adjust the number of times we would retry limit order with offset before finally placing market order.
+- यह सेटिंग आपको मार्केट ऑर्डर देने से पहले ऑफसेट के साथ लिमिट ऑर्डर को पुनः प्रयास करने की संख्या को समायोजित करने की अनुमति देती है।
 
-## Example:
+## उदाहरण:
 
-- If your retry count is 1, then signal will first try to fill the order at price received in signal. 
-- If it doesn't get filled, then there will be only 1 retry (based on retry count setting and can be changed) and it will use the Ask plus offset for Buy or Bid minus offset for Sell signal. 
-- Once the retry attempts are exhausted, then market order will be placed.
+- यदि आपकी पुनः प्रयास संख्या 1 है, तो सिग्नल सबसे पहले सिग्नल में प्राप्त मूल्य पर ऑर्डर को भरने का प्रयास करेगा।
+
+- यदि यह नहीं भरा जाता है, तो केवल 1 पुनः प्रयास होगा (पुनः प्रयास संख्या सेटिंग के आधार पर और इसे बदला जा सकता है) और यह खरीद के लिए आस्क प्लस ऑफसेट या बिक्री सिग्नल के लिए बोली माइनस ऑफसेट का उपयोग करेगा।
+
+- एक बार पुनः प्रयास प्रयास समाप्त हो जाने के बाद, मार्केट ऑर्डर रखा जाएगा।

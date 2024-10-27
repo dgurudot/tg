@@ -1,0 +1,7 @@
+# **Cara kami menghitung kinerja**
+- **Perolehan %** mencerminkan kisaran keuntungan untuk perdagangan tertentu. Ini juga menunjukkan target keuntungan yang dicapai dengan warna hijau.
+- Perdagangan "ditutup" ketika kami tidak merekomendasikan pembelian tambahan untuk saham dan kami berada di zona jual. Anda dapat terus bertahan di zona jual untuk perdagangan swing dan long.
+- Keuntungan minimum yang diperoleh adalah dari harga B1 (Harga Beli Pertama) hingga S1 (Target Jual Pertama) yang kami capai.
+- Jika Anda bertahan di luar S1 di zona jual, maka Anda mendapatkan potensi keuntungan maksimal dan ditunjukkan dalam kisaran Perolehan % di mana kami mencapai target S3.
+- Perdagangan harian tidak memiliki penahanan lebih dari satu hari sehingga kami biasanya tidak melacak pencapaian target S2, S3 meskipun pengguna masih dapat memilih untuk menjual hanya sebagian di S1 dan kemudian menghasilkan lebih banyak keuntungan di S2, S3 dan seterusnya pada hari yang sama. Untuk perdagangan harian (dengan tag D), kami hanya menunjukkan keuntungan minimum untuk perdagangan tertentu.
+- Perdagangan swing ditandai dengan tag "S" (warna kuning). Perdagangan jangka panjang ditandai dengan label warna "L" (Hijau) yang terletak di sebelah simbol di sisi kanan.

@@ -1,6 +1,6 @@
 
-## Agree that you must keep your trading app OPEN and do NOT put in background or stop or kill app
+## सहमत हैं कि आपको अपना ट्रेडिंग ऐप खुला रखना चाहिए और उसे बैकग्राउंड में नहीं रखना चाहिए या ऐप को बंद या बंद नहीं करना चाहिए
 
-You're are always supposed to keep your trading app OPEN and in FOREGROUND for auto trades to execute
-- Auto Trade requires your TradeGrub trading application to be always open, in foreground and active for auto trade execution.
-- If you have connectivity issues then keep it running on a remote PC or cloud server and remote desktop to it to ensure application is always open and have reliable network connectivity.
+आपको हमेशा अपने ट्रेडिंग ऐप को खुला और फ़ोरग्राउंड में रखना चाहिए ताकि ऑटो ट्रेड निष्पादित हो सके
+- ऑटो ट्रेड के लिए आपके TradeGrub ट्रेडिंग एप्लिकेशन को हमेशा खुला, फ़ोरग्राउंड में और ऑटो ट्रेड निष्पादन के लिए सक्रिय होना चाहिए।
+- यदि आपको कनेक्टिविटी की समस्या है तो इसे रिमोट पीसी या क्लाउड सर्वर और रिमोट डेस्कटॉप पर चालू रखें ताकि यह सुनिश्चित हो सके कि एप्लिकेशन हमेशा खुला रहे और विश्वसनीय नेटवर्क कनेक्टिविटी हो।

@@ -1,0 +1,7 @@
+# **Come calcoliamo le prestazioni**
+- **Guadagno %** riflette l'intervallo di profitto per una specifica operazione. Mostra anche l'obiettivo di profitto raggiunto dal colore verde.
+- L'operazione è "chiusa" quando non consigliamo ulteriori acquisti di azioni e siamo nella zona di vendita. Puoi continuare a mantenere nella zona di vendita per operazioni swing e long.
+- Il profitto minimo catturato è dal prezzo B1 (primo acquisto) al prezzo S1 (primo obiettivo di vendita) che abbiamo raggiunto.
+- Se mantieni oltre S1 nella zona di vendita, ottieni il massimo potenziale di profitto e viene mostrato nell'intervallo di guadagno % dove raggiungiamo l'obiettivo S3.
+- Le operazioni giornaliere non hanno tenuta oltre un giorno, quindi in genere non monitoriamo il raggiungimento degli obiettivi S2, S3, sebbene gli utenti possano comunque scegliere di vendere solo una parte a S1 e quindi realizzare più profitti a S2, S3 e oltre lo stesso giorno. Per le operazioni giornaliere (con tag D), mostriamo solo il profitto minimo per una specifica operazione.
+- Le operazioni swing sono contrassegnate con il tag "S" (colore ambra). Le negoziazioni a lungo termine sono contrassegnate con il tag di colore "L" (verde) situato accanto al simbolo sul lato destro.

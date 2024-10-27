@@ -1,12 +1,12 @@
-## Agree that you are always in control of auto trades
+## सहमत हैं कि आप हमेशा ऑटो ट्रेडों के नियंत्रण में हैं
 
-You have full control of AutoTrades by using the appropriate settings
-- You can practice and try out risk free using paper trading simulator account (Alpaca paper trading account as an example) and get full understanding of system before using real accounts.
-- You can enable or disable auto trades at any time on specific device or do manual trade execution and exit out of positions as well while AutoTrade is enabled.
-- You can include or exclude certain symbols for auto trades.
-- You can determine the % of investment ratio to be used for single trade.
-- You can also keep your risk tolerance stop loss % and adjust market retry count from default.
-- You can also choose the price (Bid, Mark or Ask) and specific offset to use for retry along with retry timer.
-- You can also use global account level investment % and buying power threshold.
+उचित सेटिंग्स का उपयोग करके आपके पास ऑटोट्रेड्स का पूरा नियंत्रण है
+- आप पेपर ट्रेडिंग सिम्युलेटर अकाउंट (उदाहरण के लिए अल्पाका पेपर ट्रेडिंग अकाउंट) का उपयोग करके जोखिम मुक्त अभ्यास और प्रयास कर सकते हैं और वास्तविक खातों का उपयोग करने से पहले सिस्टम की पूरी समझ प्राप्त कर सकते हैं।
+- आप किसी भी समय विशिष्ट डिवाइस पर ऑटो ट्रेड को सक्षम या अक्षम कर सकते हैं या मैन्युअल ट्रेड निष्पादन कर सकते हैं और ऑटोट्रेड सक्षम होने पर पोजीशन से बाहर निकल सकते हैं।
+- आप ऑटो ट्रेड के लिए कुछ प्रतीकों को शामिल या बहिष्कृत कर सकते हैं।
+- आप एकल ट्रेड के लिए उपयोग किए जाने वाले निवेश अनुपात का % निर्धारित कर सकते हैं।
+- आप अपने जोखिम सहनशीलता स्टॉप लॉस % को भी रख सकते हैं और डिफ़ॉल्ट से मार्केट रिट्री काउंट को समायोजित कर सकते हैं।
+- आप रिट्री टाइमर के साथ-साथ रिट्री के लिए उपयोग करने के लिए मूल्य (बोली, मार्क या पूछ) और विशिष्ट ऑफसेट भी चुन सकते हैं।
+- आप वैश्विक खाता स्तर के निवेश % और क्रय शक्ति सीमा का भी उपयोग कर सकते हैं।
 
-You can view our full list of [Terms](https://tradegrub.com/terms) via App Support or www.tradegrub.com as well. 
+आप ऐप सहायता या www.tradegrub.com के माध्यम से हमारी [शर्तों](https://tradegrub.com/terms) की पूरी सूची देख सकते हैं।

@@ -1,0 +1,41 @@
+# **Insights**
+
+Exibe insights da conta conforme abaixo:
+- **Valor de alocação:** Gráfico de bolhas mostrando o valor atual de cada posição no portfólio
+- **Valor %:** Gráfico de pizza mostrando % do valor de cada posição no portfólio.
+- **Custo:** Gráfico de pizza mostrando a alocação de custos para cada posição no portfólio.
+- **Custo %:** Gráfico de funil mostrando a % de alocação de custos superior para posições no portfólio.
+- **Investimento: Índice de caixa** Gráfico mostrando o investimento total e o saldo de caixa.
+- **Distribuição por setor:** (opcional) Mostra a distribuição de posições para cada setor.
+- **Meta mensal:** Mostra os anéis de progresso com base nas metas mensais definidas em estatísticas.
+- **Meta anual:** Mostra o progresso com base nas metas anuais definidas em estatísticas.
+- **Diário:** Mostra o resumo do lucro diário na visualização do calendário
+- **(Lucros mensais):** Mostra os lucros ou perdas de todas as transações em um mês específico.
+- **(Lucros anuais):** Mostra o resumo do lucro/perda de um ano específico.
+- **P/L não realizado %:** Mostra o resumo de todas as posições atuais de lucro/perda não realizado %.
+- **Compra, Venda e Ganho %:** Mostra o resumo de compra, venda, ganho % para transações diárias em um mês específico.
+- **P/L, Depósito e Saque:** Mostra a tendência de P/L junto com depósitos e saques de contas para anos específicos.
+- **Precisão mensal:** Mostra a precisão mensal para negociações e categoriza em três grandes graus.
+- **Precisão anual:** Mostra a precisão anual para negociações para todos os meses.
+- **Taxa de risco/recompensa:** Mostra a taxa de risco e recompensa e categoriza em três grandes graus.
+- **Consistência:** Mostra a consistência das negociações e categoriza em três grandes graus.
+- **Precisão mensal:** Mostra a precisão mensal % em todas as negociações.
+- **Faixa de lucro:** (opcional) Mostra a faixa de lucro em todas as negociações.
+- **Distribuição de Ganho:** Mostra a distribuição de ganho % em todas as negociações.
+- **Contagem de Negociações:** Mostra a tendência da contagem de negociações para um ano ou mês específico.
+- **Contagem de Volume:** Mostra a tendência da contagem de volume para um ano ou mês específico.
+- **Contagem de Negociações Semanais:** Mostra a contagem de negociações semanais como um gráfico de barras.
+- **Precisão Semanal:** Mostra a tendência da precisão semanal para todas as negociações.
+- **Contagem de Negociações por Hora:** Mostra a tendência das negociações em uma hora específica do dia como um gráfico de barras.
+- **Precisão por Hora:** Mostra a tendência da precisão das negociações em um mês específico.
+- **Distribuição de Duração:** Mostra a tendência da duração da retenção de negociações em todas as negociações. 
+- **Precisão de Duração:** Mostra a tendência da precisão para tipos de negociações (Intraday, Swing ou Longo Prazo).
+- **Distribuição de Preço:** Mostra a tendência da faixa de preço para todas as negociações.
+- **Precisão por Preço:** Mostra a tendência da precisão da conta para a faixa de preço.
+- **Distribuição de volume:** Mostra a tendência de distribuição de volume das negociações.
+- **Precisão por volume:** Mostra a tendência de precisão com base no volume.
+- **Top 10:** Mostra as dez principais negociações
+- **Bottom 10:** Mostra as 10 últimas negociações
+- **Earnings:** (Opcional) Calendário de ganhos para posições no portfólio.
+- **World Clock:** Relógio mundial mostrando fusos horários importantes.
+

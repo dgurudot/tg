@@ -1,10 +1,8 @@
-# **Instructions for adding Goldring Account**
-- **Step 1:** Add your existing Goldring account username and password. 
-  - You must have an existing Goldring account. If you don't have Goldring account, then click on "Sign Up" at bottom of screen.
-  - Enable "Demo" checkbox for demo/test/paper account.
-- **Step 2:** Click on "Sign In" button to authenticate and sign-in to existing goldring account for add.
-  - All linked accounts for user would be added automatically.
-  - Click on "Forgot Password ?" if you forgot your existing account password.
-
-    
-- **Notes:** For any help adding goldring account, click on "?" at top right for support.
+# **गोल्डरिंग खाता जोड़ने के लिए निर्देश**
+- **चरण 1:** अपना मौजूदा गोल्डरिंग खाता उपयोगकर्ता नाम और पासवर्ड जोड़ें।
+- आपके पास एक मौजूदा गोल्डरिंग खाता होना चाहिए। यदि आपके पास गोल्डरिंग खाता नहीं है, तो स्क्रीन के नीचे "साइन अप" पर क्लिक करें।
+- डेमो/टेस्ट/पेपर खाते के लिए "डेमो" चेकबॉक्स सक्षम करें।
+- **चरण 2:** जोड़ने के लिए मौजूदा गोल्डरिंग खाते में प्रमाणित और साइन-इन करने के लिए "साइन इन" बटन पर क्लिक करें।
+- उपयोगकर्ता के लिए सभी लिंक किए गए खाते स्वचालित रूप से जोड़े जाएंगे।
+- यदि आप अपना मौजूदा खाता पासवर्ड भूल गए हैं तो "पासवर्ड भूल गए?" पर क्लिक करें।
+- **नोट:** गोल्डरिंग खाता जोड़ने में किसी भी सहायता के लिए, सहायता के लिए ऊपर दाईं ओर "?" पर क्लिक करें।

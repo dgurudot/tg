@@ -1,0 +1,4 @@
+# **Pro Siparişleri**
+
+- **Araçlar**: Belirli bilgileri göstermek için her pano düzenindeki döşemeler. Örnek: Teklif, Hızlı İşlemler, Grafikler, vb. Bu araçlar renklere göre gruplandırılabilir. Örnek: Teklif aracındaki sembol değişirse, hızlı işlemler ve grafik aynı sembol için güncellenir.
+- **Düzen**: Sağ üstteki ayarları kullanarak özelleştirilebilen dört kullanılabilir düzeniniz vardır ve ayrıca bazı araçlar belirli bir aracın sağ üst köşesindeki üç nokta genişletme menüsüne basılarak özelleştirilebilir. Örneğin: Hızlı İşlemler aracı, her bir kısayol düğmesini tuşlar ve eylemlerle birlikte özelleştirmenize olanak tanır.

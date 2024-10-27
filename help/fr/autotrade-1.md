@@ -1,0 +1,6 @@
+## Acceptez que vous devez faire attention au trading automatique et NE le laissez PAS sans surveillance
+
+Vous êtes toujours censé faire attention et prendre le contrôle de vos transactions automatiques lorsque cela est approprié
+- Le trading automatique est similaire à la technologie d'assistance au conducteur de voiture comme le régulateur de vitesse et le pilote automatique où le trader est toujours tenu de faire attention à l'écran et de pouvoir prendre le contrôle de vos transactions manuellement.
+- Si votre application de trading n'est pas active ou perd la connectivité réseau, les transactions automatiques ARRÊTERONT de s'exécuter. Si vous avez un ordre actif avec un arrêt actif avec un courtier, il sera exécuté par votre courtier, mais vous ne pourrez pas exécuter d'autres signaux de trading automatique tant que le réseau est déconnecté sur l'appareil avec le trading automatique activé.
+- AutoTrade n'est PAS un service géré et ne doit PAS être supposé et traité de cette façon. Veuillez définir vos contrôles de gestion des risques appropriés disponibles via la plateforme et utiliser les paramètres de trading automatique et de compte global pour l'ajuster en fonction de votre appétence au risque individuelle.

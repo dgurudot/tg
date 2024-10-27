@@ -1,10 +1,10 @@
-# **Max Slippage**
+# **अधिकतम स्लिपेज**
 
-## Purpose: 
+## उद्देश्य:
 
-- This setting allows you to specify the maximum percentage slippage from the signal to actual limit order price.
+- यह सेटिंग आपको सिग्नल से वास्तविक सीमा आदेश मूल्य तक अधिकतम प्रतिशत स्लिपेज निर्दिष्ट करने की अनुमति देती है।
 
-## Example:
+## उदाहरण:
 
-- If your max slippage is 1%, and signal received is for $100 buy price then your retry would stop if the actual limit order price is above $101 
+- यदि आपका अधिकतम स्लिपेज 1% है, और प्राप्त सिग्नल $100 खरीद मूल्य के लिए है, तो वास्तविक सीमा आदेश मूल्य $101 से ऊपर होने पर आपका पुनः प्रयास बंद हो जाएगा
 

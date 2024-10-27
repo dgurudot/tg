@@ -1,5 +1,5 @@
-# **Payments for TradeGrub Service Subscription**
+# **ट्रेडग्रब सेवा सदस्यता के लिए भुगतान**
 
-- **Step 1:** Kindly go to https://tradegrub.web.app/#signin_screen and login to existing account
-- **Step 2:** Navigate to specific service from pro trader, select payment plan
-- **Step 3:** Provide credit card details for secured payment processing via our trusted Stripe payment partner.
+- **चरण 1:** कृपया https://tradegrub.web.app/#signin_screen पर जाएं और मौजूदा खाते में लॉगिन करें
+- **चरण 2:** प्रो ट्रेडर से विशिष्ट सेवा पर जाएं, भुगतान योजना चुनें
+- **चरण 3:** हमारे विश्वसनीय स्ट्राइप भुगतान भागीदार के माध्यम से सुरक्षित भुगतान प्रसंस्करण के लिए क्रेडिट कार्ड विवरण प्रदान करें।

@@ -1,11 +1,16 @@
-# **Watchlist**
+# **वॉचलिस्ट**
 
-Displays current Watchlist in **grid mode (default)** or **table mode**. 
-You can change the mode and enable/disable using the blue button on the bottom right of the screen.
-Click on settings from the top left to reorder and enable/disable specific headers.
+वर्तमान वॉचलिस्ट को **ग्रिड मोड (डिफ़ॉल्ट)** या **टेबल मोड** में प्रदर्शित करता है।
 
-**Note:** A user can have multiple watchlists.
+आप स्क्रीन के नीचे दाईं ओर नीले बटन का उपयोग करके मोड बदल सकते हैं और सक्षम/अक्षम कर सकते हैं।
 
-**Options:**
-  - **Edit Icon:** It will edit the existing watchlist.
-  - **Add Icon:** It will create a new watchlist.
+विशिष्ट हेडर को पुनः क्रमित करने और सक्षम/अक्षम करने के लिए ऊपर बाईं ओर से सेटिंग पर क्लिक करें।
+
+**नोट:** एक उपयोगकर्ता के पास कई वॉचलिस्ट हो सकती हैं।
+
+**विकल्प:**
+
+- **संपादन आइकन:** यह मौजूदा वॉचलिस्ट को संपादित करेगा।
+
+- **जोड़ें आइकन:** यह एक नई वॉचलिस्ट बनाएगा।
+

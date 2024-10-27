@@ -1,7 +1,10 @@
-# **Select Account Type**
- 
-- Select your specific stock brokerage, crypto exchange or data source account and add new account based on specific instructions for account type. 
-- Broker capabilities are listed on account type selection tile. 
-- For example, Alpaca support paper trading, TD Ameritrade support real-time data source.
-  
-- **Note**: If you don't see specific account type in list, then you can add **read-only (no trading allowed)** account type for any broker via **Others** account type which would securely connect via Plaid.
+# **खाता प्रकार चुनें**
+
+- अपना विशिष्ट स्टॉक ब्रोकरेज, क्रिप्टो एक्सचेंज या डेटा स्रोत खाता चुनें और खाता प्रकार के लिए विशिष्ट निर्देशों के आधार पर नया खाता जोड़ें।
+
+- ब्रोकर क्षमताएँ खाता प्रकार चयन टाइल पर सूचीबद्ध हैं।
+
+- उदाहरण के लिए, अल्पाका पेपर ट्रेडिंग का समर्थन करता है, टीडी अमेरिट्रेड वास्तविक समय डेटा स्रोत का समर्थन करता है।
+
+- **नोट**: यदि आपको सूची में विशिष्ट खाता प्रकार दिखाई नहीं देता है, तो आप **अन्य** खाता प्रकार के माध्यम से किसी भी ब्रोकर के लिए **केवल पढ़ने के लिए (कोई ट्रेडिंग की अनुमति नहीं है)** खाता प्रकार जोड़ सकते हैं जो प्लेड के माध्यम से सुरक्षित रूप से कनेक्ट होगा।
+

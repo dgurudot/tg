@@ -1,6 +1,6 @@
-# **Withdrawals**
+# **निकासी**
 
-- Displays withdrawals for specific account. 30 days by default.
-- Click on filter button from top right to change date range.
-- Click on the plus button from top right to add new withdrawal.
-- Swipe left on active withdrawal to cancel.
+- विशिष्ट खाते के लिए निकासी प्रदर्शित करता है। डिफ़ॉल्ट रूप से 30 दिन।
+- तिथि सीमा बदलने के लिए ऊपर दाईं ओर से फ़िल्टर बटन पर क्लिक करें।
+- नई निकासी जोड़ने के लिए ऊपर दाईं ओर से प्लस बटन पर क्लिक करें।
+- रद्द करने के लिए सक्रिय निकासी पर बाईं ओर स्वाइप करें।

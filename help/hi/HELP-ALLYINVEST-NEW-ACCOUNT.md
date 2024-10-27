@@ -1,7 +1,7 @@
-# **Instructions for getting keys**
- - **Step 1:** Go to [https://secure.ally.com/](https://secure.ally.com/) from new and separate browser window (or by clicking on link above) and login to your existing account.
- - **Step 2:** From top left menu, select account and then Investments, select the 'Tools' dropdown and then go to 'API'. Click on 'Create a New Application'.
- - **Step 3:** Select Personal Application and fill in all your details. Click on 'Create'.
- - **Step 4:** Your personal application must be visible now under the 'Developer Applications' in your account.
- - **Step 5:** You can find your Consumer key, Consumer secret, OAuth Token and OAuth Token Secret by clicking on your application under 'Developer Applications'.
- - **Step 6:** Add four keys from Step 5 to app for adding new AllyInvest account.
+# **कुंजी प्राप्त करने के लिए निर्देश**
+- **चरण 1:** नई और अलग ब्राउज़र विंडो से [https://secure.ally.com/](https://secure.ally.com/) पर जाएँ (या ऊपर दिए गए लिंक पर क्लिक करके) और अपने मौजूदा खाते में लॉगिन करें।
+- **चरण 2:** ऊपरी बाएँ मेनू से, खाता और फिर निवेश चुनें, 'टूल' ड्रॉपडाउन चुनें और फिर 'API' पर जाएँ। 'नया एप्लिकेशन बनाएँ' पर क्लिक करें।
+- **चरण 3:** व्यक्तिगत एप्लिकेशन चुनें और अपनी सभी जानकारी भरें। 'बनाएँ' पर क्लिक करें।
+- **चरण 4:** आपका व्यक्तिगत एप्लिकेशन अब आपके खाते में 'डेवलपर एप्लिकेशन' के अंतर्गत दिखाई देना चाहिए।
+- **चरण 5:** आप 'डेवलपर एप्लिकेशन' के अंतर्गत अपने एप्लिकेशन पर क्लिक करके अपनी उपभोक्ता कुंजी, उपभोक्ता गुप्त, OAuth टोकन और OAuth टोकन गुप्त पा सकते हैं।
+- **चरण 6:** नया AllyInvest खाता जोड़ने के लिए चरण 5 से चार कुंजियाँ ऐप में जोड़ें।

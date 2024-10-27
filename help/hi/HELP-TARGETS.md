@@ -1,19 +1,14 @@
-# **Set Targets**
+# **लक्ष्य निर्धारित करें**
 
-Sets specific user account targets
+विशिष्ट उपयोगकर्ता खाता लक्ष्य निर्धारित करता है
 
-- **Enable Threshold:** Enable threshold for warning based on BP Threshold % and Cost Threshold at the time of placing orders.
-- **Investment:** It will be sum total of "deposit" type transactions. User can override total investment.
-- **Month Sell:** Number of monthly sell target user wants to track in Insights.
-- **Month Buy:** Number of monthly buy target user wants to track in Insights.
-- **Portfolio Size:** Total Number of positions target for diversity that user wants to track in Insights.
-- **Monthly Profit %:** Profit % goal for month that user wants to track in Insights.
-- **Yearly Profit %:** Profit % goal for year that user wants to track in Insights.
-- **BP Threshold %:** Buying power threshold % for which user wants to get warning while placing orders.
-- **Cost Threshold:** Total cost of all positions (including new buy) that user wants to get warning while placing orders.
-
-
-
-
-
+- **सीमा सक्षम करें:** ऑर्डर देते समय BP सीमा % और लागत सीमा के आधार पर चेतावनी के लिए सीमा सक्षम करें।
+- **निवेश:** यह "जमा" प्रकार के लेन-देन का कुल योग होगा। उपयोगकर्ता कुल निवेश को ओवरराइड कर सकता है।
+- **मासिक बिक्री:** मासिक बिक्री लक्ष्य की संख्या जिसे उपयोगकर्ता इनसाइट्स में ट्रैक करना चाहता है।
+- **मासिक खरीद:** मासिक खरीद लक्ष्य की संख्या जिसे उपयोगकर्ता इनसाइट्स में ट्रैक करना चाहता है।
+- **पोर्टफोलियो आकार:** विविधता के लिए लक्षित पदों की कुल संख्या जिसे उपयोगकर्ता इनसाइट्स में ट्रैक करना चाहता है।
+- **मासिक लाभ %:** महीने के लिए लाभ % लक्ष्य जिसे उपयोगकर्ता इनसाइट्स में ट्रैक करना चाहता है।
+- **वार्षिक लाभ %:** वर्ष के लिए लाभ % लक्ष्य जिसे उपयोगकर्ता इनसाइट्स में ट्रैक करना चाहता है।
+- **BP सीमा %:** क्रय शक्ति सीमा % जिसके लिए उपयोगकर्ता ऑर्डर देते समय चेतावनी प्राप्त करना चाहता है।
+- **लागत सीमा:** उन सभी स्थितियों की कुल लागत (नई खरीद सहित) जिनके बारे में उपयोगकर्ता ऑर्डर देते समय चेतावनी प्राप्त करना चाहता है।
 

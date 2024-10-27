@@ -1,9 +1,9 @@
-# **Stop Loss Percent**
+# **स्टॉप लॉस प्रतिशत**
 
-## Purpose: 
+## उद्देश्य:
 
-- This setting allows you to adjust the default stop loss % from buy price for buy signal.
+- यह सेटिंग आपको खरीद सिग्नल के लिए खरीद मूल्य से डिफ़ॉल्ट स्टॉप लॉस प्रतिशत समायोजित करने की अनुमति देती है।
 
-## Example:
+## उदाहरण:
 
-- If you are buying AAPL stock at $100 then stop loss will be placed at $99 along with Buy with "Stop Loss Percent" of 1%.
+- यदि आप AAPL स्टॉक $100 पर खरीद रहे हैं तो स्टॉप लॉस $99 पर रखा जाएगा और साथ ही 1% के "स्टॉप लॉस प्रतिशत" के साथ खरीदें।

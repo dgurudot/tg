@@ -1,11 +1,11 @@
-# **Buy Offset**
+# **ऑफ़सेट खरीदें**
 
-## Purpose: 
+## उद्देश्य:
 
-- This setting allows you to adjust the buy price by fixed offset. Buy offset will be added to selected buy price (Could be Ask, Bid or Mark. Default = Ask).
+- यह सेटिंग आपको निश्चित ऑफ़सेट द्वारा खरीद मूल्य को समायोजित करने की अनुमति देती है। खरीद ऑफ़सेट चयनित खरीद मूल्य में जोड़ा जाएगा (पूछें, बोली या मार्क हो सकता है। डिफ़ॉल्ट = पूछें)।
 
-- Trade will be placed initially at Buy price received in signal. If it doesn't get executed within 5 seconds, then retry attempt will buy at buy price (Could be Ask, Bid or Mark. Default = Ask) plus offset (default is 0.05). 
+- ट्रेड को शुरू में सिग्नल में प्राप्त खरीद मूल्य पर रखा जाएगा। यदि यह 5 सेकंड के भीतर निष्पादित नहीं होता है, तो पुनः प्रयास खरीद मूल्य (पूछें, बोली या मार्क हो सकता है। डिफ़ॉल्ट = पूछें) प्लस ऑफ़सेट (डिफ़ॉल्ट 0.05 है) पर खरीद करेगा।
 
-## Example:
+## उदाहरण:
 
-- Buy signal $100 with Bid at $99 and Ask at $101. If initial limit order for Buy doesn't get filled at $100, then retry attempt will happen at $101 + 0.05 = $101.05.
+- $99 पर बोली और $101 पर पूछने के साथ $100 का खरीद संकेत। यदि खरीद के लिए प्रारंभिक सीमा आदेश $100 पर नहीं भरा जाता है, तो पुनः प्रयास $101 + 0.05 = $101.05 पर होगा।

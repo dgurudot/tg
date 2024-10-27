@@ -1,7 +1,13 @@
-# **How we compute performance**
- - **Gain %** reflect the profit range for specific trade. It also shows the profit target acheived by green color.
- - Trade is "closed" when we don't recommend any additional buys for stock and we are in sell zone. You can continue to hold in sell zone for swing and long trades.
- - Minimum captured profit is from B1 (First Buy Price) to S1 (First Sell Target) price that we reached.
- - If you hold beyond the S1 in sell zone, then you get the max profit potential and it is shown in Gain % range where we hit S3 target.
- - Day trades do not have hold beyond a day so we typically don't track hitting S2, S3 targets although users can still choose to sell only a portion at S1 and then make more profits at S2, S3 and beyond on same day. For Day trades (with D tag), we only show the minimum profit for specific trade.
- - Swing trades are tagged with "S" (Amber color) tag. Long term trades are tagged with "L" (Green) color tag located next to symbol on right side.
+# **हम प्रदर्शन की गणना कैसे करते हैं**
+
+- **लाभ %** विशिष्ट ट्रेड के लिए लाभ सीमा को दर्शाता है। यह हरे रंग से प्राप्त लाभ लक्ष्य को भी दर्शाता है।
+
+- जब हम स्टॉक के लिए कोई अतिरिक्त खरीद की अनुशंसा नहीं करते हैं और हम बिक्री क्षेत्र में होते हैं, तो ट्रेड "बंद" होता है। आप स्विंग और लॉन्ग ट्रेड के लिए बिक्री क्षेत्र में होल्ड करना जारी रख सकते हैं।
+
+- न्यूनतम कैप्चर किया गया लाभ B1 (पहली खरीद मूल्य) से S1 (पहली बिक्री लक्ष्य) मूल्य तक है, जिस तक हम पहुँचे हैं।
+
+- यदि आप बिक्री क्षेत्र में S1 से आगे होल्ड करते हैं, तो आपको अधिकतम लाभ क्षमता मिलती है और यह लाभ % सीमा में दिखाया जाता है जहाँ हम S3 लक्ष्य को प्राप्त करते हैं।
+
+- डे ट्रेड में एक दिन से आगे होल्ड नहीं होता है, इसलिए हम आम तौर पर S2, S3 लक्ष्यों को प्राप्त करने को ट्रैक नहीं करते हैं, हालाँकि उपयोगकर्ता अभी भी S1 पर केवल एक हिस्सा बेचने का विकल्प चुन सकते हैं और फिर उसी दिन S2, S3 और उससे आगे अधिक लाभ कमा सकते हैं। डे ट्रेड (D टैग के साथ) के लिए, हम केवल विशिष्ट ट्रेड के लिए न्यूनतम लाभ दिखाते हैं।
+
+- स्विंग ट्रेड को "S" (एम्बर रंग) टैग के साथ टैग किया जाता है। लॉन्ग टर्म ट्रेड को "L" (हरा) रंग टैग के साथ टैग किया जाता है जो दाईं ओर प्रतीक के बगल में स्थित होता है।

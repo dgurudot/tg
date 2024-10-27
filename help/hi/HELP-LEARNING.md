@@ -1,5 +1,5 @@
-# **Learning**
-  
-- **Courses**: View available courses (Free and Subscription) for various categories. View details and enroll for courses by using "Enroll".
-- **Enrolled**: View current enrolled courses and your progress (% completed). You can get more details of chapters and sections completed by going inside specific course.
-- **Favorite**: View your favorite courses and add them (using heart icon at top right) for specific course via **Courses**
+# **सीखना**
+
+- **पाठ्यक्रम**: विभिन्न श्रेणियों के लिए उपलब्ध पाठ्यक्रम (निःशुल्क और सदस्यता) देखें। विवरण देखें और "नामांकन" का उपयोग करके पाठ्यक्रमों के लिए नामांकन करें।
+- **नामांकित**: वर्तमान नामांकित पाठ्यक्रम और अपनी प्रगति (% पूर्ण) देखें। आप विशिष्ट पाठ्यक्रम के अंदर जाकर अध्यायों और पूर्ण किए गए अनुभागों के बारे में अधिक जानकारी प्राप्त कर सकते हैं।
+- **पसंदीदा**: अपने पसंदीदा पाठ्यक्रम देखें और उन्हें **पाठ्यक्रम** के माध्यम से विशिष्ट पाठ्यक्रम के लिए जोड़ें (ऊपर दाईं ओर दिल के चिह्न का उपयोग करके)

@@ -1,7 +1,8 @@
-# **Notification Settings**
-  
- 
-- Allows you to **select granular notifications** for each subscribed service. 
-- You can select the type of notifications (Trades, Updates, News) and specific type of service (Day, Swing, Long).
-- **IMPORTANT**: Trigger (Alert) notifications would only go to the last logged-in device. Trades, Updates, and News notifications would go to all logged-in devices.  
+# **अधिसूचना सेटिंग**
+
+- आपको प्रत्येक सब्सक्राइब की गई सेवा के लिए **विस्तृत अधिसूचनाएँ चुनने** की अनुमति देता है।
+
+- आप अधिसूचनाओं के प्रकार (ट्रेड, अपडेट, समाचार) और विशिष्ट प्रकार की सेवा (दिन, स्विंग, लंबी) चुन सकते हैं।
+
+- **महत्वपूर्ण**: ट्रिगर (अलर्ट) अधिसूचनाएँ केवल अंतिम लॉग-इन डिवाइस पर जाएँगी। ट्रेड, अपडेट और समाचार अधिसूचनाएँ सभी लॉग-इन डिवाइस पर जाएँगी।
 

@@ -1,10 +1,12 @@
-# **Positions, Transactions, Gains Filters**
+# **स्थिति, लेन-देन, लाभ फ़िल्टर**
 
+- यह सेटिंग आपको स्क्रीन पर केवल विशिष्ट आइटम को **फ़िल्टर करने और देखने** की अनुमति देती है। यह **संदर्भ संवेदनशील फ़िल्टर बटन** है, इसलिए चयनित तालिका (और टैब) के आधार पर, फ़िल्टर सेटिंग बदल जाएगी।
 
-- This setting allows you to **filter and view** specific items only on screen.  It is **context sensitive filter button** so depending on the selected table (and tab), filter settings would change.
-- Specific settings are given below for reference:
+- संदर्भ के लिए नीचे विशिष्ट सेटिंग दी गई हैं:
 
-- **Separate Symbols by a Comma** - Allows you to create a list of symbols and the display would only show records matching those symbols. Example: AAPL, TSLA, FB
-- **Type of Transaction (Sell, Buy, Int, Div, Wid, Dep, Other)** - Applicable for Transactions only. It will allow you to display transactions of types Buy, Sell, Interest, Dividend, Withdrawal, Deposit, and any other type of transaction.
-- **Days (14, 30, 60, All)** - Applicable for Transactions and Gains only. Allows you to load transactions of the last 14, 30, 60, or All days.
-- **Date Range** - Applicable for Transactions and Gains only. Allows you to select date ranges to show specific transactions.
+- **प्रतीकों को अल्पविराम से अलग करें** - आपको प्रतीकों की एक सूची बनाने की अनुमति देता है और डिस्प्ले केवल उन प्रतीकों से मेल खाने वाले रिकॉर्ड दिखाएगा। उदाहरण: AAPL, TSLA, FB
+
+- **लेन-देन का प्रकार (बिक्री, खरीद, इंट, डिव, विड, डिप, अन्य)** - केवल लेन-देन के लिए लागू। यह आपको खरीद, बिक्री, ब्याज, लाभांश, निकासी, जमा और किसी भी अन्य प्रकार के लेन-देन के प्रकार प्रदर्शित करने की अनुमति देगा।
+
+- **दिन (14, 30, 60, सभी)** - केवल लेन-देन और लाभ के लिए लागू। आपको पिछले 14, 30, 60 या सभी दिनों के लेन-देन लोड करने की अनुमति देता है।
+- **दिनांक सीमा** - केवल लेन-देन और लाभ के लिए लागू। आपको विशिष्ट लेन-देन दिखाने के लिए दिनांक सीमा चुनने की अनुमति देता है।

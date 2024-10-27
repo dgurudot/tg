@@ -1,4 +1,4 @@
-# **Sell at**
+# **बिक्री मूल्य**
 
-- This setting allows you to adjust the sell price and choose between Bid, Ask or Mark price. 
-- Sell at offset will also be added to selected buy price.
+- यह सेटिंग आपको बिक्री मूल्य को समायोजित करने और बोली, पूछ या अंकित मूल्य के बीच चयन करने की अनुमति देती है।
+- बिक्री मूल्य को भी चयनित खरीद मूल्य में जोड़ा जाएगा।

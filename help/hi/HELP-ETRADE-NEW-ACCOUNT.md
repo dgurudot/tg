@@ -1,6 +1,6 @@
-# **Instructions for getting keys**
- - **Step 1:** Go to [https://us.etrade.com/etx/ris/apisurvey/#/questionnaire](https://us.etrade.com/etx/ris/apisurvey/#/questionnaire) from new and separate browser window (or by clicking on link above) and login to your existing account.
- - **Step 2:** Select your brokerage account under "Select Account" drop down
- - **Step 3:** You will be presented with 7 questions regarding your intent of using APIs. Select "No, No, Yes, Yes, No, No, No" to complete questionnaire.
- - **Step 4:** eTrade would generate two keys: SANDBOX API key and PROD API key.
- - **Step 5:** Copy PROD secret and API Key below on app to configure your eTrade Account.
+# **कुंजी प्राप्त करने के निर्देश**
+- **चरण 1:** नई और अलग ब्राउज़र विंडो से [https://us.etrade.com/etx/ris/apisurvey/#/questionnaire](https://us.etrade.com/etx/ris/apisurvey/#/questionnaire) पर जाएँ (या ऊपर दिए गए लिंक पर क्लिक करके) और अपने मौजूदा खाते में लॉगिन करें।
+- **चरण 2:** "खाता चुनें" ड्रॉप डाउन के अंतर्गत अपना ब्रोकरेज खाता चुनें
+- **चरण 3:** आपको API का उपयोग करने के आपके इरादे के बारे में 7 प्रश्न प्रस्तुत किए जाएँगे। प्रश्नावली को पूरा करने के लिए "नहीं, नहीं, हाँ, हाँ, नहीं, नहीं, नहीं" चुनें।
+- **चरण 4:** eTrade दो कुंजियाँ उत्पन्न करेगा: SANDBOX API कुंजी और PROD API कुंजी।
+- **चरण 5:** अपने eTrade खाते को कॉन्फ़िगर करने के लिए ऐप पर नीचे PROD गुप्त और API कुंजी कॉपी करें।

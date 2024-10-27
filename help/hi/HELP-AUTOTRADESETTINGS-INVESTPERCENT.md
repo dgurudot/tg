@@ -1,12 +1,14 @@
-# **Quantity Percent Per Trade**
+# **प्रति ट्रेड मात्रा प्रतिशत**
 
-## Purpose: 
+## उद्देश्य:
 
-- This setting defines the percentage of quantity to be purchased compared to normal quantity for trade.
+- यह सेटिंग ट्रेड के लिए सामान्य मात्रा की तुलना में खरीदी जाने वाली मात्रा का प्रतिशत निर्धारित करती है।
 
-## Example: 
+## उदाहरण:
 
-- You received a trade with quantity of 100 for default investment account of 100K. 
-- If your individual account is only for 50K, then normal quantity for purchase is 50 (adjusted). 
-- Now if you also want to adjust this quantity by a specific factor like 50% (as opposed to default 100%), then the purchase quantity after applying "quantity percent per trade" factor will be 25. 
+- आपको 100K के डिफ़ॉल्ट निवेश खाते के लिए 100 की मात्रा वाला ट्रेड प्राप्त हुआ।
+
+- यदि आपका व्यक्तिगत खाता केवल 50K के लिए है, तो खरीद के लिए सामान्य मात्रा 50 (समायोजित) है।
+
+- अब यदि आप इस मात्रा को 50% (डिफ़ॉल्ट 100% के विपरीत) जैसे किसी विशिष्ट कारक द्वारा समायोजित करना चाहते हैं, तो "प्रति ट्रेड मात्रा प्रतिशत" कारक लागू करने के बाद खरीद मात्रा 25 होगी।
 

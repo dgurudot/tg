@@ -1,0 +1,12 @@
+- Thảo luận trong phòng **không** phải là lời khuyên về thuế, pháp lý hoặc đầu tư
+- Thảo luận trong phòng **không** phải là dấu hiệu để mua/bán cổ phiếu
+- Không được chia sẻ hoặc tìm kiếm thông tin nhận dạng cá nhân bao gồm tên, email, số điện thoại hoặc bất kỳ loại liên hệ nào khác. Tôn trọng quyền riêng tư của mọi người
+- Không được quảng cáo dịch vụ hoặc sản phẩm hoặc liên kết giới thiệu
+- Không được gửi thư rác, tin nhắn tràn lan hoặc đăng bất kỳ tin nhắn phỉ báng nào
+- Không được phát ngôn thù địch hoặc bắt nạt. Tranh luận tôn trọng và thân thiện là được
+- Không được phép có nội dung dành cho người lớn, gọi tên, phân biệt chủng tộc, tấn công cá nhân, chỉ trích, tục tĩu, thô tục hoặc nội dung hạ thấp phẩm giá
+- Hãy tử tế, tôn trọng và lịch sự, đồng thời tôn trọng quyền và ý kiến của người khác
+- Hãy chuyên nghiệp và hữu ích
+- Tự nghiên cứu và không lấy lời khuyên/thảo luận từ cộng đồng để đưa ra quyết định tài chính
+- KHÔNG sao chép các giao dịch và luôn có kế hoạch giao dịch của riêng bạn
+- Tập trung: Chỉ thảo luận về cổ phiếu và thị trường. Tránh các tin nhắn chào hỏi, chào buổi sáng và chào buổi sáng.

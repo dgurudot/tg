@@ -1,8 +1,7 @@
-## Agree that you must use real time data source for auto trade execution
+## सहमत हैं कि आपको ऑटो ट्रेड निष्पादन के लिए वास्तविक समय डेटा स्रोत का उपयोग करना होगा
 
-You're are required to use real time data source for auto trade executions
-- Brokers like TD provides real time data source.
-- You also have additional subscription options with brokers or data providers if you don't want to use broker provided real time data sources. Example include Alpaca and QuoteMedia data sources.
-- You MUST ensure that you have real time price updates happening during auto trade execution. You can verify it via moving mark price and bid/ask or volume updates.
-
+आपको ऑटो ट्रेड निष्पादन के लिए वास्तविक समय डेटा स्रोत का उपयोग करना आवश्यक है
+- TD जैसे ब्रोकर वास्तविक समय डेटा स्रोत प्रदान करते हैं।
+- यदि आप ब्रोकर द्वारा प्रदान किए गए वास्तविक समय डेटा स्रोतों का उपयोग नहीं करना चाहते हैं, तो आपके पास ब्रोकर या डेटा प्रदाताओं के साथ अतिरिक्त सदस्यता विकल्प भी हैं। उदाहरण में अल्पाका और कोटमीडिया डेटा स्रोत शामिल हैं।
+- आपको यह सुनिश्चित करना होगा कि ऑटो ट्रेड निष्पादन के दौरान आपके पास वास्तविक समय मूल्य अपडेट हो रहे हैं। आप इसे मूविंग मार्क प्राइस और बिड/आस्क या वॉल्यूम अपडेट के माध्यम से सत्यापित कर सकते हैं।
 

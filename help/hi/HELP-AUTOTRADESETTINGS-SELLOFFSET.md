@@ -1,14 +1,17 @@
-# **Sell Offset**
+# **सेल ऑफसेट**
 
-## Purpose: 
+## उद्देश्य:
 
-- This setting allows you to adjust the sell price by fixed offset. 
-- Sell offset will be subtracted from selected sell price (Could be Ask, Bid or Mark. Default = Bid).
+- यह सेटिंग आपको निश्चित ऑफसेट द्वारा बिक्री मूल्य को समायोजित करने की अनुमति देती है।
 
-- Trade will be placed initially at Sell price received in signal. 
-- If it doesn't get executed within 5 seconds, then retry attempt will sell at sell price (Could be Ask, Bid or Mark. Default = Bid) minus offset (default is 0.05). 
+- चयनित बिक्री मूल्य से बिक्री ऑफसेट घटाया जाएगा (पूछें, बोली या मार्क हो सकता है। डिफ़ॉल्ट = बोली)।
 
-## Example:
+- सिग्नल में प्राप्त बिक्री मूल्य पर शुरू में ट्रेड रखा जाएगा।
 
-- Sell signal $200 with Bid at $199 and Ask at $201. 
-- If initial limit order for Sell doesn't get filled at $200, then retry attempt will happen at $199 - 0.05 = $198.95
+- यदि यह 5 सेकंड के भीतर निष्पादित नहीं होता है, तो पुनः प्रयास बिक्री मूल्य (पूछें, बोली या मार्क हो सकता है। डिफ़ॉल्ट = बोली) माइनस ऑफसेट (डिफ़ॉल्ट 0.05 है) पर बिक्री करेगा।
+
+## उदाहरण:
+
+- $199 पर बोली और $201 पर पूछें के साथ $200 का सेल सिग्नल।
+
+- यदि बिक्री के लिए प्रारंभिक सीमा आदेश $200 पर नहीं भरा जाता है, तो पुनः प्रयास $199 - 0.05 = $198.95 पर होगा

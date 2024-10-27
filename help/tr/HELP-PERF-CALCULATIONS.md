@@ -1,0 +1,6 @@
+# **Performansı nasıl hesaplıyoruz**
+- **Kazanç %** belirli bir işlem için kar aralığını yansıtır. Ayrıca yeşil renkle elde edilen kar hedefini gösterir.
+- Hisse senedi için ek alımlar önermediğimizde ve satış bölgesinde olduğumuzda işlem "kapalı"dır. Salınım ve uzun işlemler için satış bölgesinde tutmaya devam edebilirsiniz.
+- Yakalanan minimum kar, ulaştığımız B1 (İlk Alım Fiyatı) ile S1 (İlk Satış Hedefi) fiyatı arasındadır.
+- Satış bölgesinde S1'in ötesinde tutarsanız, maksimum kar potansiyeline ulaşırsınız ve S3 hedefine ulaştığımız Kazanç % aralığında gösterilir.
+- Günlük işlemlerde bir günden öte tutma yoktur, bu nedenle genellikle S2, S3 hedeflerine ulaşmayı takip etmeyiz, ancak kullanıcılar yine de yalnızca S1'de bir kısmını satmayı ve ardından aynı gün S2, S3 ve sonrasında daha fazla kar elde etmeyi seçebilirler. Günlük işlemlerde (D etiketiyle) yalnızca belirli işlem için minimum karı gösteririz. - Swing işlemleri "S" (Kehribar rengi) etiketiyle etiketlenir. Uzun vadeli işlemler sağ taraftaki sembolün yanında bulunan "L" (Yeşil) renk etiketiyle etiketlenir.

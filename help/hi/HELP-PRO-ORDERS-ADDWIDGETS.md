@@ -1,7 +1,5 @@
-# **Pro Orders Add Widgets**
+# **प्रो ऑर्डर विजेट जोड़ें**
 
-
-- Allows you to **add any widget** type into your layout. Select specific widget type to be added by selecting widget from list.
-- You can also add multiple widgets of same type on a particular layout.
-
+- आपको अपने लेआउट में **किसी भी विजेट** प्रकार को जोड़ने की अनुमति देता है। सूची से विजेट चुनकर जोड़े जाने वाले विशिष्ट विजेट प्रकार का चयन करें।
+- आप किसी विशेष लेआउट पर एक ही प्रकार के कई विजेट भी जोड़ सकते हैं।
 

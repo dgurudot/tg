@@ -1,12 +1,11 @@
-# **Exclude Symbols**
+# **प्रतीकों को बाहर करें**
 
-## Purpose:
+## उद्देश्य:
 
-- You can choose which specific symbols you would like to be excluded for autotrades.
-- The list of symbols can be provided via a comma separated symbols.
-- Default: Excludes no symbols, unless you provide an explicit list with select symbols to be excluded for autotrade.
+- आप चुन सकते हैं कि आप ऑटोट्रेड के लिए किन विशिष्ट प्रतीकों को बाहर रखना चाहते हैं।
+- प्रतीकों की सूची अल्पविराम से अलग किए गए प्रतीकों के माध्यम से प्रदान की जा सकती है।
+- डिफ़ॉल्ट: कोई भी प्रतीक बाहर नहीं रखता, जब तक कि आप ऑटोट्रेड के लिए बाहर रखे जाने वाले चुनिंदा प्रतीकों के साथ एक स्पष्ट सूची प्रदान न करें।
 
+## उदाहरण:
 
-## Example:
-
-- BABA,DIDI,FB
+- बाबा, दीदी, FB

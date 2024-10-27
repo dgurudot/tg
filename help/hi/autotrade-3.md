@@ -1,6 +1,6 @@
-## Agree that you must use single device during auto trade
+## सहमत हैं कि आपको ऑटो ट्रेड के दौरान सिंगल डिवाइस का उपयोग करना चाहिए
 
-You're are always supposed to use single device during auto trade execution
-- Data source automatically switches to latest logged-in device and could impact auto trade execution if using multiple devices together for same account.
-- Single device is required to ensure real time data source remains connected at all time for auto trade execution.
-- Enabling AutoTrade on multiple devices will execute same trade from each individual device. Please be aware and only use single device for AutoTrade. Enable AutoTrade is individual device specific setting.
+आपको ऑटो ट्रेड निष्पादन के दौरान हमेशा सिंगल डिवाइस का उपयोग करना चाहिए
+- डेटा स्रोत स्वचालित रूप से नवीनतम लॉग-इन डिवाइस पर स्विच हो जाता है और यदि एक ही खाते के लिए एक साथ कई डिवाइस का उपयोग किया जाता है तो ऑटो ट्रेड निष्पादन को प्रभावित कर सकता है।
+- ऑटो ट्रेड निष्पादन के लिए हर समय वास्तविक समय डेटा स्रोत कनेक्टेड रहे यह सुनिश्चित करने के लिए सिंगल डिवाइस की आवश्यकता होती है।
+- कई डिवाइस पर ऑटोट्रेड को सक्षम करने से प्रत्येक व्यक्तिगत डिवाइस से एक ही ट्रेड निष्पादित होगा। कृपया सावधान रहें और ऑटोट्रेड के लिए केवल सिंगल डिवाइस का उपयोग करें। ऑटोट्रेड को सक्षम करना व्यक्तिगत डिवाइस विशिष्ट सेटिंग है।

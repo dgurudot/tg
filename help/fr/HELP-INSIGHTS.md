@@ -1,0 +1,41 @@
+# **Insights**
+
+Affiche les informations sur le compte comme indiqué ci-dessous :
+- **Valeur d'allocation :** Graphique à bulles indiquant la valeur actuelle de chaque position du portefeuille
+- **Valeur % :** Graphique à secteurs indiquant la valeur en % de chaque position du portefeuille.
+- **Coût :** Graphique à secteurs indiquant la répartition des coûts entre chaque position du portefeuille.
+- **Coût % :** Graphique en entonnoir indiquant le pourcentage de répartition des coûts les plus élevés pour les positions du portefeuille.
+- **Ratio investissement :** Graphique indiquant l'investissement total et le solde de trésorerie.
+- **Répartition sectorielle :** (facultatif) Affiche la répartition des positions pour chaque secteur.
+- **Objectif mensuel :** Affiche les anneaux de progression en fonction des objectifs mensuels définis dans les statistiques.
+- **Objectif annuel :** Affiche la progression en fonction des objectifs annuels définis dans les statistiques.
+- **Quotidien :** Affiche le résumé des bénéfices quotidiens dans la vue du calendrier
+- **(Bénéfices mensuels) :** Affiche les bénéfices ou les pertes de toutes les transactions d'un mois spécifique.
+- **(Profits annuels) :** Affiche le résumé des profits/pertes pour une année spécifique.
+- **P/L non réalisé :** Affiche le résumé des profits/pertes non réalisés de toutes les positions actuelles.
+- **Achat, vente et gain :** Affiche le résumé des achats, des ventes et des gains en % pour les transactions quotidiennes au cours d'un mois spécifique.
+- **P/L, dépôt et retrait :** Affiche la tendance P/L ainsi que les dépôts et retraits de compte pour des années spécifiques.
+- **Précision mensuelle :** Affiche la précision mensuelle des transactions et les classe en trois grandes catégories.
+- **Précision annuelle :** Affiche la précision annuelle des transactions pour tous les mois.
+- **Ratio risque/récompense :** Affiche le ratio risque/récompense et les classe en trois grandes catégories.
+- **Cohérence :** Affiche la cohérence des transactions et les classe en trois grandes catégories.
+- **Précision mensuelle :** Affiche le pourcentage de précision mensuelle sur toutes les transactions.
+- **Plage de bénéfices** : (facultatif) Affiche la plage de bénéfices sur toutes les transactions.
+- **Répartition des gains** : affiche la distribution du gain en % sur toutes les transactions.
+- **Nombre de transactions** : affiche la tendance du nombre de transactions pour une année ou un mois spécifique.
+- **Nombre de volumes** : affiche la tendance du nombre de volumes pour une année ou un mois spécifique.
+- **Nombre de transactions hebdomadaires** : affiche le nombre de transactions hebdomadaires sous forme de graphique à barres.
+- **Précision hebdomadaire** : affiche la tendance de précision hebdomadaire pour toutes les transactions.
+- **Nombre de transactions horaires** : affiche la tendance des transactions à une heure spécifique de la journée sous forme de graphique à barres.
+- **Précision horaire** : affiche la tendance de précision pour les transactions d'un mois spécifique.
+- **Répartition de la durée** : affiche la tendance de la durée de maintien des transactions sur toutes les transactions.
+- **Précision de la durée** : affiche la tendance de précision pour les types de transactions (intrajournalières, swing ou à long terme).
+- **Répartition des prix** : affiche la tendance de la fourchette de prix pour toutes les transactions.
+- **Précision par prix :** affiche la tendance de précision du compte pour la fourchette de prix.
+- **Répartition du volume :** affiche la tendance de la distribution du volume à partir des transactions.
+- **Précision par volume :** affiche la tendance de précision en fonction du volume.
+- **Top 10 :** affiche les dix premières transactions
+- **Bottom 10 :** affiche les 10 dernières transactions
+- **Gains :** (facultatif) Calendrier des gains pour les positions du portefeuille.
+- **Horloge mondiale :** Horloge mondiale indiquant les fuseaux horaires importants.
+

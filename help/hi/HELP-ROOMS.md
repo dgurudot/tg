@@ -1,5 +1,5 @@
-# **Rooms**
-  
-- Select specific group chat room based on interest. Kindly review **disclaimer** below to understand moderated group chat room rules.
-- Rooms allows you to chat with admin or other traders with similar interest.
-- **Note:** Rooms are purged periodically so you may not be able to view past day history.
+# **कमरे**
+
+- रुचि के आधार पर विशिष्ट समूह चैट रूम का चयन करें। मॉडरेट किए गए समूह चैट रूम के नियमों को समझने के लिए कृपया नीचे दिए गए **अस्वीकरण** की समीक्षा करें।
+- कमरे आपको व्यवस्थापक या समान रुचि वाले अन्य व्यापारियों के साथ चैट करने की अनुमति देते हैं।
+- **नोट:** कमरे समय-समय पर साफ किए जाते हैं, इसलिए हो सकता है कि आप पिछले दिन का इतिहास न देख पाएं।

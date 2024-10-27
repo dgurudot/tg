@@ -1,12 +1,12 @@
-- Rooms discussions are **not** tax, legal or investment advice
-- Rooms discussions are **not** an indication to buy/sell stock
-- Cannot share or seek personal identifiable information including name, email, phone or any other type of contact. Respect everyone privacy
-- Cannot promote services or products or referral links
-- No spam, flooding or post any defamatory messages
-- No hate speech or bullying. Respectful and friendly arguments are okay
-- No adult content, name calling, racial, personal attacks, flaming, profanity, vulgarity or degrading content allowed
-- Be kind, respectful and courteous and respect rights and opinions of others
-- Be professional and helpful
-- Do your own research and do not take advice/discussions from community to make financial decisions
-- Do NOT mirror trades and always have your own trading plan
-- Focus: Discuss stocks and markets only. Avoid hello, hi and good morning messages.
+- रूम चर्चाएँ कर, कानूनी या निवेश संबंधी सलाह नहीं हैं
+- रूम चर्चाएँ स्टॉक खरीदने/बेचने का संकेत नहीं हैं
+- नाम, ईमेल, फ़ोन या किसी अन्य प्रकार के संपर्क सहित व्यक्तिगत पहचान योग्य जानकारी साझा या प्राप्त नहीं की जा सकती। सभी की निजता का सम्मान करें
+- सेवाओं या उत्पादों या रेफ़रल लिंक का प्रचार नहीं कर सकते
+- स्पैम, बाढ़ या कोई अपमानजनक संदेश पोस्ट नहीं कर सकते
+- नफ़रत भरी भाषा या बदमाशी नहीं। सम्मानजनक और मैत्रीपूर्ण तर्क ठीक हैं
+- कोई वयस्क सामग्री, नाम पुकारना, नस्लीय, व्यक्तिगत हमले, भड़काने, अपवित्रता, अश्लीलता या अपमानजनक सामग्री की अनुमति नहीं है
+- दयालु, सम्मानजनक और विनम्र बनें और दूसरों के अधिकारों और विचारों का सम्मान करें
+- पेशेवर और मददगार बनें
+- अपना खुद का शोध करें और वित्तीय निर्णय लेने के लिए समुदाय से सलाह/चर्चा न लें
+- ट्रेडों को मिरर न करें और हमेशा अपनी खुद की ट्रेडिंग योजना रखें
+- फ़ोकस: केवल स्टॉक और बाज़ारों पर चर्चा करें। नमस्ते, हाय और गुड मॉर्निंग संदेशों से बचें।

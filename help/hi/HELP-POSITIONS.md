@@ -1,37 +1,47 @@
-# **Positions**
+# **स्थितियाँ**
 
-Displays current portfolio in **grid mode (default)** or **table mode**. 
-You can change the mode and enable/disable using the blue button on the bottom right of the screen.
-Click on settings from the top left to reorder and enable/disable specific headers.
+वर्तमान पोर्टफोलियो को **ग्रिड मोड (डिफ़ॉल्ट)** या **टेबल मोड** में प्रदर्शित करता है।
 
-You can select a specific account from the top left drop-down.
-You can also view the status of your account connection (green - connected, red - disconnected).
-Long press on account forces a re-connection to exchange.
+आप स्क्रीन के नीचे दाईं ओर नीले बटन का उपयोग करके मोड बदल सकते हैं और सक्षम/अक्षम कर सकते हैं।
 
-**Grid Mode (Default):**
-  - **Header:** Symbol (Left), Quantity (Right)
-  - **Row 1:** Order Indicator (Left), Mark Price (Right)
-  - **Row 2:** Day Gain % (Left), Day Gain (Right)
-  - **Row 3:** Gain % (Left), Gain (Right)
+विशिष्ट हेडर को पुनः क्रमित करने और सक्षम/अक्षम करने के लिए ऊपर बाईं ओर से सेटिंग पर क्लिक करें।
 
-**Table Mode (Default):**
-  - **Symbol:** Name of symbol
-  - **Mark:** Current price of symbol
-  - **Cost:** Purchase price (or current avg)
-  - **Qty:** Total quantity
-  - **Day Gain:** Net gain amount during day
-  - **Day Gain %:** Net gain % during day
-  - **Gain:** Net gain
-  - **Gain %:** Net gain %
-  - **Value (Optional):** Net value based on the current price
-  - **Cost (Optional):** Net cost based on the cost price
+आप ऊपर बाईं ओर ड्रॉप-डाउन से कोई विशिष्ट खाता चुन सकते हैं।
 
-**Account Quick Info:**
-  Displayed at the bottom of the positions screen
-  - **Row 1:** Day Gain %, Day Gain (Day Gain Amount), BP (Buying Power), Value (Optional for the total value of all positions)
-  - **Row 2:** Gain %, Gain (Total Gain Amount), EQ (Total Account Equity), Cost (Optional for the total cost of all positions)
+आप अपने खाते के कनेक्शन की स्थिति भी देख सकते हैं (हरा - कनेक्टेड, लाल - डिस्कनेक्टेड)।
 
-**Colors:**
-  - **Green** or **Red** color on position indicates profit or loss for a specific position.
-  - **Grey** color on the position indicates no profit/loss for a specific position.
-  - **Blue** dot on the position indicates an active order for a specific position. Long press on position allows a quick jump to a specific order.
+खाते पर लंबे समय तक दबाने से एक्सचेंज से पुनः कनेक्शन हो जाता है।
+
+**ग्रिड मोड (डिफ़ॉल्ट):**
+- **हेडर:** प्रतीक (बाएं), मात्रा (दाएं)
+- **पंक्ति 1:** ऑर्डर संकेतक (बाएं), मार्क मूल्य (दाएं)
+- **पंक्ति 2:** दिन लाभ % (बाएं), दिन लाभ (दाएं)
+- **पंक्ति 3:** लाभ % (बाएं), लाभ (दाएं)
+
+**टेबल मोड (डिफ़ॉल्ट):**
+- **प्रतीक:** प्रतीक का नाम
+- **मार्क:** प्रतीक का वर्तमान मूल्य
+- **लागत:** खरीद मूल्य (या वर्तमान औसत)
+- **मात्रा:** कुल मात्रा
+- **दिन लाभ:** दिन के दौरान शुद्ध लाभ राशि
+- **दिन लाभ %:** दिन के दौरान शुद्ध लाभ %
+- **लाभ:** शुद्ध लाभ
+- **लाभ %:** शुद्ध लाभ %
+- **मूल्य (वैकल्पिक):** वर्तमान मूल्य के आधार पर शुद्ध मूल्य
+
+**लागत (वैकल्पिक):** लागत मूल्य के आधार पर शुद्ध लागत
+
+**खाता त्वरित जानकारी:**
+पोजीशन स्क्रीन के निचले भाग में प्रदर्शित
+
+**पंक्ति 1:** दिन लाभ %, दिन लाभ (दिन लाभ राशि), BP (खरीद शक्ति), मूल्य (सभी पोजीशन के कुल मूल्य के लिए वैकल्पिक)
+
+**पंक्ति 2:** लाभ %, लाभ (कुल लाभ राशि), EQ (कुल खाता इक्विटी), लागत (सभी पोजीशन की कुल लागत के लिए वैकल्पिक)
+
+**रंग:**
+
+- पोजीशन पर **हरा** या **लाल** रंग किसी विशिष्ट पोजीशन के लिए लाभ या हानि को दर्शाता है।
+
+- पोजीशन पर **ग्रे** रंग किसी विशिष्ट पोजीशन के लिए कोई लाभ/हानि नहीं दर्शाता है।
+
+- पोजीशन पर **नीला** बिंदु किसी विशिष्ट पोजीशन के लिए सक्रिय ऑर्डर को दर्शाता है। स्थिति पर लंबे समय तक दबाने से किसी विशिष्ट ऑर्डर पर तुरंत पहुंचा जा सकता है।

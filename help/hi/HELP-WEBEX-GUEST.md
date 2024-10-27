@@ -1,6 +1,6 @@
-# Instructions for getting Webex Guest Keys
- - Step 1: Go to [https://developer.webex.com/my-apps/new/guest-issuer](https://developer.webex.com/my-apps/new/guest-issuer) from new and separate browser window and login to your existing account
- - Step 2: Provide "Guest Issuer name" and click "Add Guest Issuer". Note: This feature is only available to Webex Teams users with a paid subscription.
- - Step 3: From Credentials section, copy "Guest Issuer ID" and "Shared Secret"
- - Step 4: Your "Shared Secret" will disappear after refreshing or navigating away from this page so you may want to save it in secured manner as well.
- - Step 5: Set the "Guest Issuer ID" and "Shared Secret" in TradeGrub app for your Webex account for Rooms functionality.
+# Webex अतिथि कुंजियाँ प्राप्त करने के लिए निर्देश
+- चरण 1: नई और अलग ब्राउज़र विंडो से [https://developer.webex.com/my-apps/new/guest-issuer](https://developer.webex.com/my-apps/new/guest-issuer) पर जाएँ और अपने मौजूदा खाते में लॉगिन करें
+- चरण 2: "अतिथि जारीकर्ता का नाम" प्रदान करें और "अतिथि जारीकर्ता जोड़ें" पर क्लिक करें। नोट: यह सुविधा केवल सशुल्क सदस्यता वाले Webex Teams उपयोगकर्ताओं के लिए उपलब्ध है।
+- चरण 3: क्रेडेंशियल अनुभाग से, "अतिथि जारीकर्ता आईडी" और "साझा रहस्य" की प्रतिलिपि बनाएँ
+- चरण 4: आपका "साझा रहस्य" इस पृष्ठ को ताज़ा करने या इससे दूर जाने के बाद गायब हो जाएगा, इसलिए आप इसे सुरक्षित तरीके से सहेजना चाह सकते हैं।
+- चरण 5: रूम कार्यक्षमता के लिए अपने Webex खाते के लिए TradeGrub ऐप में "अतिथि जारीकर्ता आईडी" और "साझा रहस्य" सेट करें।
