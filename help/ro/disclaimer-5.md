@@ -1,0 +1,8 @@
+## Acceptați că informațiile furnizate de Goldring SA sunt pentru uz personal și necomercial pentru o singură persoană
+
+- Conținutul materialelor educaționale și al rapoartelor din Aplicație, realizate în numele Goldring SA, au scop informativ și nu vor fi considerate recomandari de investiții sau oferte de a cumpăra, a vinde sau a schimba instrumente financiare (consultanță în investiții cu privire la instrumentele financiare la care fac referire materialele), în conformitate cu legile pieței de capital din România sau cu cele ale altor state. 
+- Societatea, afiliații sau angajații acesteia este posibil să dețină în nume propriu produse prezentate în materiale educaționale, analize sau rapoarte prezentate în Aplicație, să efectueze tranzacții cu astfel de instrumente financiare sau chiar să fi prestat servicii de consultanță pentru emitenți prezentați în acest material. 
+- Investitorii sunt anunțați că orice strategie, grafic, metodologie sau model sunt mai degrabă forme de estimare și nu pot garanta un profit cert. 
+- Investiția în instrumente financiare este caracterizată prin riscuri, inclusiv riscul unor pierderi pentru investitori. 
+- Analizele, comentariile si opiniile exprimate prin intermediul rapoartelor de analiză, reprezintă punctul de vedere al autorilor acestora și nu implică în niciun fel răspunderea Goldring SA. 
+- Preluarea și publicarea informațiilor din rapoarte nu este permisă decât cu acordul scris al Goldring SA. Alte avantaje și riscuri implicate de tranzacționarea instrumentelor financiare, sunt detaliate în Documentul de prezentare al Goldring SA, disponibil pe pagina de internet www.goldring.ro, la secțiunea "Rapoarte și informații legale". 

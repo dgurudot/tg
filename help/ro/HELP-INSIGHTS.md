@@ -1,0 +1,38 @@
+# **Informații**
+
+Afișează informații despre cont, după cum se arată mai jos:
+  - **Valoare Poziții:** Grafic cu bule care arată valoarea curentă a fiecărei poziții din portofoliu
+  - **Valoare %:** Diagramă circulară care arată valoarea % a fiecărei poziții din portofoliu.
+  - **Cost:** Diagramă circulară care arată alocarea costurilor pentru fiecare poziție din portofoliu.
+  - **Cost %:** Grafic în pâlnie care arată procentul de alocare a costurilor de top pentru pozițiile din portofoliu.
+  - **Investiție: Cash Ratio** Grafic care arată investiția totală și soldul de numerar.
+  - **Obiectiv Lunar:** Afișează inelele de progres pe baza obiectivelor lunare stabilite în cadrul statisticilor.
+  - **Obiectiv Anual:** Afișează progresul pe baza obiectivelor anuale stabilite în cadrul statisticilor.
+  - **Zilnic:** Afișează rezumatul zilnic al profitului în vizualizarea calendaristică.
+  - **(Rezultat Lunar):** Arată profiturile sau pierderile din toate tranzacțiile dintr-o anumită lună.
+  - **(Rezultat Anual):** Afișează rezumatul profiturilor sau pierderilor pentru un anumit an.
+  - **Rezultat Nemarcat %:** Afișează toate pozițiile curente rezumatul profitului/pierderii nerealizate %.
+  - **Buy, Sell & Câștig Zilnic %:** Afișează rezumatul buy, sell, gain % pentru tranzacțiile zilnice din luna respectivă.
+  - **P/L, Depozite și Retrageri:** Afișează tendința P/L împreună cu depozitele și retragerile din cont pentru anumiți ani.
+  - **Acuratețea Lunară:** Afișează precizia lunară a tranzacțiilor și o clasifică în trei categorii mari.
+  - **Acuratețea Anuală:** Afișează precizia anuală a tranzacțiilor pentru toate lunile.
+  - **Raport Risc : Randament:** Arată raportul de risc și recompensă și se clasifică în trei grade mari.
+  - **Consistență:** Arată consistența tranzacțiilor și se clasifică în trei grade mari.
+  - **Acuratețea Lunară %:** Arată procentul de precizie lunară pentru toate tranzacțiile.
+  - **Interval de Profit:** (Opțional) Arată intervalul de profit pentru toate tranzacțiile.
+  - **P/L Câștig %:** Arată distribuția % de câștig pe toate tranzacțiile.
+  - **Număr de Tranzacții:** Arată tendința numărului de tranzacții pentru un an sau o anumită lună.
+  - **Număr de Volum:** Arată tendința numărului de volume pentru un an sau o anumită lună.
+  - **Numărul Tranzacțiilor Săptămânal:** Afișează numărul săptămânal de tranzacții sub forma unui grafic cu bare.
+  - **Acuratețea Săptămânală:** Afișează tendința săptămânală de acuratețe pentru toate tranzacțiile.
+  - **Numărul Tranzacțiilor Orare:** Arată tendința pentru tranzacțiile la o anumită oră din zi sub forma unui grafic cu bare.
+  - **Acuratețea Orară:** Arată tendința de acuratețe pentru tranzacțiile dintr-o anumită lună.
+  - **Acuratețea după Durată:** Arată tendința duratei de menținere a tranzacțiilor pentru toate tranzacțiile. 
+  - **Duration Accuracy:** Arată tendința de acuratețe pentru tipurile de tranzacții (Intraday, Swing sau Long term).
+  - **Distribuție Preț:** Arată tendința intervalului de preț pentru toate tranzacțiile.
+  - **Acuratețea după Preț:** Arată tendința de acuratețe a contului pentru intervalul de preț.
+  - **Distribuție Volum:** Arată tendința de distribuție a volumului din tranzacții.
+  - **Acuratețea după volum:** Arată tendința pentru acuratețea în funcție de volum.
+  - **Top 10:** Arată primele zece tranzacții.
+  - **Ultimii 10:** Arată ultimele 10 tranzacții.
+  - **World Clock:** Ceasul mondial care arată fusurile orare importante.
