@@ -2,5 +2,5 @@
 
 ## Amaç:
 
-- Maliyette durdurmayı hareket ettirirken kullanılacak belirli bir ofset seçebilirsiniz.
-- Bu, piyasa emri yürütmesinin sizi hala maliyet fiyatının üzerinde tutacağı durdurmada satış yapmanıza yardımcı olur.
+- Maliyette stop emrini hareket ettirirken kullanılacak belirli bir ofset seçebilirsiniz.
+- Bu, piyasa emrinin yürütülmesinin sizi maliyet fiyatının üzerinde tutacağı stop emrinde satış yapmanıza yardımcı olur.

@@ -1,11 +1,11 @@
 # **Kauf-Offset**
 
-## Zweck: 
+## Zweck:
 
-- Mit dieser Einstellung können Sie den Kaufpreis durch einen festen Offset anpassen. Der Kauf-Offset wird zum ausgewählten Kaufpreis hinzugefügt (könnte Ask, Bid oder Mark sein. Standard = Ask).
+– Mit dieser Einstellung können Sie den Kaufpreis um einen festen Offset anpassen. Der Kauf-Offset wird zum gewählten Kaufpreis (Ask, Bid oder Mark, Standard: Ask) addiert.
 
-- Der Handel wird zunächst zum im Signal empfangenen Kaufpreis getätigt. Wenn er nicht innerhalb von 5 Sekunden ausgeführt wird, wird bei einem erneuten Versuch zum Kaufpreis (könnte Ask, Bid oder Mark sein. Standard = Ask) plus Offset (Standard ist 0,05) gekauft. 
+– Der Handel wird zunächst zum im Signal empfangenen Kaufpreis platziert. Wird er nicht innerhalb von 5 Sekunden ausgeführt, erfolgt ein erneuter Kaufversuch zum Kaufpreis (Ask, Bid oder Mark, Standard: Ask) zuzüglich Offset (Standard: 0,05).
 
 ## Beispiel:
 
-- Kaufsignal 100 $ mit Bid bei 99 $ und Ask bei 101 $. Wenn die anfängliche Limit-Order für den Kauf bei 100 $ nicht ausgeführt wird, erfolgt ein erneuter Versuch bei 101 $ + 0,05 = 101,05 $.
+– Kaufsignal 100 $ mit Bid 99 $ und Ask 101 $. Wird die anfängliche Limit-Order für den Kauf bei 100 $ nicht ausgeführt, erfolgt ein erneuter Kaufversuch bei 101 $ + 0,05 = 101,05 $.

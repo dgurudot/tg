@@ -1,5 +1,5 @@
-# **Pedidos Pro Agregar Widgets**
+# **Añadir widgets en pedidos Pro**
 
-- Le permite **agregar cualquier tipo de widget** a su diseño. Seleccione el tipo de widget específico que desea agregar seleccionando el widget de la lista.
-- También puede agregar múltiples widgets del mismo tipo en un diseño en particular.
+- Permite añadir cualquier tipo de widget a tu diseño. Selecciona el tipo de widget que desees añadir seleccionando un widget de la lista.
+- También puedes añadir varios widgets del mismo tipo a un diseño específico.
 

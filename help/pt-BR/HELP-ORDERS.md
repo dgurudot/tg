@@ -1,12 +1,13 @@
 # **Pedidos**
 
-Exibe pedidos de conta conforme abaixo:
+Exibe os pedidos da conta conforme abaixo:
 
-**Ativos:** Pedidos pendentes e aguardando execução.
+**Ativos:** Ordens pendentes e aguardando execução.
 
-**Concluídos:** Pedidos que foram executados. Inclui pedidos parcialmente concluídos para pedidos multi-pernas.
+**Concluídos:** Ordens que foram executadas. Inclui ordens parcialmente concluídas para ordens com múltiplas etapas.
 
-**Cancelados:** Pedidos que foram cancelados ou rejeitados ou com erro.
+**Cancelados:** Ordens que foram canceladas, rejeitadas ou apresentaram erro.
 
-**Observação**: Um deslizar para a esquerda em um pedido ativo específico permite que você cancele um pedido específico.
-Um deslizar para a direita em um pedido ativo específico permite que você crie um pedido semelhante ou modifique o pedido.
+**Observação**: Deslizar para a esquerda em uma ordem ativa específica permite cancelar uma ordem específica.
+Deslizar para a direita em uma ordem ativa específica permite criar uma ordem semelhante ou modificá-la.
+

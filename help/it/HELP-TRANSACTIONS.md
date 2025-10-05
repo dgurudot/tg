@@ -1,17 +1,17 @@
 # **Transazioni**
 
-Visualizza le transazioni degli ultimi 60 giorni per impostazione predefinita. Solo le transazioni dell'anno scorso vengono estratte dall'exchange.
-Fai clic su Impostazioni per riordinare e abilitare/disabilitare intestazioni specifiche.
-Fai clic sull'intestazione per ordinare l'intestazione specifica.
+Per impostazione predefinita, vengono visualizzate le transazioni degli ultimi 60 giorni. Solo le transazioni dell'anno precedente vengono estratte dalla borsa.
+Clicca su Impostazioni per riordinare e abilitare/disabilitare intestazioni specifiche.
+Clicca sull'intestazione per ordinarla.
 
-**Transazioni (predefinite):**
+**Transazioni (Predefinito):**
 - **Data:** Data della transazione
-- **Tipo:** Tipo di transazione [ VENDI, ACQUISTA, INT (Interessi), DIV (Dividendo), WID (Prelievo), DEP (Deposito) o ALTRO ]
+- **Tipo:** Tipo di transazione [VENDITA, ACQUISTO, INT (Interessi), DIV (Dividendi), WID (Prelievo), DEP (Deposito) o ALTRO]
 - **Simbolo:** Nome del simbolo
-- **Qtà:** Quantità totale
+- **Quantità:** Quantità totale
 - **Costo:** Prezzo di acquisto
 - **Costo totale:** Prezzo di acquisto totale
 - **Ora:** Ora della transazione
 - **Commissione:** Commissione del broker
-- **Commissione:** Commissione del broker o dell'exchange o tasse
-- **ID (facoltativo):** ID transazione
+- **Commissione:** Commissione o tasse del broker o della borsa
+- **ID (Facoltativo):** ID transazione

@@ -1,2 +1,2 @@
-# **Arrêtez-vous au coût du retard**
+# **Arrêt au coût du retard**
 

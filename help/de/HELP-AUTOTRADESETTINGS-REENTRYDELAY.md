@@ -1,6 +1,6 @@
 # **Wiedereintrittsverzögerung**
 
-## Zweck: 
+## Zweck:
 
-- Mit dieser Einstellung können Sie die Wartezeit anpassen, bevor Sie die Bestellung erneut versuchen.
-- Standard: 5 Sekunden. Sie können den Wert möglicherweise auf 2 Sekunden aktualisieren, um beispielsweise einen schnelleren Wiederholversuch zu ermöglichen.
+– Mit dieser Einstellung können Sie die Wartezeit vor einem erneuten Bestellversuch anpassen.
+– Standard: 5 Sekunden. Sie können den Wert beispielsweise auf 2 Sekunden ändern, um einen schnelleren Wiederversuch zu ermöglichen.

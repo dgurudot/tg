@@ -1,11 +1,11 @@
-# **Exclure les symboles**
+# **Exclure des symboles**
 
 ## Objectif :
 
-- Vous pouvez choisir les symboles spécifiques que vous souhaitez exclure des transactions automatiques.
-- La liste des symboles peut être fournie via des symboles séparés par des virgules.
-- Par défaut : n'exclut aucun symbole, sauf si vous fournissez une liste explicite avec des symboles sélectionnés à exclure pour les transactions automatiques.
+- Vous pouvez choisir les symboles spécifiques à exclure des transactions automatiques.
+- La liste des symboles peut être fournie sous forme de symboles séparés par des virgules.
+- Par défaut : Aucun symbole n'est exclu, sauf si vous fournissez une liste explicite de symboles à exclure des transactions automatiques.
 
 ## Exemple :
 
-- BABA,DIDI,FB
+- BABA, DIDI, FB

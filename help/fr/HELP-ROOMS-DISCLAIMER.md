@@ -1,12 +1,12 @@
-- Les discussions dans les salles ne sont **pas** des conseils fiscaux, juridiques ou d'investissement
-- Les discussions dans les salles ne sont **pas** une indication pour acheter/vendre des actions
-- Ne pas partager ou rechercher des informations personnelles identifiables, y compris le nom, l'e-mail, le téléphone ou tout autre type de contact. Respecter la vie privée de chacun
-- Ne pas promouvoir de services ou de produits ou de liens de référence
-- Pas de spam, d'inondation ou de publication de messages diffamatoires
-- Pas de discours haineux ou d'intimidation. Les arguments respectueux et amicaux sont acceptables
-- Aucun contenu pour adultes, insultes, attaques raciales, personnelles, injures, blasphèmes, vulgarité ou contenu dégradant n'est autorisé
-- Soyez gentil, respectueux et courtois et respectez les droits et les opinions des autres
-- Soyez professionnel et serviable
-- Faites vos propres recherches et ne suivez pas les conseils/discussions de la communauté pour prendre des décisions financières
-- NE reproduisez PAS les transactions et ayez toujours votre propre plan de trading
-- Focus : discutez uniquement des actions et des marchés. Évitez les messages de type bonjour, salut et bonjour.
+- Les discussions sur les salons ne constituent **pas** des conseils fiscaux, juridiques ou d'investissement.
+- Les discussions sur les salons ne constituent **pas** une indication d'achat ou de vente d'actions.
+- Le partage ou la recherche d'informations personnelles identifiables, y compris le nom, l'adresse e-mail, le numéro de téléphone ou tout autre type de contact, est interdit. Respectez la vie privée de chacun.
+- La promotion de services, de produits ou de liens de parrainage est interdite.
+- Le spam, le flooding et la publication de messages diffamatoires sont interdits.
+- Les discours haineux et l'intimidation sont interdits. Les discussions respectueuses et amicales sont autorisées.
+- Les contenus pour adultes, les insultes, les propos racistes, les attaques personnelles, les propos incendiaires, les blasphèmes, la vulgarité et les contenus dégradants sont interdits.
+- Soyez aimable, respectueux et courtois, et respectez les droits et les opinions d'autrui.
+- Soyez professionnel et serviable.
+- Faites vos propres recherches et ne suivez pas les conseils/discussions de la communauté pour prendre des décisions financières.
+- Ne reproduisez pas les transactions et ayez toujours votre propre plan de trading.
+- Concentration : discutez uniquement des actions et des marchés. Évitez les messages de type « bonjour ».

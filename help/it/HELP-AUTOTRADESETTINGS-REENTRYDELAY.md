@@ -1,6 +1,6 @@
-# **Ritardo di reinserimento**
+# **Ritardo di Rientro**
 
-## Scopo: 
+## Scopo:
 
-- Questa impostazione consente di regolare il tempo di attesa prima di effettuare un nuovo tentativo di ordine.
-- Predefinito: 5 secondi. È possibile aggiornarlo a 2 secondi come esempio per un nuovo tentativo più rapido.
+- Questa impostazione consente di regolare il tempo di attesa prima di ripetere l'ordine.
+- Valore predefinito: 5 secondi. È possibile impostarlo su 2 secondi, ad esempio, per un nuovo tentativo più rapido.

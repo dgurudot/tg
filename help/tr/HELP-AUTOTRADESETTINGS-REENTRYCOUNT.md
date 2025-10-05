@@ -1,11 +1,11 @@
 # **Yeniden Giriş Sayısı**
 
-## Amaç: 
+## Amaç:
 
-- Bu ayar, piyasa emrini nihai olarak yerleştirmeden önce ofsetle limit emrini kaç kez yeniden deneyeceğimizi ayarlamanıza olanak tanır.
+- Bu ayar, piyasa emri vermeden önce ofsetle limit emrini kaç kez tekrar deneyeceğimizi ayarlamanıza olanak tanır.
 
 ## Örnek:
 
-- Yeniden deneme sayınız 1 ise, sinyal önce sinyalde alınan fiyattan emri doldurmaya çalışacaktır. 
-- Doldurulmazsa, yalnızca 1 yeniden deneme olacaktır (yeniden deneme sayısı ayarına göre ve değiştirilebilir) ve Satın Alma için Teklif artı ofset veya Satış sinyali için Teklif eksi ofset kullanacaktır. 
-- Yeniden deneme denemeleri tükendiğinde, piyasa emri yerleştirilecektir.
+- Tekrar deneme sayınız 1 ise, sinyal önce sinyalde alınan fiyattan emri doldurmaya çalışır.
+- Doldurulmazsa, yalnızca 1 tekrar deneme olur (tekrar deneme sayısı ayarına bağlıdır ve değiştirilebilir) ve Alış sinyali için Teklif artı ofset veya Satış sinyali için Teklif eksi ofset kullanılır.
+- Tekrar deneme denemeleri tükendiğinde, piyasa emri verilir.

@@ -1,6 +1,6 @@
 # **Trades, Updates, News-Filter**
 
-- Ermöglicht Ihnen, eine durch Kommas getrennte **Symbolliste** auszuwählen. Beispiel: AAPL, TSLA, FB
-- Ermöglicht Ihnen, **offene, geschlossene oder gestoppte** Trades auszuwählen. Standard = Offen
-- Ermöglicht Ihnen, **Trade-Art** auszuwählen (Tag, Swing, Long)
-- Ermöglicht Ihnen, **die letzte** Woche, den letzten Monat, das letzte Jahr oder alles anzuzeigen
+– Ermöglicht die Auswahl einer durch Kommas getrennten **Symbolliste**. Beispiel: AAPL, TSLA, FB
+– Ermöglicht die Auswahl von **offenen, geschlossenen oder gestoppten** Trades. Standard = Offen
+– Ermöglicht die Auswahl der **Handelsart** (Tages-, Swing-, Long-Trade)
+– Ermöglicht die **Ansicht der letzten** Woche, des letzten Monats, des letzten Jahres oder des gesamten Jahres

@@ -1,8 +1,8 @@
 # **Pengaturan AutoTrades**
 
-- Aktifkan AutoTrade pada **satu perangkat saja** menggunakan kotak centang aktifkan AutoTrade. Aktifkan AutoTrade hanya ditujukan untuk satu perangkat.
-- Pastikan Anda telah menonaktifkan screensaver, kunci perangkat otomatis untuk mencegah aplikasi berhenti karena kunci perangkat otomatis.
+- Aktifkan AutoTrade hanya pada **satu perangkat** dengan menggunakan kotak centang "Aktifkan AutoTrade". Aktifkan AutoTrade hanya untuk satu perangkat.
+- Pastikan Anda telah menonaktifkan screensaver dan kunci perangkat otomatis agar aplikasi tidak berhenti karena kunci perangkat otomatis.
 - Pastikan aplikasi TradeGrub selalu berjalan di latar depan.
-- Pastikan perangkat Anda memiliki data real-time yang terhubung dan aktif. Anda dapat dengan mudah memverifikasinya jika harga diperbarui.
-- Tetapkan pengaturan AutoTrade lainnya sesuai dengan bantuan pengaturan masing-masing.
+- Pastikan perangkat Anda terhubung dan aktif dengan data real-time. Anda dapat dengan mudah memverifikasi apakah harga sedang diperbarui.
+- Harap atur pengaturan AutoTrade lainnya sesuai dengan panduan pengaturan masing-masing.
 

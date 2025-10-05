@@ -1,15 +1,15 @@
 # **Yeniden Giriş Ofseti**
 
-## Amaç: 
+## Amaç:
 
-- Bu ayar, ofseti Satış fiyatından (Satın Alma anında) veya Teklif fiyatından (Satış anında) ayarlamanıza olanak tanır. 
-- İşlem, başlangıçta sinyalde alınan Satın Alma fiyatında gerçekleştirilecektir. 
-- 5 saniye içinde gerçekleştirilmezse, yeniden deneme girişimi Teklif artı ofset üzerinden satın alacaktır (varsayılan değer 0,05'tir). 
-- Benzer şekilde, satış sinyali alınırsa, işlem sinyalde alınan satış fiyatında gerçekleştirilecektir, ancak bu gerçekleştirilmezse, yeniden deneme girişimi Teklif eksi ofset üzerinden olacaktır (varsayılan değer 0,05'tir).
+- Bu ayar, Satış Fiyatı (Alış anında) veya Alış (Satış anında) arasındaki farkı ayarlamanıza olanak tanır.
+- İşlem, başlangıçta sinyalde alınan Alış fiyatından gerçekleştirilecektir.
+- 5 saniye içinde gerçekleşmezse, tekrar deneme, Satış fiyatı artı ofset üzerinden alış yapacaktır (varsayılan değer 0,05'tir).
+- Benzer şekilde, satış sinyali alınırsa, işlem, sinyalde alınan satış fiyatından gerçekleştirilecektir, ancak bu gerçekleşmezse, tekrar deneme, Teklif eksi ofset üzerinden yapılacaktır (varsayılan değer 0,05'tir).
 
 ## Örnek:
 
-- 99$'lık Teklif ve 101$'lık Teklif ile 100$'lık Satın Alma sinyali. Satın Alma için ilk limit emri 100$'dan doldurulmazsa, yeniden deneme girişimi 101$ + 0,05 = 101,05$'da gerçekleşecektir.
+- Alış sinyali 100$, Alış fiyatı 99$ ve Satış fiyatı 101$. Alış için ilk limit emri 100$'dan gerçekleştirilmezse, tekrar deneme 101$ + 0,05 = 101,05$'dan gerçekleşecektir.
 
-- 200$'lık satış sinyali, 199$'lık teklif ve 201$'lık talep. Satış için ilk limit emri 200$'da doldurulmazsa, o zaman yeniden deneme girişimi 199$'da gerçekleşecek - 0,05 = 198,95$
+- Satış sinyali 200$, Alış 199$ ve Satış 201$. Satış için ilk limit emri 200$'dan doldurulmazsa, 199$ - 0,05 = 198,95$'dan tekrar deneme yapılacaktır.
 

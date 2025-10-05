@@ -1,4 +1,4 @@
-# **Çekilmeleri Ayarla**
+# **Çekme İşlemlerini Ayarlayın**
 
-- **Adım 1:** "Değer" alanına tutarı ekleyin
-- **Adım 2:** "Tarih" alanında belirli bir çekilme tarihi seçin ve "Oluştur" düğmesine tıklayın
+- **1. Adım:** "Değer" alanına tutarı girin
+- **2. Adım:** "Tarih" alanında belirli bir çekme tarihi seçin ve "Oluştur" butonuna tıklayın

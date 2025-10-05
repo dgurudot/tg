@@ -2,12 +2,11 @@
 
 Muestra las órdenes de la cuenta como se indica a continuación:
 
-**Activas:** Órdenes que están pendientes y esperando ser ejecutadas.
+**Activas:** Órdenes pendientes de ejecución.
 
-**Completadas:** Órdenes que se ejecutaron. Incluye órdenes parcialmente completadas para órdenes de varias etapas.
+**Completadas:** Órdenes ejecutadas. Incluye órdenes parcialmente completadas para órdenes con varias etapas.
 
-**Canceladas:** Órdenes que se cancelaron o rechazaron o que se produjeron por error.
+**Canceladas:** Órdenes canceladas, rechazadas o con error.
 
-**Nota**: Deslizar hacia la izquierda sobre una orden activa específica le permite cancelar una orden específica.
-
-Deslizar hacia la derecha sobre una orden activa específica le permite crear una orden similar o modificar una orden.
+**Nota**: Deslizar el dedo hacia la izquierda sobre una orden activa permite cancelarla.
+Deslizar el dedo hacia la derecha sobre una orden activa permite crear una orden similar o modificarla.

@@ -1,4 +1,4 @@
-# **Vender a**
+# **Venta al**
 
-- Esta configuración le permite ajustar el precio de venta y elegir entre precio de oferta, precio de venta o precio de referencia. 
-- La opción de vender a precio de descuento también se agregará al precio de compra seleccionado.
+- Esta configuración le permite ajustar el precio de venta y elegir entre precio de oferta, precio de venta o precio de mercado.
+- La venta al precio de mercado también se añadirá al precio de compra seleccionado.

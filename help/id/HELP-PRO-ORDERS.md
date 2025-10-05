@@ -1,4 +1,4 @@
-# **Pro Orders**
+# **Pesanan Pro**
 
-- **Widget**: Petak dalam setiap tata letak dasbor untuk menampilkan informasi tertentu. Contoh: Kutipan, Tindakan Cepat, Bagan, dll. Widget ini dapat dikelompokkan berdasarkan warna. Contoh: Jika simbol pada widget kutipan berubah, maka tindakan cepat dan bagan akan diperbarui untuk simbol yang sama.
-- **Tata Letak**: Anda memiliki empat tata letak yang tersedia yang dapat disesuaikan dengan menggunakan pengaturan di kanan atas dan juga beberapa widget dapat disesuaikan dengan menekan menu perluasan tiga titik di kanan atas widget tertentu. Misalnya: Widget Tindakan Cepat memungkinkan Anda menyesuaikan setiap tombol pintas beserta tombol dan tindakan.
+- **Widget**: Ubin di setiap tata letak dasbor untuk menampilkan informasi spesifik. Contoh: Kutipan, Tindakan Cepat, Bagan, dll. Widget ini dapat dikelompokkan berdasarkan warna. Contoh: Jika simbol pada widget kutipan berubah, maka tindakan cepat dan bagan akan diperbarui untuk simbol yang sama.
+- **Tata Letak**: Anda memiliki empat tata letak yang tersedia yang dapat disesuaikan dengan menggunakan pengaturan di kanan atas dan beberapa widget juga dapat disesuaikan dengan menekan menu ekspansi tiga titik di kanan atas widget tertentu. Contoh: Widget Tindakan Cepat memungkinkan Anda untuk menyesuaikan setiap tombol pintas beserta tombol dan tindakannya.

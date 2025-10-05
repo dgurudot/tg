@@ -1,0 +1,7 @@
+# **Cum calculăm performanța**
+- **Câștigul %** reflectă intervalul de profit pentru o anumită tranzacție. De asemenea, arată ținta de profit atinsă prin culoarea verde.
+- Tranzacția este „închisă” atunci când nu recomandăm nicio achiziție suplimentară pentru acțiuni și ne aflăm în zona de vânzare. Puteți continua să mențineți poziția în zona de vânzare pentru tranzacții swing și long.
+- Profitul minim obținut este de la B1 (Primul preț de cumpărare) până la S1 (Prima țintă de vânzare) prețul atins.
+- Dacă mențineți poziția dincolo de S1 în zona de vânzare, atunci obțineți potențialul maxim de profit și este afișat în intervalul Câștig % unde atingem ținta S3.
+- Tranzacțiile de o zi nu au o menținere mai mult de o zi, așa că de obicei nu urmărim atingerea țintelor S2, S3, deși utilizatorii pot alege în continuare să vândă doar o porțiune la S1 și apoi să obțină mai multe profituri la S2, S3 și dincolo în aceeași zi. Pentru tranzacțiile de o zi (cu etichetă D), afișăm doar profitul minim pentru o anumită tranzacție.
+- Tranzacțiile swing sunt etichetate cu eticheta „S” (culoare chihlimbar). Tranzacțiile pe termen lung sunt etichetate cu o etichetă de culoare „L” (verde) situată lângă simbolul din partea dreaptă.

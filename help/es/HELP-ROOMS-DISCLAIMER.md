@@ -1,12 +1,12 @@
-- Las discusiones en las salas **no** son asesoramiento fiscal, legal o de inversión
-- Las discusiones en las salas **no** son una indicación para comprar o vender acciones
-- No se puede compartir ni buscar información personal identificable, incluyendo nombre, correo electrónico, teléfono o cualquier otro tipo de contacto. Respete la privacidad de todos
-- No se pueden promocionar servicios o productos o enlaces de referencia
-- No se permite spam, inundación ni publicación de mensajes difamatorios
-- No se permite discurso de odio ni acoso. Se permiten argumentos respetuosos y amistosos
-- No se permite contenido para adultos, insultos, ataques raciales o personales, insultos, blasfemias, vulgaridades o contenido degradante
-- Sea amable, respetuoso y cortés, y respete los derechos y opiniones de los demás
-- Sea profesional y servicial
-- Realice su propia investigación y no acepte consejos o discusiones de la comunidad para tomar decisiones financieras
-- NO refleje operaciones y siempre tenga su propio plan de operaciones
-- Enfoque: discuta solo sobre acciones y mercados. Evite los mensajes de hola, buenos días y buenos días.
+- Las discusiones en las salas **no** constituyen asesoramiento fiscal, legal ni de inversión.
+- Las discusiones en las salas **no** constituyen una indicación para comprar o vender acciones.
+- No se puede compartir ni solicitar información personal identificable, como nombre, correo electrónico, teléfono ni ningún otro tipo de contacto. Respete la privacidad de todos.
+- No se pueden promocionar servicios, productos ni enlaces de referencia.
+- No se permite spam, saturación ni publicar mensajes difamatorios.
+- No se permite incitación al odio ni acoso. Se permiten discusiones respetuosas y amistosas.
+- No se permite contenido para adultos, insultos, ataques raciales o personales, insultos, blasfemias, vulgaridades ni contenido degradante.
+- Sea amable, respetuoso y cortés, y respete los derechos y opiniones de los demás.
+- Sea profesional y servicial.
+- Investigue por su cuenta y no siga los consejos ni las discusiones de la comunidad para tomar decisiones financieras.
+- NO imite las operaciones y siempre tenga su propio plan de trading.
+- Enfoque: Hable solo sobre acciones y mercados. Evite los mensajes de "hola" y "buenos días".

@@ -1,6 +1,6 @@
-# Arrêt au prix coûtant lorsque le prix dépasse un certain %
+# Arrêt au coût au-dessus d'un certain %
 
 ## Objectif :
 
-- Vous pouvez choisir de déplacer automatiquement l'arrêt au prix coûtant lorsque le prix de l'action dépasse automatiquement un certain % de profit.
-- Le système analyserait toutes les secondes et effectuerait automatiquement cet ajustement d'arrêt en annulant les commandes existantes pour les symboles.
+- Vous pouvez choisir de déplacer automatiquement l'arrêt au coût lorsque le cours de l'action dépasse un certain % de profit.
+- Le système analyse le cours toutes les secondes et ajuste automatiquement l'arrêt en annulant les ordres existants pour les symboles.

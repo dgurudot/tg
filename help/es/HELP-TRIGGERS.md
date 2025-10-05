@@ -1,6 +1,6 @@
 # **Disparadores**
 
 - Muestra los disparadores activos, activados y cancelados.
-- Haz clic en el botón de filtro en la parte superior derecha para seleccionar filtros para símbolos específicos.
-- Haz clic en el botón más en la parte superior derecha para agregar un nuevo disparador.
-- Nota: El disparador solo se enviará al último dispositivo en el que se haya iniciado sesión y solo se basará en los movimientos de precios del mercado.
+- Haga clic en el botón de filtro en la esquina superior derecha para seleccionar filtros para símbolos específicos.
+- Haga clic en el botón "+" en la esquina superior derecha para añadir un nuevo disparador.
+- Nota: El disparador solo se enviará al último dispositivo conectado y se basará únicamente en las fluctuaciones del precio del mercado.

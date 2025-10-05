@@ -1,2 +1,2 @@
-# **Detenerse en caso de retraso de costo**
+# **Detenerse en el retraso del costo**
 

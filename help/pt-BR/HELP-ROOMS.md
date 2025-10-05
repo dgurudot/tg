@@ -1,5 +1,5 @@
 # **Salas**
 
-- Selecione uma sala de bate-papo específica com base no interesse. Por favor, revise o **aviso legal** abaixo para entender as regras da sala de bate-papo moderada.
-- As salas permitem que você converse com o administrador ou outros traders com interesse semelhante.
-- **Observação:** as salas são purgadas periodicamente, então você pode não conseguir visualizar o histórico do dia anterior.
+- Selecione uma sala de bate-papo em grupo específica com base no seu interesse. Consulte o **aviso legal** abaixo para entender as regras de salas de bate-papo em grupo moderadas.
+- As salas permitem que você converse com administradores ou outros traders com interesses semelhantes.
+- **Observação:** As salas são limpas periodicamente, então você pode não conseguir visualizar o histórico dos dias anteriores.

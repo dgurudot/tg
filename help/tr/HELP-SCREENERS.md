@@ -1,10 +1,10 @@
 # **Tarayıcılar**
 
-Sermaye Piyasası, aşağıdakileri filtrelemek için belirli piyasa değeri aralığı için her 5-15 dakikada bir taranır:
+Hisse Senedi Piyasası, aşağıdakileri filtrelemek için belirli piyasa değeri aralıkları için her 5-15 dakikada bir taranır:
 
-- **Kazananlar**: Piyasa genelinde En Çok Kazananlar
-- **Kaybedenler**: Piyasa genelinde En Çok Kaybedenler
+- **Kazananlar**: Piyasa genelinde en çok kazananlar
+- **Kaybedenler**: Piyasa genelinde en çok kaybedenler
 - **Aktif**: Hacim aktivitesine göre piyasadaki en aktif hisse senetleri
-- **Boşlukçular**: Piyasa genelindeki en çok boşlukçular
+- **Boşlukta Kalanlar**: Piyasa genelinde en çok boşlukta kalanlar
 
-**Not**: Belirli sembollere, piyasa değerine, fiyat aralığına, hacme, % değişime ve boşluk %'sine göre güncelleme yapmak için sağ üst menüden filtreyi kullanın
+**Not**: Belirli sembollere, piyasa değerine, fiyat aralığına, hacme, değişim yüzdesine ve boşluk yüzdesine göre güncelleme yapmak için sağ üst menüden filtreyi kullanın.

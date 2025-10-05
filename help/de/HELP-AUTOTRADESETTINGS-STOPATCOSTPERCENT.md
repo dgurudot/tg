@@ -1,6 +1,6 @@
-# Stopp bei Kosten, wenn über einem bestimmten %
+# Stop zum Selbstkostenpreis, wenn über einem bestimmten Prozentsatz
 
 ## Zweck:
 
-- Sie können wählen, den Stopp bei Kosten automatisch zu verschieben, wenn der Aktienkurs automatisch über einen bestimmten %-Wert des Gewinns steigt.
-- Das System würde alle eine bestimmte Anzahl von Sekunden scannen und diese Stoppanpassung automatisch vornehmen, indem bestehende Aufträge für die Symbole storniert werden.
+– Sie können den Stop zum Selbstkostenpreis automatisch verschieben, wenn der Aktienkurs einen bestimmten Prozentsatz des Gewinns überschreitet.
+– Das System scannt den Stop alle Sekunden und nimmt die Stop-Anpassung automatisch vor, indem bestehende Orders für die Symbole storniert werden.

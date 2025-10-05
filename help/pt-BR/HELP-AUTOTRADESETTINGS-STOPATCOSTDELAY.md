@@ -1,2 +1,2 @@
-# **Parar no atraso de custo**
+# **Parada no Atraso de Custo**
 

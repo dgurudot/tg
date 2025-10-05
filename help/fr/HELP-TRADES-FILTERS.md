@@ -1,6 +1,6 @@
-# **Transactions, mises à jour, filtres d'actualités**
+# **Transactions, Mises à jour, Filtres d'actualités**
 
-- Vous permet de sélectionner une **liste de symboles** séparée par des virgules. Exemple : AAPL, TSLA, FB
-- Vous permet de sélectionner des transactions **ouvertes, fermées ou arrêtées**. Par défaut = Ouvert
-- Vous permet de sélectionner le **type de transaction** (Jour, Swing, Long)
-- Vous permet de **visualiser la semaine, le mois, l'année écoulés** ou Tout
+- Permet de sélectionner une **liste de symboles** séparés par des virgules. Exemple : AAPL, TSLA, FB
+- Permet de sélectionner des transactions **ouvertes, clôturées ou arrêtées**. Valeur par défaut : Ouvert
+- Permet de sélectionner le **type de transaction** (Jour, Swing, Long)
+- Permet de **visualiser la semaine, le mois, l'année écoulés** ou la totalité

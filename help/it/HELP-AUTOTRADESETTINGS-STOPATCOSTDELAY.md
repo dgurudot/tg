@@ -1,2 +1,2 @@
-# **Fermati al ritardo dei costi**
+# **Interruzione al ritardo dei costi**
 

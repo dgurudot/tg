@@ -1,7 +1,7 @@
-# **Auftragseinstellungen**
+# **Ordereinstellungen**
 
-### Standardparameter für die schnelle Auftragserteilung bei Auftragserteilung außerhalb von Trades. Nachfolgend sind verschiedene Einstellungen als Referenz aufgeführt:
+### Standardparameter für die schnelle Ordererteilung außerhalb von Handelsgeschäften. Nachfolgend finden Sie verschiedene Einstellungen zur Referenz:
 
-- **Standardmenge**: Zu bestellende Menge. Standard = 10
-- **Standardstopp %**: Stopp % vom Kaufpreis. Standard = 10
-- **Standardgewinn %**: Gewinn % vom Kaufpreis. Standard = 10
+- **Standardmenge**: Bestellmenge. Standardwert = 10
+- **Standard-Stopp %**: Stop % vom Kaufpreis. Standardwert = 10
+- **Standard-Gewinn %**: Gewinn % vom Kaufpreis. Standardwert = 10

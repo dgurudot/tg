@@ -1,2 +1,2 @@
-# **Dừng lại ở Chi phí Trì hoãn**
+# **Dừng lại khi Chi phí bị trì hoãn**
 

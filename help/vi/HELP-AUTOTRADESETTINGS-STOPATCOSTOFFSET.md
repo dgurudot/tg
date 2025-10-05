@@ -1,6 +1,7 @@
-# Dừng ở mức bù trừ giá thành
+# Dừng tại mức bù trừ giá gốc
 
 ## Mục đích:
 
-- Bạn có thể chọn mức bù trừ cụ thể để sử dụng khi di chuyển dừng ở mức giá thành.
-- Điều này sẽ giúp bạn bán ở mức dừng khi lệnh thị trường thực hiện vẫn giữ cho bạn ở mức cao hơn giá thành.
+- Bạn có thể chọn mức bù trừ cụ thể để sử dụng khi di chuyển lệnh dừng tại giá gốc.
+- Điều này sẽ giúp bạn bán tại mức dừng khi lệnh thị trường vẫn giữ giá cao hơn giá gốc.
+

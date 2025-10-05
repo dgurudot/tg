@@ -1,7 +1,7 @@
-# **Configuración de pedidos**
+# **Configuración de Órdenes**
 
-### Parámetros predeterminados para realizar pedidos rápidamente al realizar pedidos fuera de las operaciones. A continuación, se ofrecen varios parámetros de referencia:
+### Parámetros predeterminados para realizar órdenes rápidamente al realizar órdenes fuera de las operaciones. A continuación, se muestran varios ajustes como referencia:
 
-- **Cantidad predeterminada**: Cantidad a solicitar. Predeterminado = 10
-- **Porcentaje de parada predeterminado**: % de parada a partir del precio de compra. Predeterminado = 10
-- **Porcentaje de ganancia predeterminado**: % de ganancia a partir del precio de compra. Predeterminado = 10
+- **Cantidad Predeterminada**: Cantidad a ordenar. Predeterminado = 10
+- **% Stop Predeterminado**: % Stop del precio de compra. Predeterminado = 10
+- **% Ganancia Predeterminado**: % Ganancia del precio de compra. Predeterminado = 10

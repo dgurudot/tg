@@ -6,12 +6,12 @@ Belirli başlığı sıralamak için başlığa tıklayın.
 
 **İşlemler (Varsayılan):**
 - **Tarih:** İşlem tarihi
-- **Tür:** İşlem türü [ SATIŞ, SATIN AL, INT (Faiz), DIV (Temettü), WID (Çekme), DEP (Mevduat) veya DİĞER ]
+- **Tür:** İşlem türü [ SATIŞ, ALIŞ, INT (Faiz), DIV (Temettü), WID (Çekme), DEP (Yatırılan Para) veya DİĞER ]
 - **Sembol:** Sembol adı
 - **Miktar:** Toplam miktar
 - **Maliyet:** Satın alma fiyatı
-- **Toplam Maliyet:** Toplam satın alma fiyatı
-- **Zaman:** İşlem zamanı
-- **Komisyon:** Broker komisyonu
-- **Ücret:** Broker veya borsa ücreti veya vergiler
-- **Kimlik (İsteğe bağlı):** İşlem kimliği
+- **Toplam maliyet:** Toplam satın alma fiyatı
+- **Saat:** İşlem saati
+- **Komisyon:** Aracı kurum komisyonu
+- **Ücret:** Aracı kurum veya borsa ücreti veya vergiler
+- **Kimlik (İsteğe bağlı):** İşlem Kimliği

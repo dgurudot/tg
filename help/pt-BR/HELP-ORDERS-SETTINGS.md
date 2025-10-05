@@ -1,7 +1,7 @@
-# **Configurações de pedidos**
+# **Configurações de Ordens**
 
-### Parâmetros padrão para colocar pedidos rapidamente ao colocar pedidos fora de negociações. Várias configurações são fornecidas abaixo para referência:
+### Parâmetros padrão para abrir ordens rapidamente, mesmo fora de negociações. Várias configurações são fornecidas abaixo para referência:
 
-- **Qtd. padrão**: Quantidade a ser pedida. Padrão = 10
-- **Parada padrão %**: Parada % do preço de compra. Padrão = 10
-- **Ganho padrão %**: Ganho % do preço de compra. Padrão = 10
+- **Qtd. Padrão**: Quantidade a ser pedida. Padrão = 10
+- **Parada Padrão %**: Parada % do preço de compra. Padrão = 10
+- **Ganho Padrão %**: Ganho % do preço de compra. Padrão = 10

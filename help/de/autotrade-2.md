@@ -1,6 +1,6 @@
 
-## Stimmen Sie zu, dass Sie Ihre Handels-App GEÖFFNET halten müssen und sie NICHT in den Hintergrund stellen oder die App stoppen oder beenden dürfen.
+## Stimmen Sie zu, dass Ihre Handels-App GEÖFFNET bleiben muss und nicht in den Hintergrund gestellt oder beendet werden darf.
 
-Sie müssen Ihre Handels-App immer GEÖFFNET und im VORDERGRUND halten, damit automatische Trades ausgeführt werden können.
-- Auto Trade erfordert, dass Ihre TradeGrub-Handelsanwendung immer geöffnet, im Vordergrund und aktiv ist, damit automatische Trades ausgeführt werden können.
-- Wenn Sie Verbindungsprobleme haben, lassen Sie sie auf einem Remote-PC oder Cloud-Server laufen und stellen Sie per Remote-Desktop eine Verbindung dazu her, um sicherzustellen, dass die Anwendung immer geöffnet ist und über eine zuverlässige Netzwerkverbindung verfügt.
+Sie müssen Ihre Handels-App immer GEÖFFNET und im VORDERGRUND lassen, damit automatische Handelsvorgänge ausgeführt werden können.
+- Für die automatische Handelsausführung muss Ihre TradeGrub-Handelsanwendung immer geöffnet, im Vordergrund und aktiv sein.
+- Bei Verbindungsproblemen lassen Sie die Anwendung auf einem Remote-PC oder Cloud-Server laufen und greifen Sie per Remote-Desktop darauf zu, um sicherzustellen, dass sie immer geöffnet ist und eine zuverlässige Netzwerkverbindung besteht.

@@ -1,12 +1,12 @@
-- Diskusi di ruang **bukan** saran pajak, hukum, atau investasi
-- Diskusi di ruang **bukan** indikasi untuk membeli/menjual saham
-- Tidak boleh membagikan atau mencari informasi identitas pribadi termasuk nama, email, telepon, atau jenis kontak lainnya. Hargai privasi setiap orang
-- Tidak boleh mempromosikan layanan atau produk atau tautan rujukan
-- Tidak boleh mengirim spam, membanjiri, atau mengeposkan pesan yang memfitnah
-- Tidak boleh menyebarkan ujaran kebencian atau perundungan. Argumen yang sopan dan bersahabat diperbolehkan
-- Tidak boleh ada konten dewasa, makian, rasial, serangan pribadi, cercaan, kata-kata kotor, vulgar, atau konten yang merendahkan
-- Bersikaplah baik, hormat, dan santun serta hargai hak dan pendapat orang lain
-- Bersikaplah profesional dan suka menolong
-- Lakukan riset Anda sendiri dan jangan menerima saran/diskusi dari komunitas untuk membuat keputusan finansial
+- Diskusi di ruang diskusi **bukan** merupakan nasihat pajak, hukum, atau investasi
+- Diskusi di ruang diskusi **bukan** merupakan indikasi untuk membeli/menjual saham
+- Dilarang membagikan atau meminta informasi identitas pribadi termasuk nama, email, nomor telepon, atau jenis kontak lainnya. Hormati privasi setiap orang
+- Dilarang mempromosikan layanan, produk, atau tautan rujukan
+- Dilarang mengirim spam, membanjiri, atau memposting pesan yang memfitnah
+- Dilarang menyebarkan ujaran kebencian atau perundungan. Argumen yang sopan dan bersahabat diperbolehkan
+- Dilarang menggunakan konten dewasa, makian, rasial, serangan pribadi, flaming, kata-kata kotor, vulgar, atau konten yang merendahkan
+- Bersikaplah baik, hormat, dan sopan, serta hormati hak dan pendapat orang lain
+- Bersikaplah profesional dan membantu
+- Lakukan riset Anda sendiri dan jangan menerima saran/diskusi dari komunitas untuk membuat keputusan keuangan
 - JANGAN meniru perdagangan dan selalu miliki rencana perdagangan Anda sendiri
-- Fokus: Diskusikan saham dan pasar saja. Hindari pesan halo, hai, dan selamat pagi.
+- Fokus: Diskusikan saham dan pasar saja. Hindari pesan "halo", "hai", dan "selamat pagi".

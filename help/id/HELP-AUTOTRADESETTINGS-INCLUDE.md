@@ -2,9 +2,9 @@
 
 ## Tujuan:
 
-- Anda dapat memilih simbol spesifik yang ingin disertakan untuk AutoTrade.
+- Anda dapat memilih simbol spesifik yang ingin Anda sertakan untuk AutoTrade.
 - Daftar simbol dapat diberikan melalui simbol yang dipisahkan koma.
-- Default: Mencakup semua simbol, kecuali jika Anda memberikan daftar eksplisit yang hanya menyertakan simbol untuk AutoTrade.
+- Default: Menyertakan semua simbol, kecuali Anda memberikan daftar eksplisit yang hanya berisi simbol yang akan disertakan untuk AutoTrade.
 
 ## Contoh:
 

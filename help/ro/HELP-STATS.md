@@ -1,43 +1,42 @@
-# **Stats**
+# **Statistici**
 
 Afișează statisticile contului, așa cum sunt prezentate mai jos:
 
-**Informații despre cont:**
-  - **Tipul:** Cont de numerar sau cont de marjă
-  - **ID:** ID-ul contului (sunt afișate doar ultimele patru caractere)
-  - **Capital:** Valoarea totală a contului
-  - **Marjă utilizată:** Marja utilizată în prezent
-  - **Balanțe Marginale:** Soldul curent al marjei
-  - **Disponibil Efectiv:** Disponibilul efectiv pentru tranzacționare din cont
+**Informații cont:**
+- **Tip:** Cont numerar sau marjă
+- **ID:** ID cont (sunt afișate doar ultimele patru caractere)
+- **Capitaluri proprii:** Valoarea totală a contului
+- **Marjă utilizată:** Marjă utilizată curent
+- **Solduri marjă:** Soldul curent al marjei
+- **Putere de cumpărare:** Putere de cumpărare curentă pentru cont
 
-**Obiective:**
-  - **Investiție:** Investiție totală bazată pe suma totală a tuturor tranzacțiilor de depozit. Poate fi actualizat manual.
-  - **Vânzări Lunar:** Tranzacțiile de vânzare țintă și obiectivul preconizat pentru luna respectivă
-  - **Cumpărări Lunar:** Obiectivul de cumpărare preconizat și obiectivul pentru luna respectivă.
-  - **Număr Poziții:** Numărul de poziții vizate în portofoliu
-  - **Profi Lunar %:** Obiectivul pentru profitul lunar %
-  - **Profit Anual %:** Obiectivul pentru profitul anual %.
-  - **Prag BP %:** Pragul pentru puterea de cumpărare (disponibil efecitv). Avertisment în momentul plasării ordinului.
-  - **Prag cost:** Prag pentru costul total. Avertisment în momentul plasării comenzii.
+**Ținte:**
+- **Prag de activare:** Activează pragul pentru avertizare bazat pe procentul pragului BP și pragul de cost la momentul plasării comenzilor.
+- **Investiție:** Investiția totală bazată pe suma totală a tuturor tranzacțiilor de depunere. Poate fi actualizată manual.
+- **Vânzare lunară:** Tranzacții de vânzare țintă așteptate și obiectivul pentru lună
+- **Cumpărare lunară:** Tranzacții de cumpărare țintă așteptate și obiectivul pentru lună
+- **Dimensiunea portofoliului:** Numărul de poziții țintă în portofoliu
+- **Profit lunar %:** Obiectivul pentru profitul lunar %
+- **Profit anual %:** Obiectivul pentru profitul anual %
+- **Prag BP %:** Prag pentru puterea de cumpărare. Avertisment în momentul plasării comenzii.
+- **Prag de cost:** Prag pentru costul total. Avertisment în momentul plasării comenzii.
 
-**Lunar (lună specifică):**
-  - **Nr. Cumpărări:** Numărul de tranzacții de cumpărare într-o anumită lună.
-  - **Nr. Vânzări:** Numărul de tranzacții de vânzare într-o anumită lună.
-  - **Profit:** Profitul total pentru luna respectivă.
-  - **Dobândă:** Dobânda plătită pentru luna respectivă
-  - **Dividend:** Dividendele primite pentru luna respectivă
-  - **Profit net:** Profit total + Dividende - Dobânzi
+**Lunar (Lună Specifică):**
+- **Nr. Achiziții:** Numărul de tranzacții de cumpărare într-o lună specifică
+- **Nr. Vânzări:** Numărul de tranzacții de vânzare într-o lună specifică
+- **Profit:** Profit total pe lună
+- **Dobândă:** Dobândă plătită pe lună
+- **Dividend:** Dividende primite pe lună
+- **Profit Net:** Profit Total + Dividende - Dobândă
 
-**Statistici lunare:**
-  Oferă informații detaliate despre toate tranzacțiile pentru o anumită lună
-  
-**Rezumat al profitului (an specific):**
-  Oferă procentul de profit și profitul total pentru fiecare lună a anului
-  
-**Totale:**
-  Oferă informații detaliate despre conturi specifice de la început.
-  Vă rugăm să rețineți că aceste informații se bazează pe istoricul net disponibil pentru cont (implicit 1 ani).
+**Statistici Lunare:**
+Oferă informații detaliate despre toate tranzacțiile pentru o lună specifică
 
-**Notă:**
-Profit - Retragere include și (Depozit - Investiție). Puteți actualiza manual suma investiției din obiective.
- 
+**Sumar Profit (An Specific):**
+Oferă procentul de profit și profiturile totale pentru fiecare lună a anului
+
+**Totaluri:**
+Oferă informații detaliate despre conturi specifice de la început.
+
+Vă rugăm să rețineți că aceste informații se bazează pe istoricul net disponibil pentru cont (implicit 5 ani).
+

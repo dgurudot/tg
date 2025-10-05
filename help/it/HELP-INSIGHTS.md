@@ -1,38 +1,39 @@
-# **Insight**
+# **Approfondimenti**
 
-Visualizza gli insight dell'account come indicato di seguito:
-- **Valore di allocazione:** Grafico a bolle che mostra il valore corrente di ogni posizione nel portafoglio
-- **Valore %:** Grafico a torta che mostra il valore % di ogni posizione nel portafoglio.
-- **Costo:** Grafico a torta che mostra l'allocazione dei costi per ogni posizione nel portafoglio.
-- **Costo %:** Grafico a imbuto che mostra la percentuale di allocazione dei costi più alta per le posizioni nel portafoglio.
-- **Investimento: rapporto di cassa** Grafico che mostra l'investimento totale e il saldo di cassa.
-- **Distribuzione per settore:** (facoltativo) Mostra la distribuzione delle posizioni per ogni settore.
-- **Obiettivo mensile:** Mostra gli anelli di avanzamento in base agli obiettivi mensili impostati nelle statistiche.
+Visualizza gli approfondimenti dell'account come indicato di seguito:
+- **Valore di allocazione:** Grafico a bolle che mostra il valore attuale di ciascuna posizione nel portafoglio
+- **Valore %:** Grafico a torta che mostra il valore percentuale di ciascuna posizione nel portafoglio.
+- **Costo:** Grafico a torta che mostra l'allocazione dei costi a ciascuna posizione nel portafoglio.
+- **Costo %:** Grafico a imbuto che mostra la percentuale di allocazione dei costi più elevata per le posizioni nel portafoglio.
+- **Investimento: Rapporto di liquidità** Grafico che mostra l'investimento totale e il saldo di liquidità.
+- **Distribuzione per settore:** (Facoltativo) Mostra la distribuzione delle posizioni per ciascun settore.
+- **Obiettivo mensile:** Mostra gli anelli di progresso in base agli obiettivi mensili impostati nelle statistiche.
 - **Obiettivo annuale:** Mostra i progressi in base agli obiettivi annuali impostati nelle statistiche.
 - **Giornaliero:** Mostra il riepilogo dei profitti giornalieri nella vista calendario
-- **(Profitti mensili):** Mostra i profitti o le perdite da tutte le transazioni in un mese specifico. - **(Profitti annuali):** Mostra il riepilogo di profitti/perdite per un anno specifico.
-- **P/L % non realizzato:** Mostra il riepilogo di profitti/perdite % non realizzati per tutte le posizioni correnti.
-- **Acquista, vendi e guadagna %:** Mostra il riepilogo di acquisti, vendite e guadagni % per le transazioni giornaliere in un mese specifico.
-- **P/L, deposito e prelievo:** Mostra l'andamento P/L insieme ai depositi e ai prelievi del conto per anni specifici.
-- **Precisione mensile:** Mostra la precisione mensile per le negoziazioni e classifica in tre ampi gradi.
-- **Precisione annuale:** Mostra la precisione annuale per le negoziazioni per tutti i mesi.
-- **Rapporto rischio/rendimento:** Mostra il rapporto rischio e rendimento e classifica in tre ampi gradi.
-- **Coerenza:** Mostra la coerenza delle negoziazioni e classifica in tre ampi gradi.
-- **Precisione mensile:** Mostra la percentuale di precisione mensile su tutte le negoziazioni. - **Intervallo di profitto:** (facoltativo) mostra l'intervallo di profitto su tutte le negoziazioni.
-- **Distribuzione guadagno:** mostra la distribuzione percentuale del guadagno su tutte le negoziazioni.
-- **Conteggio transazioni:** mostra l'andamento del conteggio delle negoziazioni per un anno o un mese specifico.
-- **Conteggio volume:** mostra l'andamento del conteggio volume per un anno o un mese specifico.
-- **Conteggio settimanale transazioni:** mostra il conteggio settimanale delle negoziazioni come grafico a barre.
-- **Precisione settimanale:** mostra l'andamento dell'accuratezza settimanale per tutte le negoziazioni.
-- **Conteggio orario transazioni:** mostra l'andamento delle negoziazioni a un'ora specifica del giorno come grafico a barre.
-- **Precisione oraria:** mostra l'andamento dell'accuratezza per le negoziazioni in un mese specifico.
-- **Distribuzione durata:** mostra l'andamento della durata di attesa delle negoziazioni su tutte le negoziazioni. 
-- **Precisione durata:** mostra l'andamento dell'accuratezza per i tipi di negoziazioni (intraday, swing o lungo termine).
-- **Distribuzione prezzo:** mostra l'andamento dell'intervallo di prezzo per tutte le negoziazioni. - **Precisione per prezzo:** mostra la tendenza della precisione dell'account per l'intervallo di prezzo.
-- **Distribuzione del volume:** mostra la tendenza della distribuzione del volume dalle negoziazioni.
-- **Precisione per volume:** mostra la tendenza della precisione in base al volume.
-- **Top 10:** mostra le prime dieci negoziazioni
-- **Bottom 10:** mostra le ultime 10 negoziazioni
-- **Guadagni:** (facoltativo) Calendario dei guadagni per le posizioni nel portafoglio.
-- **Orologio mondiale:** Orologio mondiale che mostra i fusi orari importanti.
+- **(Profitti mensili):** Mostra i profitti o le perdite di tutte le transazioni in un mese specifico. - **(Profitti annuali):** Mostra il riepilogo di profitti/perdite per un anno specifico.
+- **Percentuale P/L non realizzata:** Mostra il riepilogo delle percentuali di profitti/perdite non realizzate di tutte le posizioni correnti.
+- **Percentuale di acquisto, vendita e guadagno:** Mostra il riepilogo delle percentuali di acquisto, vendita e guadagno per le transazioni giornaliere in un mese specifico.
+- **P/L, deposito e prelievo:** Mostra l'andamento del P/L insieme ai depositi e ai prelievi dal conto per anni specifici.
+- **Precisione mensile:** Mostra la precisione mensile per le operazioni e le classifica in tre livelli generali.
+- **Precisione annuale:** Mostra la precisione annuale per le operazioni di tutti i mesi.
+- **Rapporto rischio/rendimento:** Mostra il rapporto rischio/rendimento e le classifica in tre livelli generali.
+- **Coerenza:** Mostra la coerenza delle operazioni e le classifica in tre livelli generali. - **Precisione mensile:** mostra la percentuale di precisione mensile per tutte le operazioni.
+- **Intervallo di profitto:** (facoltativo) mostra l'intervallo di profitto per tutte le operazioni.
+- **Distribuzione del guadagno:** mostra la distribuzione della percentuale di guadagno per tutte le operazioni.
+- **Conteggio delle operazioni:** mostra l'andamento del conteggio delle operazioni per un anno o un mese specifico.
+- **Conteggio del volume:** mostra l'andamento del conteggio del volume per un anno o un mese specifico.
+- **Conteggio settimanale delle operazioni:** mostra il conteggio settimanale delle operazioni come grafico a barre.
+- **Precisione settimanale:** mostra l'andamento della precisione settimanale per tutte le operazioni.
+- **Conteggio orario delle operazioni:** mostra l'andamento delle operazioni a un'ora specifica del giorno come grafico a barre.
+- **Precisione oraria:** mostra l'andamento della precisione per le operazioni in un mese specifico.
+- **Distribuzione della durata:** mostra l'andamento della durata di mantenimento delle operazioni per tutte le operazioni.
+- **Precisione Durata:** Mostra l'andamento della precisione per i tipi di operazioni (Intraday, Swing o Lungo Termine).
+- **Distribuzione Prezzi:** Mostra l'andamento dell'intervallo di prezzo per tutte le operazioni.
+- **Precisione per Prezzo:** Mostra l'andamento della precisione del conto per l'intervallo di prezzo.
+- **Distribuzione Volume:** Mostra l'andamento della distribuzione del volume delle operazioni.
+- **Precisione per Volume:** Mostra l'andamento della precisione in base al volume.
+- **Top 10:** Mostra le prime dieci operazioni
+- **Bottom 10:** Mostra le ultime 10 operazioni
+- **Guadagni:** (Facoltativo) Calendario dei guadagni per le posizioni nel portafoglio.
+- **Orologio Mondiale:** Orologio Mondiale che mostra i fusi orari più importanti.
 

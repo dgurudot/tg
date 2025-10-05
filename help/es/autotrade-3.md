@@ -1,6 +1,6 @@
-## Acepta que debes usar un solo dispositivo durante el comercio automático
+## Acepta que debes usar un solo dispositivo durante la operación automática.
 
-Siempre se supone que debes usar un solo dispositivo durante la ejecución del comercio automático
-- La fuente de datos cambia automáticamente al último dispositivo conectado y podría afectar la ejecución del comercio automático si se usan varios dispositivos juntos para la misma cuenta.
-- Se requiere un solo dispositivo para garantizar que la fuente de datos en tiempo real permanezca conectada en todo momento para la ejecución del comercio automático.
-- Al habilitar el comercio automático en varios dispositivos, se ejecutará el mismo comercio desde cada dispositivo individual. Ten en cuenta que debes usar un solo dispositivo para el comercio automático. La habilitación del comercio automático es una configuración específica para cada dispositivo individual.
+Siempre debes usar un solo dispositivo durante la ejecución de la operación automática.
+- La fuente de datos cambia automáticamente al último dispositivo conectado, lo que podría afectar la ejecución de la operación automática si se usan varios dispositivos juntos para la misma cuenta.
+- Se requiere un solo dispositivo para garantizar que la fuente de datos en tiempo real permanezca conectada en todo momento para la ejecución de la operación automática.
+- Al habilitar la operación automática en varios dispositivos, se ejecutará la misma operación desde cada uno de ellos. Ten en cuenta que debes usar solo un dispositivo para la operación automática. La activación de la operación automática es una configuración específica para cada dispositivo.

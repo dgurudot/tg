@@ -1,14 +1,14 @@
 # **Satış Ofseti**
 
-## Amaç: 
+## Amaç:
 
-- Bu ayar, satış fiyatını sabit ofsetle ayarlamanıza olanak tanır. 
-- Satış ofseti, seçilen satış fiyatından çıkarılacaktır (Ask, Teklif veya Mark olabilir. Varsayılan = Teklif).
+- Bu ayar, satış fiyatını sabit bir ofsetle ayarlamanıza olanak tanır.
+- Satış ofseti, seçilen satış fiyatından (Satış, Alış veya Mark olabilir. Varsayılan = Alış) düşülecektir.
 
-- İşlem, başlangıçta sinyalde alınan Satış fiyatından yapılacaktır. 
-- 5 saniye içinde gerçekleştirilmezse, yeniden deneme girişimi satış fiyatından (Ask, Teklif veya Mark olabilir. Varsayılan = Teklif) ofset eksi satış fiyatından (varsayılan 0,05'tir) satış yapacaktır. 
+- İşlem, başlangıçta sinyalde alınan Satış fiyatından gerçekleştirilecektir.
+- 5 saniye içinde gerçekleşmezse, tekrar deneme, ofset hariç satış fiyatından (Satış, Alış veya Mark olabilir. Varsayılan = Alış) satış yapacaktır (varsayılan değer 0,05'tir).
 
 ## Örnek:
 
-- Satış sinyali 200$, Teklif 199$ ve İstek 201$. 
-- Satış için ilk limit emri 200$'dan doldurulmazsa, yeniden deneme girişimi 199$'dan gerçekleşecektir - 0,05 = 198,95$
+- Satış sinyali 200$, Alış 199$ ve Satış 201$.
+- Satış için ilk limit emri 200$'dan gerçekleşmezse, tekrar deneme 199$'dan gerçekleşecektir - 0,05 = 198,95$.

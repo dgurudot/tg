@@ -6,7 +6,7 @@ Visualizza gli ordini dell'account come indicato di seguito:
 
 **Completati:** Ordini eseguiti. Include ordini parzialmente completati per ordini multi-leg.
 
-**Annullati:** Ordini annullati o rifiutati o errore.
+**Annullati:** Ordini annullati, rifiutati o in errore.
 
-**Nota**: uno scorrimento a sinistra su un ordine attivo specifico consente di annullare un ordine specifico
-Uno scorrimento a destra su un ordine attivo specifico consente di creare un ordine simile o modificare un ordine.
+**Nota**: uno swipe a sinistra su un ordine attivo specifico consente di annullare un ordine specifico.
+Uno swipe a destra su un ordine attivo specifico consente di creare un ordine simile o di modificarlo.

@@ -1,4 +1,4 @@
-# 新しい QuoteMedia アカウントまたはアカウント管理の手順
-- ステップ 1: 新しい別のブラウザ ウィンドウから (または上記のリンクをクリックして) https://client.quotemedia.com/qscreg/tradegrub/ Web サイトにアクセスし、新しいアカウントを登録します。
-- ステップ 2: 新しい QuoteMedia アカウントを追加するには、以下のアカウント ユーザー名とパスワードを入力してください。
-- ステップ 3: 既存のユーザーの場合は、次の URL を使用してください: https://client.quotemedia.com/qscreg/tradegrub/login.php?type=account を使用して、アカウントとサブスクリプションを管理します。
+# QuoteMediaアカウントの新規作成またはアカウント管理の手順
+- ステップ1：新しいブラウザウィンドウから（または上記のリンクをクリックして）https://client.quotemedia.com/qscreg/tradegrub/のウェブサイトにアクセスし、新規アカウントを登録してください。
+- ステップ2：新しいQuoteMediaアカウントを追加するには、以下のアカウントのユーザー名とパスワードを入力してください。
+- ステップ3：既存ユーザーの方は、以下のURL（https://client.quotemedia.com/qscreg/tradegrub/login.php?type=account）を使用して、アカウントとサブスクリプションを管理してください。

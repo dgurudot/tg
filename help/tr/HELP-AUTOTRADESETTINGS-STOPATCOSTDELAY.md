@@ -1,2 +1,2 @@
-# **Maliyet Gecikmesinde Dur**
+# **Maliyet Gecikmesinde Durun**
 

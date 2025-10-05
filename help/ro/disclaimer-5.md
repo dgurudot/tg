@@ -1,8 +1,10 @@
-## Acceptați că informațiile furnizate de Goldring SA sunt pentru uz personal și necomercial pentru o singură persoană
+## Acceptați că informațiile furnizate de TradeGrub LLC sunt destinate exclusiv uzului personal și necomercial al unei singure persoane.
 
-- Conținutul materialelor educaționale și al rapoartelor din Aplicație, realizate în numele Goldring SA, au scop informativ și nu vor fi considerate recomandari de investiții sau oferte de a cumpăra, a vinde sau a schimba instrumente financiare (consultanță în investiții cu privire la instrumentele financiare la care fac referire materialele), în conformitate cu legile pieței de capital din România sau cu cele ale altor state. 
-- Societatea, afiliații sau angajații acesteia este posibil să dețină în nume propriu produse prezentate în materiale educaționale, analize sau rapoarte prezentate în Aplicație, să efectueze tranzacții cu astfel de instrumente financiare sau chiar să fi prestat servicii de consultanță pentru emitenți prezentați în acest material. 
-- Investitorii sunt anunțați că orice strategie, grafic, metodologie sau model sunt mai degrabă forme de estimare și nu pot garanta un profit cert. 
-- Investiția în instrumente financiare este caracterizată prin riscuri, inclusiv riscul unor pierderi pentru investitori. 
-- Analizele, comentariile si opiniile exprimate prin intermediul rapoartelor de analiză, reprezintă punctul de vedere al autorilor acestora și nu implică în niciun fel răspunderea Goldring SA. 
-- Preluarea și publicarea informațiilor din rapoarte nu este permisă decât cu acordul scris al Goldring SA. Alte avantaje și riscuri implicate de tranzacționarea instrumentelor financiare, sunt detaliate în Documentul de prezentare al Goldring SA, disponibil pe pagina de internet www.goldring.ro, la secțiunea "Rapoarte și informații legale". 
+- NU TREBUIE să fiți asociat (prieteni, familie, angajat, coleg) cu o organizație comercială care oferă servicii similare și care utilizează aceste informații în scopuri comerciale și non-private.
+
+- Informațiile furnizate prin aplicația TradeGrub LLC și alte moduri de comunicare de către TradeGrub LLC sunt strict destinate consumului dumneavoastră personal. NU TREBUIE să le partajați cu prietenii, familia, colegii sub nicio formă sau modificare, subset sau derivat al acestor note. Nu puteți face referire la aceste informații în niciun mod posibil, cu excepția cazului în care sunt destinate strict uzului personal al unei singure persoane.
+
+- Copierea, partajarea, salvarea sau transmiterea acestor informații sub orice formă (digitală sau manuală) către o altă persoană este strict interzisă.
+
+- Nu aveți dreptul să reproduceți, să retransmiteți, să diseminați, să vindeți, să publicați, să difuzați și nici să utilizați Informațiile în legătură cu crearea, promovarea, tranzacționarea sau comercializarea Produselor de Investiții fără acordul expres scris al TradeGrub LLC sau al Furnizorilor săi de Informații. Aveți dreptul să utilizați Informațiile pe care le conține doar pentru uz privat, necomercial.
+- **AVIZ:** Toate informațiile conținute aici sunt și rămân proprietatea TradeGrub LLC. Conceptele intelectuale și tehnice conținute aici sunt proprietatea TradeGrub LLC și a furnizorilor săi și pot fi acoperite de brevete americane și străine, brevete în curs de desfășurare și sunt protejate de legea secretului comercial sau a drepturilor de autor. Diseminarea acestor informații sau reproducerea acestui material este strict interzisă fără a se obține în prealabil permisiunea scrisă a TradeGrub LLC.

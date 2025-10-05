@@ -1,7 +1,7 @@
-## Concorda que você deve usar uma fonte de dados em tempo real para execução de negociação automática
+## Concordo que você deve usar uma fonte de dados em tempo real para a execução automática de negociações
 
-Você é obrigado a usar uma fonte de dados em tempo real para execuções de negociação automática
-- Corretores como o TD fornecem uma fonte de dados em tempo real.
-- Você também tem opções de assinatura adicionais com corretores ou provedores de dados se não quiser usar fontes de dados em tempo real fornecidas pelo corretor. Exemplo inclui fontes de dados Alpaca e QuoteMedia.
-- Você DEVE garantir que haja atualizações de preços em tempo real acontecendo durante a execução de negociação automática. Você pode verificar isso por meio do preço de marca móvel e atualizações de oferta/demanda ou volume.
+Você deve usar uma fonte de dados em tempo real para a execução automática de negociações
+- Corretoras como a TD fornecem fontes de dados em tempo real.
+- Você também tem opções adicionais de assinatura com corretoras ou provedores de dados, caso não queira usar fontes de dados em tempo real fornecidas pela corretora. Exemplos incluem as fontes de dados Alpaca e QuoteMedia.
+- Você DEVE garantir que haja atualizações de preços em tempo real durante a execução automática de negociações. Você pode verificar isso por meio do preço de marca móvel e das atualizações de compra/venda ou volume.
 

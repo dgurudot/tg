@@ -1,7 +1,7 @@
-# **Sipariş Ayarları**
+# **Emir Ayarları**
 
-### İşlemler dışında sipariş verirken hızlı bir şekilde sipariş vermek için varsayılan parametreler. Referans için çeşitli ayarlar aşağıda verilmiştir:
+### İşlemler dışında emir verirken hızlı emir vermek için varsayılan parametreler. Referans olması açısından çeşitli ayarlar aşağıda verilmiştir:
 
-- **Varsayılan Miktar**: Sipariş edilecek miktar. Varsayılan = 10
-- **Varsayılan Durdurma %**: Satın alma fiyatından Durdurma %. Varsayılan = 10
-- **Varsayılan Kazanç %**: Satın alma fiyatından Kazanç %. Varsayılan = 10
+- **Varsayılan Miktar**: Emir verilecek miktar. Varsayılan = 10
+- **Varsayılan Durdurma %'si**: Alış fiyatından Durdurma %'si. Varsayılan = 10
+- **Varsayılan Kazanç %'si**: Alış fiyatından Kazanç %'si. Varsayılan = 10

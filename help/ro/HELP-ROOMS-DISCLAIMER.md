@@ -1,0 +1,12 @@
+- Discuțiile din camere **nu** sunt consultanță fiscală, juridică sau de investiții
+- Discuțiile din camere **nu** sunt o indicație pentru cumpărarea/vânzarea de acțiuni
+- Nu se pot partaja sau solicita informații personale de identificare, inclusiv nume, e-mail, telefon sau orice alt tip de contact. Respectați intimitatea tuturor
+- Nu se pot promova servicii sau produse sau linkuri de recomandare
+- Nu se permit spam-uri, flooding-uri sau postări de mesaje defăimătoare
+- Nu se permit discursuri instigatoare la ură sau intimidare. Argumentele respectuoase și prietenoase sunt permise
+- Nu este permis conținut pentru adulți, insulte, atacuri rasiale, atacuri personale, insulte, blasfemii, vulgarități sau conținut degradant
+- Fiți amabili, respectuoși și politicoși și respectați drepturile și opiniile celorlalți
+- Fiți profesioniști și serviabili
+- Faceți propriile cercetări și nu luați sfaturi/discuții din partea comunității pentru a lua decizii financiare
+- NU oglindiți tranzacțiile și aveți întotdeauna propriul plan de tranzacționare
+- Concentrare: Discutați doar despre acțiuni și piețe. Evitați mesajele de salut și bună dimineața.

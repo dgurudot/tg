@@ -1,4 +1,4 @@
-# **Satın al** 
+# **Alış Fiyatı**
 
-- Bu ayar, **satın alma fiyatını ayarlamanıza** ve Teklif, Talep veya İşaret fiyatı arasında seçim yapmanıza olanak tanır. 
-- **Ofsetten satın al** da seçilen satın alma fiyatına eklenecektir.
+- Bu ayar, **alım fiyatını ayarlamanıza** ve Alış, Satış veya Piyasa Değeri arasında seçim yapmanıza olanak tanır.
+- **Olası satış fiyatı** da seçili alış fiyatına eklenecektir.

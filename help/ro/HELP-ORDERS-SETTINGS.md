@@ -1,9 +1,7 @@
-# **Setări Ordine**
- 
-### Parametrii impliciți pentru plasarea rapidă a ordinelor în timp ce se plasează ordine în afara tranzacțiilor. Diferite setări sunt prezentate mai jos pentru referință:
+# **Setări Comenzi**
 
-- **Cantitate Implicită**: Cantitatea implicită a ordinului. Implicit = 10
-- **Stop Implicit %**: Stop procentual din prețul de cumpărare. Implicit = 10
-- **Câștig Implicit %**: Câștigul procentual din prețul de cumpărare. Implicit = 10
-- **Anulează confirmarea comenzii**: Permite confirmarea înainte de anularea comenzii
-- **Submit Order Confirm**: Permite confirmarea înainte de trimiterea comenzii
+### Parametri impliciți pentru plasarea rapidă a comenzilor în timpul plasării comenzilor în afara tranzacțiilor. Mai jos sunt prezentate diverse setări pentru referință:
+
+- **Cantitate implicită**: Cantitate de comandat. Implicit = 10
+- **Stop implicit %**: Stop procentual față de prețul de cumpărare. Implicit = 10
+- **Câștig implicit %**: Câștig procentual față de prețul de cumpărare. Implicit = 10

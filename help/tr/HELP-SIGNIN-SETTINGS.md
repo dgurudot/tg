@@ -1,5 +1,5 @@
 # **Tercihler**
 
-Kullanıcı tercihlerini güncellemek için lütfen aşağıdaki seçenekleri kullanın
-- **Tema**: "Koyu" ve "Açık"ı seçmenize veya "Sistem" temasına göre otomatik olarak seçmenize olanak tanır. Lütfen belirli ekranların sabit temada olmaya devam edeceğini unutmayın.
-- **Dil**: Belirli bir dili seçmenize olanak tanır. Lütfen belirli arayüzlerin İngilizce olmaya devam edeceğini unutmayın.
+Kullanıcı tercihlerini güncellemek için lütfen aşağıdaki seçenekleri kullanın.
+- **Tema**: "Koyu" ve "Açık" seçeneklerini seçmenize veya "Sistem" temasına göre otomatik olarak seçim yapmanıza olanak tanır. Lütfen bazı ekranların sabit temada olmaya devam edeceğini unutmayın.
+- **Dil**: Belirli bir dil seçmenize olanak tanır. Lütfen bazı arayüzlerin İngilizce olmaya devam edeceğini unutmayın.

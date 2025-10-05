@@ -1,15 +1,15 @@
 # **Marchés**
 
-Obtenez des informations générales sur les marchés des actions et des crypto-monnaies
-- **Actions :** Cotations boursières des principaux secteurs financiers, technologiques et des services
-- **Crypto :** Présentation, prix du Bitcoin, de l'Ethereum, de Solana et d'Uniswap
-- **Actualités boursières :** Principales actualités quotidiennes sur le marché boursier américain
-- **Actualités sur les crypto-monnaies :** Principales actualités quotidiennes sur les crypto-monnaies
-- **Screen d'actions :** Screen d'actions avec possibilité de filtrage
-- **Screen de crypto-monnaies :** Screen de crypto-monnaies avec possibilité de filtrage
-- **Marchés financiers :** Indices, contrats à terme, obligations, informations sur le Forex
-- **Marchés des crypto-monnaies :** Marchés des crypto-monnaies
-- **Indices :** Indices mondiaux, y compris États-Unis/Canada, Europe, Asie/Pacifique
-- **Forex :** Taux de change majeurs, mineurs et exotiques
-- **Actions aujourd'hui :** Actifs, gagnants et perdants aujourd'hui
-- **Calendrier économique :** Calendrier économique, réel, prévisionnel et précédent
+Obtenez des informations générales sur les actions et les cryptomonnaies
+- **Actions** : Cotations boursières des principaux secteurs de la finance, de la technologie et des services
+- **Cryptomonnaies** : Aperçu, cours du Bitcoin, de l'Ethereum, de Solana et d'Uniswap
+- **Actualités boursières** : Actualités quotidiennes sur le marché boursier américain
+- **Actualités cryptomonnaies** : Actualités quotidiennes sur les cryptomonnaies
+- **Screen actions** : Filtre d'actions avec possibilité de filtrage
+- **Screen cryptomonnaies** : Filtre crypto avec possibilité de filtrage
+- **Marchés financiers** : Indices, contrats à terme, obligations, Forex
+- **Marchés cryptomonnaies** : Marchés des cryptomonnaies
+- **Indices** : Indices mondiaux, incluant les États-Unis/Canada, l'Europe et l'Asie/Pacifique
+- **Forex** : Taux de change des devises majeures, mineures et exotiques
+- **Actions aujourd'hui** : Actifs, gains et pertes du jour
+- **Calendrier économique** : Heure, données réelles, prévisions et calendrier économique précédent

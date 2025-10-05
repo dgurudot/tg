@@ -1,4 +1,4 @@
-# **Vender em**
+# **Vender a**
 
-- Esta configuração permite que você ajuste o preço de venda e escolha entre Bid, Ask ou Mark price. 
-- Vender em offset também será adicionado ao preço de compra selecionado.
+- Esta configuração permite ajustar o preço de venda e escolher entre preço de compra, preço de venda ou preço de mercado.
+- O preço de venda a preço de mercado também será adicionado ao preço de compra selecionado.

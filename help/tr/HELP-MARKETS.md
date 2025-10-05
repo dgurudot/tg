@@ -1,15 +1,15 @@
 # **Piyasalar**
 
-Hisseler, kripto için genel piyasa bilgilerini edinin
-- **Hisseler:** En iyi finans, teknoloji ve hizmet sektörü için hisse senedi fiyat teklifleri
-- **Kripto:** Genel bakış, Bitcoin, Ethereum, Solana ve Uniswap fiyatları
-- **Hisseler Haberleri:** ABD hisse senedi piyasası için en iyi günlük haberler
+Hisse senetleri ve kripto paralar için genel piyasa bilgileri alın
+- **Hisse Senetleri:** En önemli finans, teknoloji ve hizmet sektörlerinin hisse senedi fiyatları
+- **Kripto:** Genel Bakış, Bitcoin, Ethereum, Solana ve Uniswap fiyatları
+- **Hisse Senedi Haberleri:** ABD borsası için en iyi günlük haberler
 - **Kripto Haberleri:** Kripto para birimleri için en iyi günlük haberler
-- **Hisseler Tarayıcısı:** Filtreleme yeteneğine sahip hisse senedi tarayıcısı
-- **Kripto Tarayıcısı:** Filtreleme yeteneğine sahip kripto tarayıcısı
-- **Finansal Piyasalar:** Endeks, Vadeli İşlemler, Tahviller, Forex bilgisi
-- **Kripto Piyasaları:** Kripto Para Birimi Piyasaları
+- **Hisse Senedi Tarayıcısı:** Filtreleme özelliğine sahip hisse senedi tarayıcısı
+- **Kripto Tarayıcısı:** Filtreleme özelliğine sahip kripto tarayıcısı
+- **Finans Piyasaları:** Endeks, Vadeli İşlemler, Tahviller, Forex bilgileri
+- **Kripto Piyasaları:** Kripto Para Piyasaları
 - **Endeksler:** ABD/Kanada, Avrupa, Asya/Pasifik dahil dünya endeksleri
-- **Forex:** Majör, Minör ve Egzotik forex oranları
-- **Bugünün Hisseleri:** Bugün Aktif, Kazananlar ve Kaybedenler
-- **Ekonomik Takvim:** Zaman, Gerçek, Tahmin ve önceki ekonomik takvim
+- **Forex:** Majör, Minör ve Egzotik döviz kurları
+- **Bugünün Hisse Senetleri:** Aktif, Bugünün Kazananları ve Kaybedenleri
+- **Ekonomik Takvim:** Saat, Gerçek, Tahmin ve önceki ekonomik takvim

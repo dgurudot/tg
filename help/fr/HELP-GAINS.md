@@ -1,7 +1,7 @@
 # **Gains**
 
-Affiche les gains des 60 derniers jours par défaut. 
-Cliquez sur les paramètres pour réorganiser et activer/désactiver des en-têtes spécifiques.
+Affiche les gains des 60 derniers jours par défaut.
+Cliquez sur « Paramètres » pour réorganiser et activer/désactiver des en-têtes spécifiques.
 Cliquez sur l'en-tête pour trier l'en-tête spécifique.
 
 **Gains (par défaut) :**
@@ -13,4 +13,4 @@ Cliquez sur l'en-tête pour trier l'en-tête spécifique.
 - **Gain :** Gain net
 - **% de gain :** Pourcentage du gain
 - **Qté :** Quantité totale
-- **ID (facultatif) :** ID de la dernière transaction 
+- **ID (facultatif) :** ID de la dernière transaction

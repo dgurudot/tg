@@ -1,6 +1,6 @@
-# Stop bei Kostenausgleich
+# Stop-at-Cost-Offset
 
 ## Zweck:
 
-- Sie können einen bestimmten Ausgleich wählen, der beim Verschieben des Stops bei Kosten verwendet werden soll.
-- Dies würde Ihnen beim Verkauf bei Stop helfen, bei dem die Ausführung der Marktorder Sie immer noch über dem Selbstkostenpreis halten würde.
+– Sie können einen bestimmten Offset für die Verschiebung des Stop-at-Cost-Offsets wählen.
+– Dies hilft Ihnen beim Verkaufen zum Stop-Preis, wenn die Ausführung der Marktorder Sie immer noch über dem Einstandspreis hält.

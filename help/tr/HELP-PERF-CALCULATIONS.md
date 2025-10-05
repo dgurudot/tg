@@ -1,6 +1,6 @@
 # **Performansı nasıl hesaplıyoruz**
-- **Kazanç %** belirli bir işlem için kar aralığını yansıtır. Ayrıca yeşil renkle elde edilen kar hedefini gösterir.
-- Hisse senedi için ek alımlar önermediğimizde ve satış bölgesinde olduğumuzda işlem "kapalı"dır. Salınım ve uzun işlemler için satış bölgesinde tutmaya devam edebilirsiniz.
-- Yakalanan minimum kar, ulaştığımız B1 (İlk Alım Fiyatı) ile S1 (İlk Satış Hedefi) fiyatı arasındadır.
-- Satış bölgesinde S1'in ötesinde tutarsanız, maksimum kar potansiyeline ulaşırsınız ve S3 hedefine ulaştığımız Kazanç % aralığında gösterilir.
-- Günlük işlemlerde bir günden öte tutma yoktur, bu nedenle genellikle S2, S3 hedeflerine ulaşmayı takip etmeyiz, ancak kullanıcılar yine de yalnızca S1'de bir kısmını satmayı ve ardından aynı gün S2, S3 ve sonrasında daha fazla kar elde etmeyi seçebilirler. Günlük işlemlerde (D etiketiyle) yalnızca belirli işlem için minimum karı gösteririz. - Swing işlemleri "S" (Kehribar rengi) etiketiyle etiketlenir. Uzun vadeli işlemler sağ taraftaki sembolün yanında bulunan "L" (Yeşil) renk etiketiyle etiketlenir.
+- **Kazanç %**, belirli bir işlem için kâr aralığını yansıtır. Ayrıca yeşil renkle ulaşılan kâr hedefini de gösterir.
+- Hisse senedi için ek alım önermediğimizde ve satış bölgesinde olduğumuzda işlem "kapalı"dır. Swing ve uzun vadeli işlemler için satış bölgesinde tutmaya devam edebilirsiniz.
+- Yakalanan minimum kâr, ulaştığımız B1 (İlk Alış Fiyatı) ile S1 (İlk Satış Hedefi) fiyatı arasındaki fiyattır.
+- Satış bölgesinde S1'in ötesinde tutarsanız, maksimum kâr potansiyeline ulaşırsınız ve bu, S3 hedefine ulaştığımız Kazanç % aralığında gösterilir.
+- Günlük işlemlerde bir günden fazla tutma zorunluluğu yoktur, bu nedenle genellikle S2 ve S3 hedeflerine ulaşmayı takip etmeyiz, ancak kullanıcılar yine de S1'de yalnızca bir kısmını satmayı ve ardından aynı gün S2, S3 ve sonrasında daha fazla kâr elde etmeyi seçebilirler. Günlük işlemlerde (D etiketli), yalnızca belirli bir işlem için minimum kârı gösteririz. - Swing işlemleri "S" (Kehribar rengi) etiketiyle, uzun vadeli işlemler ise sağ taraftaki sembolün yanında bulunan "L" (Yeşil) renk etiketiyle işaretlenmiştir.

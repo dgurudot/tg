@@ -1,9 +1,9 @@
-# **Stop Loss Yüzdesi**
+# **Zarar Durdurma Yüzdesi**
 
-## Amaç: 
+## Amaç:
 
-- Bu ayar, satın alma sinyali için satın alma fiyatından varsayılan stop loss %'sini ayarlamanıza olanak tanır.
+- Bu ayar, alış sinyali için alış fiyatından varsayılan zarar durdurma yüzdesini ayarlamanıza olanak tanır.
 
 ## Örnek:
 
-- AAPL hissesini 100 dolardan satın alıyorsanız, stop loss, %1'lik "Stop Loss Yüzdesi" ile birlikte 99 dolara yerleştirilecektir.
+- AAPL hissesini 100$'dan satın alıyorsanız, zarar durdurma yüzdesi 99$'a, Alış emriyle birlikte %1 "Zarar Durdurma Yüzdesi" ile yerleştirilir.

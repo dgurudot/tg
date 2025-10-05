@@ -1,6 +1,7 @@
-# **Trì hoãn nhập lại**
+# **Độ trễ nhập lại**
 
 ## Mục đích:
 
-- Cài đặt này cho phép bạn điều chỉnh thời gian chờ trước khi thực hiện thử lại lệnh.
-- Mặc định: 5 giây. Bạn có thể cập nhật thành 2 giây để thử lại nhanh hơn.
+- Cài đặt này cho phép bạn điều chỉnh thời gian chờ trước khi thực hiện lại lệnh.
+- Mặc định: 5 giây. Bạn có thể nâng cấp lên 2 giây để thực hiện lại lệnh nhanh hơn.
+

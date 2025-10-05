@@ -2,11 +2,11 @@
 
 ## Zweck:
 
-- Sie können auswählen, welche spezifischen Symbole Sie für AutoTrades einschließen möchten.
-- Die Liste der Symbole kann durch Kommas getrennte Symbole bereitgestellt werden.
-- Standard: Schließt alle Symbole ein, es sei denn, Sie geben eine explizite Liste mit nur Symbolen an, die für AutoTrade eingeschlossen werden sollen.
+– Sie können auswählen, welche Symbole für AutoTrades berücksichtigt werden sollen.
+– Die Liste der Symbole kann durch Kommas getrennt angegeben werden.
+– Standard: Alle Symbole werden berücksichtigt, sofern Sie keine explizite Liste angeben, die nur für AutoTrades berücksichtigt werden soll.
 
 ## Beispiel:
 
-- AAPL,TSLA,FB
+– AAPL, TSLA, FB
 

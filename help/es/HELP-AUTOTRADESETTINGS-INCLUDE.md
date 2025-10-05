@@ -1,14 +1,12 @@
-# **Include Symbols**
+# **Incluir símbolos**
 
-## Purpose:
+## Objetivo:
 
-- You can choose which specific symbols you would like to be included for AutoTrades.
-- The list of symbols can be provided via a comma separated symbols.
-- Default: Includes all symbols, unless you provide an explicit list with only symbols to be included for AutoTrade.
+- Puede elegir los símbolos específicos que desea incluir en AutoTrades.
+- La lista de símbolos se puede proporcionar mediante símbolos separados por comas.
+- Predeterminado: Incluye todos los símbolos, a menos que proporcione una lista específica que incluya solo los símbolos que se incluirán en AutoTrades.
 
+## Ejemplo:
 
-## Example:
-
-- AAPL,TSLA,FB
-
+- AAPL, TSLA, FB
 

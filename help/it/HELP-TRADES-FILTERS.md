@@ -1,6 +1,6 @@
-# **Filtri per scambi, aggiornamenti, notizie**
+# **Filtri per operazioni, aggiornamenti e notizie**
 
-- Consente di selezionare **elenco di simboli** separati da virgole. Esempio: AAPL, TSLA, FB
-- Consente di selezionare scambi **aperti, chiusi o interrotti**. Predefinito = Aperto
-- Consente di selezionare **tipo di scambio** (Giorno, Swing, Lungo)
-- Consente di **visualizzare dalla settimana, mese, anno precedente** o Tutto
+- Consente di selezionare un **elenco di simboli** separati da virgole. Esempio: AAPL, TSLA, FB
+- Consente di selezionare operazioni **aperte, chiuse o fermate**. Predefinito = Aperto
+- Consente di selezionare il **tipo di operazione** (Giornaliera, Swing, Lunga)
+- Consente di **visualizzare le operazioni della scorsa** settimana, mese, anno o tutte

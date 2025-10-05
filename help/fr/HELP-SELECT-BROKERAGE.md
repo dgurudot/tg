@@ -1,7 +1,7 @@
-# **Sélectionnez le type de compte**
+# **Sélectionner le type de compte**
 
-- Sélectionnez votre compte de courtage en valeurs mobilières, d'échange de crypto-monnaies ou de source de données spécifique et ajoutez un nouveau compte en fonction des instructions spécifiques pour le type de compte. 
-- Les capacités du courtier sont répertoriées sur la mosaïque de sélection du type de compte. 
-- Par exemple, Alpaca prend en charge le trading papier, TD Ameritrade prend en charge la source de données en temps réel.
+- Sélectionnez votre courtier en bourse, votre plateforme d'échange de cryptomonnaies ou votre source de données, puis ajoutez un nouveau compte en suivant les instructions spécifiques à chaque type de compte.
+- Les fonctionnalités du courtier sont listées dans la section de sélection du type de compte.
+- Par exemple, Alpaca prend en charge le trading papier, et TD Ameritrade prend en charge les sources de données en temps réel.
 
-- **Remarque** : si vous ne voyez pas de type de compte spécifique dans la liste, vous pouvez ajouter un type de compte **en lecture seule (aucun trading autorisé)** pour n'importe quel courtier via le type de compte **Autres** qui se connecterait en toute sécurité via Plaid.
+- **Remarque** : Si vous ne voyez pas de type de compte spécifique dans la liste, vous pouvez ajouter un compte **en lecture seule (pas de trading autorisé)** pour n'importe quel courtier via **Autres**, ce qui vous permettra de vous connecter en toute sécurité via Plaid.

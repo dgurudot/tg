@@ -1,6 +1,6 @@
-# Belirli bir %'nin üzerinde olduğunda Maliyette Dur
+# Belirli bir %'nin üzerine çıktığında maliyette durdurma
 
 ## Amaç:
 
-- Hisse senedi fiyatı belirli bir kâr %'sinin üzerine çıktığında otomatik olarak maliyette durdurmayı seçebilirsiniz.
-- Sistem belirli sayıda saniyede bir tarama yapar ve semboller için mevcut emirleri iptal ederek bu durdurma ayarlamasını otomatik olarak yapar.
+- Hisse senedi fiyatı belirli bir kâr yüzdesinin üzerine çıktığında otomatik olarak maliyette durdurma emrini taşımayı seçebilirsiniz.
+- Sistem, belirli saniye aralıklarında tarama yapacak ve semboller için mevcut emirleri iptal ederek bu durdurma emrini otomatik olarak ayarlayacaktır.

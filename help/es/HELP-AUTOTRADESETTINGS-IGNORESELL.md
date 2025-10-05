@@ -1,5 +1,5 @@
 # **Ignorar señal de venta**
 
-- Puede elegir ignorar la señal de venta y venderla manualmente a través de órdenes de mercado, limitadas o de seguimiento.
-- La señal de venta cuando la opción de ignorar está habilitada no se ejecutará si la opción de AutoTrade está habilitada.
-- **Nota**: Ignorar la señal de venta solo funciona para la señal de venta estándar (con mecanismo de reintento y colocación de una orden de mercado). No está diseñada para órdenes de venta limitadas.
+- Puede ignorar la señal de venta y venderla manualmente mediante órdenes de límite, de mercado o de seguimiento.
+- Si la opción "Ignorar" está activada, la señal de venta no se ejecutará si AutoTrade está activado.
+- **Nota**: Ignorar la señal de venta solo funciona con señales de venta estándar (con mecanismo de reintento y colocación de órdenes de mercado). No está diseñado para órdenes de venta de límite.

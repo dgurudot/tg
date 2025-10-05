@@ -1,16 +1,16 @@
 # **Ganancias**
 
-Muestra las ganancias de los últimos 60 días de forma predeterminada. 
-Haga clic en configuración para reordenar y habilitar/deshabilitar encabezados específicos.
-Haga clic en el encabezado para ordenar el encabezado específico.
+Muestra las ganancias de los últimos 60 días de forma predeterminada.
+Haga clic en Configuración para reordenar y habilitar/deshabilitar encabezados específicos.
+Haga clic en el encabezado para ordenarlo.
 
-**Ganancias (predeterminado):**
+**Ganancias (Predeterminado):**
 - **Fecha:** Fecha de la ganancia
 - **Símbolo:** Nombre del símbolo
 - **Precio:** Precio actual del símbolo (cotización retrasada)
 - **Precio de venta:** Precio de venta
 - **Precio de compra:** Precio de compra
-- **Ganancia:** Ganancia neta
-- **Porcentaje de ganancia:** Porcentaje de ganancia
+- **Ganancias:** Ganancia neta
+- **% de ganancia:** Porcentaje de ganancias
 - **Cantidad:** Cantidad total
-- **ID (opcional):** ID de la última transacción 
+- **ID (Opcional):** ID de la última transacción

@@ -1,12 +1,12 @@
 # **İşlem Başına Miktar Yüzdesi**
 
-## Amaç: 
+## Amaç:
 
-- Bu ayar, normal işlem miktarına kıyasla satın alınacak miktarın yüzdesini tanımlar.
+- Bu ayar, satın alınacak miktarın normal işlem miktarına göre yüzdesini tanımlar.
 
-## Örnek: 
+## Örnek:
 
-- 100K'lık varsayılan yatırım hesabı için 100 miktarında bir işlem aldınız. 
-- Bireysel hesabınız yalnızca 50K içinse, satın alma için normal miktar 50'dir (ayarlanmış). 
-- Şimdi, bu miktarı %50 (varsayılan %100'ün aksine) gibi belirli bir faktörle de ayarlamak istiyorsanız, "işlem başına miktar yüzdesi" faktörünü uyguladıktan sonra satın alma miktarı 25 olacaktır. 
+- Varsayılan 100.000 yatırım hesabınız için 100 adetlik bir işlem aldınız.
+- Bireysel hesabınız yalnızca 50.000 ise, normal satın alma miktarı 50'dir (düzeltilmiş).
+- Şimdi, bu miktarı %50 gibi belirli bir faktörle (varsayılan %100 yerine) ayarlamak istiyorsanız, "işlem başına miktar yüzdesi" faktörünü uyguladıktan sonra satın alma miktarı 25 olacaktır.
 

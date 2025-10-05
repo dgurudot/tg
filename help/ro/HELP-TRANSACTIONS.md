@@ -1,18 +1,17 @@
-# Tranzacții.
+# **Tranzacții**
 
-Afișează în mod implicit tranzacțiile din ultimele 60 de zile. Numai tranzacțiile din ultimul an sunt extrase de la bursă.
-Faceți clic pe setări pentru a reordona și a activa/dezactiva anumite antete specifice.
+Afișează implicit tranzacțiile din ultimele 60 de zile. Doar tranzacțiile de anul trecut sunt extrase de la bursă.
+Faceți clic pe setări pentru a reordona și a activa/dezactiva anumite anteturi.
 Faceți clic pe antet pentru a sorta antetul specific.
 
-**Tranzacții (implicit):**
-  - **Data:** Data tranzacției
-  - **Tipul:** Tipul tranzacției [ SELL (VÂNZARE), BUY (CUMPĂRARE), INT (dobândă), DIV (dividend), WID (retragere), DEP (depozit) sau OTHER (ALTE) ].
-  - **Simbol:** Denumirea simbolului
-  - **Qty:** Cantitatea totală
-  - **Cost:** Prețul de achiziție
-  - **Cost total:** Prețul total de achiziție
-  - **Timp:** Ora tranzacției
-  - **Comision:** Comisionul plătit
-  - **Impozit:** Valoarea impozitului
-  - **ID (opțional):** ID-ul tranzacției
-    **Nota**: ID-ul tranzacției va fi formatat automat pe baza pozițiilor din ultimul an, utilizând data-simbol.
+**Tranzacții (Implicit):**
+- **Data:** Data tranzacției
+- **Tip:** Tipul tranzacției [ VÂNZARE, CUMPĂRARE, INT (Dobândă), DIV (Dividend), WID (Retragere), DEP (Depozit) sau ALTELE ]
+- **Simbol:** Numele simbolului
+- **Cantitate:** Cantitate totală
+- **Cost:** Preț de achiziție
+- **Cost total:** Preț total de achiziție
+- **Oră:** Ora tranzacției
+- **Comision:** Comisionul brokerului
+- **Comision:** Taxe sau comision broker sau bursă
+- **ID (Opțional):** ID tranzacție

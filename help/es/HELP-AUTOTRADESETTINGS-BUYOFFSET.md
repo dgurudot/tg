@@ -1,11 +1,12 @@
-# **Compensación de compra**
+# **Compensación de Compra**
 
-## Propósito: 
+## Propósito:
 
-- Esta configuración le permite ajustar el precio de compra mediante una compensación fija. La compensación de compra se agregará al precio de compra seleccionado (puede ser Ask, Bid o Mark. Predeterminado = Ask).
+- Esta configuración permite ajustar el precio de compra con una compensación fija. La compensación de compra se añadirá al precio de compra seleccionado (puede ser Ask, Bid o Mark. Predeterminado = Ask).
 
-- La operación se colocará inicialmente al precio de compra recibido en la señal. Si no se ejecuta dentro de los 5 segundos, entonces se volverá a intentar comprar al precio de compra (puede ser Ask, Bid o Mark. Predeterminado = Ask) más la compensación (el valor predeterminado es 0.05). 
+- La operación se realizará inicialmente al precio de compra recibido en la señal. Si no se ejecuta en 5 segundos, se reintentará la compra al precio de compra (puede ser Ask, Bid o Mark. Predeterminado = Ask) más la compensación (predeterminado: 0.05).
 
 ## Ejemplo:
 
-- Señal de compra de $100 con Bid a $99 y Ask a $101. Si la orden límite inicial de compra no se completa a $100, entonces se volverá a intentar a $101 + 0.05 = $101.05.
+- Señal de compra de $100 con un precio de compra de $99 y un precio de compra de $101. Si la orden límite inicial de compra no se ejecuta a $100, se reintentará a $101 + 0.05 = $101.05.
+

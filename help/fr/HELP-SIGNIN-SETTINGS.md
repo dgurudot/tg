@@ -1,5 +1,5 @@
 # **Préférences**
 
-Veuillez utiliser les options suivantes pour mettre à jour les préférences utilisateur
-- **Thème** : permet de sélectionner « Sombre » et « Clair » ou de choisir automatiquement en fonction du thème « Système ». Veuillez noter que certains écrans seront toujours en thème fixe.
-- **Langue** : permet de choisir une langue spécifique. Veuillez noter que certaines interfaces seront toujours en anglais.
+Veuillez utiliser les options suivantes pour mettre à jour vos préférences utilisateur :
+- **Thème** : Permet de sélectionner « Sombre » et « Clair » ou de choisir automatiquement en fonction du thème « Système ». Veuillez noter que certains écrans conserveront un thème fixe.
+- **Langue** : Permet de choisir une langue spécifique. Veuillez noter que certaines interfaces resteront en anglais.

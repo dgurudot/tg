@@ -1,6 +1,6 @@
-# Detenerse al costo cuando se supera un determinado porcentaje
+# Stop al Costo al superar cierto porcentaje
 
 ## Objetivo:
 
-- Puede elegir mover el stop al costo automáticamente cuando el precio de la acción supere un determinado porcentaje de ganancia automáticamente.
-- El sistema escaneará cada cierta cantidad de segundos y realizará este ajuste de stop automáticamente cancelando las órdenes existentes para los símbolos.
+- Puede optar por mover el stop al costo automáticamente cuando el precio de la acción supere cierto porcentaje de ganancia.
+- El sistema escaneará cada cierto número de segundos y ajustará el stop automáticamente cancelando las órdenes existentes para los símbolos.

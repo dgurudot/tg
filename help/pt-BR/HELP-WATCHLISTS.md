@@ -1,11 +1,12 @@
-# **Watchlist**
+# **Lista de Observação**
 
-Exibe a Watchlist atual no **modo de grade (padrão)** ou **modo de tabela**. 
-Você pode alterar o modo e habilitar/desabilitar usando o botão azul no canto inferior direito da tela.
-Clique em configurações no canto superior esquerdo para reordenar e habilitar/desabilitar cabeçalhos específicos.
+Exibe a Lista de Observação atual no **modo de grade (padrão)** ou no **modo de tabela**.
+Você pode alterar o modo e ativar/desativar usando o botão azul no canto inferior direito da tela.
+Clique em configurações no canto superior esquerdo para reordenar e ativar/desativar cabeçalhos específicos.
 
-**Observação:** Um usuário pode ter várias watchlists.
+**Observação:** Um usuário pode ter várias listas de observação.
 
 **Opções:**
-- **Ícone de edição:** Ele editará a watchlist existente.
-- **Ícone de adição:** Ele criará uma nova watchlist.
+- **Ícone de Edição:** Editará a lista de observação existente.
+- **Ícone de Adição:** Criará uma nova lista de observação.
+

@@ -1,12 +1,12 @@
-# **Commandes**
+# **Ordres**
 
-Affiche les commandes du compte comme indiqué ci-dessous :
+Affiche les ordres du compte comme indiqué ci-dessous :
 
-**Actif :** commandes en attente d'exécution.
+**Actifs** : ordres en attente d'exécution.
 
-**Terminé :** commandes exécutées. Inclut les commandes partiellement terminées pour les commandes à plusieurs étapes.
+**Terminés** : ordres exécutés. Inclut les ordres partiellement terminés pour les ordres multi-étapes.
 
-**Annulé :** commandes annulées, rejetées ou erronées.
+**Annulés** : ordres annulés, rejetés ou erronés.
 
-**Remarque :** un glissement vers la gauche sur une commande active spécifique vous permet d'annuler une commande spécifique.
-Un glissement vers la droite sur une commande active spécifique vous permet de créer une commande similaire ou de modifier une commande.
+**Remarque** : Un glissement vers la gauche sur un ordre actif spécifique vous permet de l'annuler.
+Un glissement vers la droite sur un ordre actif spécifique vous permet de créer un ordre similaire ou de le modifier.

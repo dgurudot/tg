@@ -1,10 +1,10 @@
 # **Maksimum Kayma**
 
-## Amaç: 
+## Amaç:
 
-- Bu ayar, sinyalden gerçek limit emri fiyatına kadar maksimum kayma yüzdesini belirtmenize olanak tanır.
+- Bu ayar, sinyalden gerçek limit emir fiyatına kadar maksimum kayma yüzdesini belirlemenizi sağlar.
 
 ## Örnek:
 
-- Maksimum kaymanız %1 ise ve alınan sinyal 100$'lık satın alma fiyatı içinse, gerçek limit emri fiyatı 101$'ın üzerindeyse yeniden denemeniz durur.
+- Maksimum kaymanız %1 ise ve alınan sinyal 100$ alış fiyatı içinse, gerçek limit emir fiyatı 101$'ın üzerindeyse yeniden denemeniz durdurulur.
 

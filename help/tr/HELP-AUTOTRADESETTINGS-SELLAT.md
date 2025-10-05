@@ -1,4 +1,4 @@
-# **Satış fiyatı**
+# **Satış Fiyatı**
 
-- Bu ayar satış fiyatını ayarlamanıza ve Teklif, Talep veya İşaret fiyatı arasında seçim yapmanıza olanak tanır. 
-- Ofset satış da seçilen satın alma fiyatına eklenecektir.
+- Bu ayar, satış fiyatını ayarlamanıza ve Alış, Satış veya Piyasa Değeri arasında seçim yapmanıza olanak tanır.
+- Seçilen alış fiyatına, ofset fiyatı da eklenecektir.

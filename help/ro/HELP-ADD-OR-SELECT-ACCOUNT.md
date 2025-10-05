@@ -1,13 +1,12 @@
-# **Adaugați un cont nou sau selectați un cont**
+# **Adăugați un cont nou sau selectați un cont**
 
-- Faceți clic pe butonul **Adaugă Cont** pentru a adăuga un cont nou.
-- **Selectați orice cont** pentru a modifica setările acestuia. Faceți clic pe butonul Setări din titlu pentru a actualiza următoarele setări:
-  - **Ștergeți**: Eliminați un anumit cont
-  - **Rapoarte**: Exportați poziții, Tranzacții, P/L în format CSV sau Performanțe, Performanță și Statistici în format PDF.
-  - **Resetare PIN**: Resetați codul PIN al contului selectat.
-  - **Setează Contul Implicit**: Stabilește contul de tranzacționare specific ca fiind implicit pentru ordine, poziții și tabloul de bord. De asemenea, puteți apăsa lung pe tigla cont pentru a seta ca implicit. **Un singur cont TREBUIE să fie setat ca implicit.**
-  - **Setează denumire**: Permite setarea unui nume pentru un cont. Lungime maximă: 6
-  - **Comutator numai pentru citire**: Dezactivează posibilitatea de a plasa ordine pe un anumit cont.
-  - **Actualizați parola**: Actualizați sau resetați parola contului selectat.
-
-
+- Faceți clic pe butonul **Adăugați un cont** pentru a adăuga un broker nou, o bursă de criptomonede, date sau un cont doar pentru citire (prin Plaid)
+- **Selectați orice dală de cont** pentru a-i modifica setările. Faceți clic pe butonul Setări din titlu pentru a actualiza următoarele setări:
+- **Reîmprospătare automată**: Preia comenzi periodic pentru brokerii care nu acceptă fluxuri de activitate în timp real.
+- **Ștergeți**: Ștergeți un anumit cont
+- **Reconectare**: Vă permite să vă reconectați și să reîmprospătați contul. Necesar pentru anumite tipuri de conturi la fiecare 90 de zile.
+- **Setați moneda**: Pentru conturile exclusiv criptomonede, puteți alege să actualizați moneda implicită.
+- **Setați contul implicit**: Setează un anumit cont de tranzacționare ca implicit pentru comenzi, poziții, tabloul de bord. **Un cont TREBUIE setat ca implicit.**
+- **Setați sursa de date**: Permite selectarea unei surse de date în timp real. Puteți selecta un anumit cont de broker dacă acesta acceptă date în timp real sau o altă sursă de date.
+- **Setați numele**: Permite setarea unui nume pentru cont. Lungime maximă: 6
+- **Comutare Doar citire**: Activează blocarea tranzacționării și oprește plasarea comenzilor de la TradeGrub.

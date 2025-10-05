@@ -1,5 +1,5 @@
-# **Yeniden Sıralama**
+# **Yeniden Sırala**
 
-- Bu ayar, **sütunların sırasını ayarlamanıza** ve ayrıca belirli sütunları görüntüleme için **etkinleştirmenize veya devre dışı bırakmanıza** olanak tanır.
-- Uzun basın ve belirli bir sütunu sürükleyip bırakarak diğer sütunlara göre sütunun belirli sırasını değiştirin.
+- Bu ayar, **sütunların sırasını ayarlamanıza** ve ayrıca belirli sütunların görüntülenmesini **etkinleştirmenize veya devre dışı bırakmanıza** olanak tanır.
+- Belirli bir sütunun diğer sütunlara göre sırasını değiştirmek için uzun basın ve sürükleyip bırakın.
 

@@ -1,9 +1,9 @@
 # **Stop-Loss-Prozentsatz**
 
-## Zweck: 
+## Zweck:
 
-- Mit dieser Einstellung können Sie den standardmäßigen Stop-Loss-Prozentsatz vom Kaufpreis für das Kaufsignal anpassen.
+– Mit dieser Einstellung können Sie den standardmäßigen Stop-Loss-Prozentsatz vom Kaufpreis für ein Kaufsignal anpassen.
 
 ## Beispiel:
 
-- Wenn Sie AAPL-Aktien zu 100 $ kaufen, wird der Stop-Loss bei 99 $ gesetzt, zusammen mit einem Kauf mit einem „Stop-Loss-Prozentsatz“ von 1 %.
+– Wenn Sie AAPL-Aktien zu 100 $ kaufen, wird der Stop-Loss bei 99 $ gesetzt, zusammen mit dem Kauf mit einem Stop-Loss-Prozentsatz von 1 %.

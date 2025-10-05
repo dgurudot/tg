@@ -1,6 +1,6 @@
-## Setuju bahwa Anda harus memperhatikan perdagangan otomatis dan JANGAN meninggalkannya tanpa pengawasan
+## Setuju bahwa Anda harus memperhatikan perdagangan otomatis dan JANGAN meninggalkannya tanpa pengawasan.
 
-Anda selalu diharapkan untuk memperhatikan dan mengendalikan perdagangan otomatis Anda saat diperlukan
-- Perdagangan otomatis mirip dengan teknologi bantuan pengemudi mobil seperti kendali jelajah dan pilot otomatis di mana pedagang selalu diminta untuk memperhatikan layar dan dapat mengendalikan perdagangan Anda secara manual.
-- Jika aplikasi perdagangan Anda tidak aktif atau kehilangan konektivitas jaringan, maka perdagangan otomatis akan BERHENTI dieksekusi. Jika Anda memiliki pesanan aktif dengan penghentian aktif dengan pialang, maka pesanan tersebut akan dieksekusi oleh pialang Anda, tetapi Anda tidak akan dapat mengeksekusi sinyal perdagangan otomatis lainnya saat jaringan terputus pada perangkat dengan perdagangan otomatis diaktifkan.
-- Perdagangan Otomatis BUKAN layanan terkelola dan TIDAK boleh diasumsikan dan diperlakukan seperti itu. Mohon tetapkan kontrol manajemen risiko yang sesuai yang tersedia melalui platform dan gunakan pengaturan perdagangan otomatis dan akun global untuk menyempurnakannya berdasarkan selera risiko individu Anda.
+Anda selalu diharapkan untuk memperhatikan dan mengendalikan perdagangan otomatis Anda jika diperlukan.
+- Perdagangan otomatis mirip dengan teknologi bantuan pengemudi mobil seperti cruise control dan autopilot di mana trader selalu diharuskan untuk memperhatikan layar dan dapat mengendalikan perdagangan Anda secara manual.
+- Jika aplikasi perdagangan Anda tidak aktif atau kehilangan konektivitas jaringan, maka perdagangan otomatis akan BERHENTI dieksekusi. Jika Anda memiliki order aktif dengan stop loss aktif di broker, maka order tersebut akan dieksekusi oleh broker Anda, tetapi Anda tidak akan dapat mengeksekusi sinyal perdagangan otomatis lainnya saat jaringan terputus pada perangkat dengan perdagangan otomatis diaktifkan.
+- Perdagangan Otomatis BUKAN layanan terkelola dan TIDAK boleh diasumsikan dan diperlakukan seperti itu. Mohon atur kontrol manajemen risiko yang sesuai yang tersedia melalui platform dan gunakan pengaturan perdagangan otomatis dan akun global untuk menyesuaikannya berdasarkan selera risiko individu Anda.

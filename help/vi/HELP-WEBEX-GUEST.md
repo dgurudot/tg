@@ -1,6 +1,7 @@
-# Hướng dẫn nhận Webex Guest Keys
-- Bước 1: Truy cập [https://developer.webex.com/my-apps/new/guest-issuer](https://developer.webex.com/my-apps/new/guest-issuer) từ cửa sổ trình duyệt mới và riêng biệt và đăng nhập vào tài khoản hiện tại của bạn
-- Bước 2: Cung cấp "Tên người phát hành khách" và nhấp vào "Thêm người phát hành khách". Lưu ý: Tính năng này chỉ khả dụng đối với người dùng Webex Teams có đăng ký trả phí.
-- Bước 3: Từ phần Thông tin xác thực, sao chép "ID người phát hành khách" và "Bí mật được chia sẻ"
-- Bước 4: "Bí mật được chia sẻ" của bạn sẽ biến mất sau khi làm mới hoặc điều hướng khỏi trang này, vì vậy bạn cũng có thể muốn lưu nó theo cách an toàn.
-- Bước 5: Đặt "ID người phát hành khách" và "Bí mật được chia sẻ" trong ứng dụng TradeGrub cho tài khoản Webex của bạn để sử dụng chức năng Phòng.
+# Hướng dẫn nhận Khóa Khách Webex
+- Bước 1: Truy cập [https://developer.webex.com/my-apps/new/guest-issuer](https://developer.webex.com/my-apps/new/guest-issuer) từ cửa sổ trình duyệt mới và riêng biệt, sau đó đăng nhập vào tài khoản hiện có của bạn.
+- Bước 2: Cung cấp "Tên Người Phát Hành Khách" và nhấp vào "Thêm Người Phát Hành Khách". Lưu ý: Tính năng này chỉ khả dụng cho người dùng Webex Teams có gói đăng ký trả phí.
+- Bước 3: Từ phần Thông tin đăng nhập, sao chép "Mã Người Phát Hành Khách" và "Bí mật Chia sẻ"
+- Bước 4: "Bí mật Chia sẻ" của bạn sẽ biến mất sau khi làm mới hoặc thoát khỏi trang này, vì vậy bạn cũng nên lưu lại một cách an toàn.
+- Bước 5: Thiết lập "Mã Người Phát Hành Khách" và "Bí mật Chia sẻ" trong ứng dụng TradeGrub cho tài khoản Webex của bạn để sử dụng chức năng Phòng.
+

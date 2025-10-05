@@ -1,7 +1,7 @@
 # **Seleziona Pro Trader**
-- **Seleziona uno specifico pro trader** dall'elenco in base al tipo di trading o mix (include più tipi)
-- **Visualizza i trade passati** per determinare le prestazioni dei trade e la cronologia
+- **Seleziona un trader professionista specifico** dall'elenco a seconda del tipo di trading o della combinazione (include più tipi)
+- **Visualizza le operazioni passate** per determinare le performance e la cronologia delle operazioni
 - **Seleziona un piano specifico** e abbonati per pagare in modo sicuro tramite Stripe
-- Pro Traders ti fornisce trade in tempo reale in base all'abbonamento. Ad esempio, i day trade sono acquisti e vendite nello stesso giorno, gli swing trade sono acquisti e mantenimento durante la notte con risoluzione media entro 8 settimane e i trade a lungo termine hanno una risoluzione da 8 settimane a oltre 1-3 anni.
-- Pro Traders fornirà anche aggiornamenti in tempo reale per ogni trade. Pro Traders fornisce anche trade gratuiti periodicamente e potresti usarli a scopo di prova. I trade gratuiti non ti forniranno notifiche push e aggiornamenti sui trade in tempo reale.
+- Pro Traders ti offre operazioni in tempo reale a seconda dell'abbonamento. Ad esempio, le operazioni giornaliere prevedono acquisti e vendite nell'arco della stessa giornata, le operazioni swing prevedono acquisti e mantenimento overnight con risoluzione media entro 8 settimane e le operazioni a lungo termine hanno una risoluzione da 8 settimane a oltre 1-3 anni.
+- Pro Traders fornisce anche aggiornamenti in tempo reale per ogni operazione. Pro Traders offre anche operazioni gratuite periodiche, che puoi utilizzare a scopo di prova. Le operazioni gratuite non forniscono notifiche push né aggiornamenti in tempo reale.
 

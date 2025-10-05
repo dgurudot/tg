@@ -1,4 +1,4 @@
 # **Définir les retraits**
 
-- **Étape 1 :** Ajouter le montant dans le champ « Valeur »
-- **Étape 2 :** Sélectionner une date de retrait spécifique dans le champ « Date » et cliquer sur le bouton « Créer »
+- **Étape 1 :** Saisissez le montant dans le champ « Valeur »
+- **Étape 2 :** Sélectionnez la date de retrait dans le champ « Date » et cliquez sur le bouton « Créer ».

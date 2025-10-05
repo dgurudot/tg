@@ -1,6 +1,7 @@
-# Parar no Custo quando acima de uma certa %
+# Parar no Custo quando acima de uma determinada %
 
 ## Objetivo:
 
-- Você pode escolher mover o stop no custo automaticamente quando o preço do estoque se move além de uma certa % do lucro automaticamente.
-- O sistema escanearia cada certo número de segundos e faria esse ajuste de stop automaticamente cancelando ordens existentes para os símbolos.
+- Você pode optar por mover o stop no custo automaticamente quando o preço da ação ultrapassar uma determinada % do lucro.
+- O sistema verificará a cada determinado número de segundos e fará esse ajuste de stop automaticamente, cancelando as ordens existentes para os símbolos.
+

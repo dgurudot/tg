@@ -1,39 +1,39 @@
 # **Estatísticas**
 
-Exibe estatísticas da conta conforme abaixo:
+Exibe as estatísticas da conta conforme abaixo:
 
-**Informações da conta:**
-- **Tipo:** Conta de caixa ou margem
-- **ID:** ID da conta (somente os últimos quatro caracteres são exibidos)
-- **Patrimônio líquido:** Valor total da conta
-- **Margem usada:** Margem usada atual
-- **Saldos de margem:** Saldo atual da margem
-- **Poder de compra:** Poder de compra atual da conta
+**Informações da Conta:**
+- **Tipo:** Conta à Vista ou de Margem
+- **ID:** ID da Conta (apenas os quatro últimos caracteres são exibidos)
+- **Patrimônio Líquido:** Valor total da conta
+- **Margem Utilizada:** Margem utilizada atualmente
+- **Saldos de Margem:** Saldo atual da margem
+- **Poder de Compra:** Poder de compra atual da conta
 
 **Metas:**
-- **Limite de ativação:** Habilita o limite para aviso com base no Limite de BP % e Limite de custo no momento da colocação dos pedidos.
-- **Investimento:** Investimento total com base na soma total de todas as transações de depósito. Pode ser atualizado manualmente.
-- **Venda mensal:** Transações de venda esperadas e meta para o mês
-- **Compra mensal:** Transações de compra esperadas e meta para o mês
-- **Tamanho do portfólio:** Nº de posições alvo no portfólio
-- **Lucro mensal %:** Meta para lucro mensal %
-- **Lucro anual %:** Meta para lucro anual %
-- **Limite de BP %:** Limite para poder de compra. Aviso no momento da colocação do pedido.
-- **Limite de custo:** Limite para custo total. Aviso no momento da colocação do pedido.
+- **Limite de Ativação:** Ativa o limite para alerta com base na % do Limite de BP e no Limite de Custo no momento da abertura das ordens.
+- **Investimento:** Investimento total com base na soma de todas as transações de depósito. Pode ser atualizado manualmente.
+- **Venda Mensal:** Transações de venda esperadas e meta para o mês
+- **Compra Mensal:** Transações de compra esperadas e meta para o mês
+- **Tamanho da Carteira:** Número de posições alvo na carteira
+- **Lucro Mensal %:** Meta de lucro mensal %
+- **Lucro Anual %:** Meta de lucro anual %
+- **Limite de BP %:** Limite para poder de compra. Aviso no momento da abertura da ordem.
+- **Limite de Custo:** Limite para custo total. Aviso no momento da abertura da ordem.
 
-**Mensal (mês específico):**
-- **Número de compras:** Número de transações de compra em um mês específico
-- **Número de vendas:** Número de transações de venda em um mês específico
+**Mensal (Mês Específico):**
+- **Número de Compras:** Número de transações de compra em um mês específico
+- **Número de Vendas:** Número de transações de venda em um mês específico
 - **Lucro:** Lucro total do mês
 - **Juros:** Juros pagos no mês
 - **Dividendo:** Dividendo recebido no mês
-- **Lucro líquido:** Lucro total + Dividendo - Juros
+- **Lucro Líquido:** Lucro Total + Dividendo - Juros
 
-**Estatísticas mensais:**
+**Estatísticas Mensais:**
 Fornece informações detalhadas sobre todas as transações de um mês específico
 
-**Resumo do lucro (ano específico):**
-Fornece a porcentagem de lucro e os lucros totais para cada mês do ano
+**Resumo do Lucro (Ano Específico):**
+Fornece a porcentagem de lucro e o lucro total de cada mês do ano
 
 **Totais:**
 Fornece informações detalhadas sobre contas específicas desde o início.

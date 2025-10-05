@@ -1,13 +1,13 @@
 # **Aufträge**
 
-Zeigt Kontoaufträge wie unten angegeben an:
+Zeigt die Kontoaufträge wie folgt an:
 
-**Aktiv:** Aufträge, die ausstehen und auf ihre Ausführung warten.
+**Aktiv:** Ausstehende Aufträge, die auf ihre Ausführung warten.
 
-**Abgeschlossen:** Aufträge, die ausgeführt wurden. Beinhaltet teilweise abgeschlossene Aufträge für Aufträge mit mehreren Teilaufträgen.
+**Abgeschlossen:** Ausgeführte Aufträge. Beinhaltet teilweise abgeschlossene Aufträge für Multi-Leg-Aufträge.
 
-**Storniert:** Aufträge, die storniert oder abgelehnt wurden oder bei denen ein Fehler aufgetreten ist.
+**Storniert:** Abgebrochene, abgelehnte oder fehlerhafte Aufträge.
 
-**Hinweis**: Durch Wischen nach links auf einem bestimmten aktiven Auftrag können Sie einen bestimmten Auftrag stornieren.
+**Hinweis: Durch Wischen nach links über einen bestimmten aktiven Auftrag können Sie diesen stornieren.
 
-Durch Wischen nach rechts auf einem bestimmten aktiven Auftrag können Sie einen ähnlichen Auftrag erstellen oder den Auftrag ändern.
+Durch Wischen nach rechts über einen bestimmten aktiven Auftrag können Sie einen ähnlichen Auftrag erstellen oder ändern.

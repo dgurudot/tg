@@ -1,12 +1,13 @@
-# **Update Obiective**
+# **Setare ținte**
 
-Stabilește ținte specifice contului de utilizator
+Setează ținte specifice contului de utilizator
 
-- **Investiție:** Va fi suma totală a tranzacțiilor de tip "depozit". Utilizatorul poate suprascrie investiția totală.
-- **Vânzări Lunar:** Numărul de obiective de vânzare lunare pe care utilizatorul dorește să le urmărească în secțiunea Informații.
-- **Cumpărături Lunar:** Numărul de cumpărături lunare pe care utilizatorul dorește să le urmărească în secțiunea Informații.
-- **Număr Poziții:** Numărul total de poziții vizate pentru diversitate pe care utilizatorul dorește să le urmărească în secțiunea Informații.
-- **Profit Lunar %:** Obiectivul de profit % pentru luna pe care utilizatorul dorește să o urmărească în secțiunea Informații.
-- **Proft Anual %:** Obiectivul de profit % pentru anul pe care utilizatorul dorește să îl urmărească în secțiunea Informații.
-- **Prag BP %:** Pragul de putere de cumpărare % pentru care utilizatorul dorește să fie avertizat la plasarea ordinelor.
-- **Prag Cost:** Costul total al tuturor pozițiilor (inclusiv al noilor achiziții) pentru care utilizatorul dorește să primească avertismente în timpul plasării ordinelor.
+- **Activare prag:** Activează pragul pentru avertizare bazat pe procentul pragului BP și pragul de cost în momentul plasării comenzilor.
+- **Investiție:** Va fi suma totală a tranzacțiilor de tip „depozit”. Utilizatorul poate suprascrie investiția totală.
+- **Vânzare lunară:** Numărul de ținte de vânzare lunară pe care utilizatorul dorește să le urmărească în Insights.
+- **Cumpărare lunară:** Numărul de ținte de cumpărare lunară pe care utilizatorul dorește să le urmărească în Insights.
+- **Dimensiunea portofoliului:** Numărul total de poziții țintă pentru diversitate pe care utilizatorul dorește să le urmărească în Insights.
+- **Profit lunar %:** Obiectivul de profit procentual pentru luna pe care utilizatorul dorește să o urmărească în Insights.
+- **Profit anual %:** Obiectivul de profit procentual pentru anul pe care utilizatorul dorește să îl urmărească în Insights.
+- **Prag BP %:** Pragul de putere de cumpărare procentual pentru care utilizatorul dorește să primească avertizare la plasarea comenzilor.
+- **Prag de cost:** Costul total al tuturor pozițiilor (inclusiv achizițiile noi) pentru care utilizatorul dorește să primească avertizări la plasarea comenzilor.

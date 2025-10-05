@@ -1,11 +1,11 @@
-# **Watchlist**
+# **Lista di controllo**
 
-Visualizza la Watchlist corrente in **modalità griglia (predefinita)** o **modalità tabella**. 
-Puoi cambiare la modalità e abilitare/disabilitare usando il pulsante blu in basso a destra dello schermo.
-Fai clic su impostazioni in alto a sinistra per riordinare e abilitare/disabilitare intestazioni specifiche.
+Visualizza la Lista di controllo corrente in **modalità griglia (predefinita)** o **modalità tabella**.
+È possibile modificare la modalità e abilitarla/disabilitarla utilizzando il pulsante blu in basso a destra dello schermo.
+Fare clic su Impostazioni in alto a sinistra per riordinare e abilitare/disabilitare intestazioni specifiche.
 
-**Nota:** un utente può avere più watchlist.
+**Nota:** Un utente può avere più liste di controllo.
 
 **Opzioni:**
-- **Icona modifica:** modificherà la watchlist esistente.
-- **Icona aggiungi:** creerà una nuova watchlist.
+- **Icona Modifica:** Modifica la lista di controllo esistente.
+- **Icona Aggiungi:** Crea una nuova lista di controllo.

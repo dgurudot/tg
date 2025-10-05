@@ -1,4 +1,4 @@
-# **Setează o Retragere**
+# **Setați retragerile**
 
-- **Pasul 1:** Adăugați suma dorită în câmpul " Value".
-- **Pasul 2:** Selectați o anumită dată de retragere în câmpul "Data" și faceți clic pe butonul " Creează".
+- **Pasul 1:** Adăugați suma în câmpul „Valoare”
+- **Pasul 2:** Selectați data specifică a retragerii în câmpul „Data” și faceți clic pe butonul „Creare”

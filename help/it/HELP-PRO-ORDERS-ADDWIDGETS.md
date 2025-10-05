@@ -1,5 +1,5 @@
-# **Pro Orders Aggiungi widget**
+# **Ordini Pro Aggiungi Widget**
 
-- Ti consente di **aggiungere qualsiasi tipo di widget** al tuo layout. Seleziona il tipo di widget specifico da aggiungere selezionando il widget dall'elenco.
-- Puoi anche aggiungere più widget dello stesso tipo su un layout particolare.
+- Consente di **aggiungere qualsiasi tipo di widget** al layout. Seleziona il tipo di widget specifico da aggiungere selezionandolo dall'elenco.
+- È anche possibile aggiungere più widget dello stesso tipo in un layout specifico.
 

@@ -1,19 +1,17 @@
 # **Transaksi**
 
 Menampilkan transaksi selama 60 hari terakhir secara default. Hanya transaksi tahun lalu yang ditarik dari bursa.
-
-Klik pada pengaturan untuk menyusun ulang dan mengaktifkan/menonaktifkan tajuk tertentu.
-
-Klik pada tajuk untuk mengurutkan tajuk tertentu.
+Klik pengaturan untuk mengatur ulang dan mengaktifkan/menonaktifkan header tertentu.
+Klik header untuk mengurutkan header tertentu.
 
 **Transaksi (Default):**
 - **Tanggal:** Tanggal transaksi
 - **Jenis:** Jenis transaksi [ JUAL, BELI, INT (Bunga), DIV (Dividen), WID (Penarikan), DEP (Deposit) atau LAINNYA ]
 - **Simbol:** Nama simbol
-- **Jumlah:** Jumlah total
-- **Biaya:** Harga Pembelian
-- **Total Biaya:** Total harga pembelian
+- **Jumlah:** Total kuantitas
+- **Biaya:** Harga Beli
+- **Total Biaya:** Total harga beli
 - **Waktu:** Waktu transaksi
-- **Komisi:** Komisi pialang
-- **Biaya:** Biaya pialang atau bursa atau pajak
+- **Komisi:** Komisi broker
+- **Biaya:** Biaya broker atau bursa atau pajak
 - **ID (Opsional):** ID Transaksi

@@ -1,6 +1,7 @@
-# **ReEntry Delay**
+# **Atraso de Reentrada**
 
-## Objetivo: 
+## Objetivo:
 
-- Esta configuração permite que você ajuste o tempo de espera antes de tentar novamente o pedido.
-- Padrão: 5 segundos. Você pode atualizá-lo para 2 segundos como exemplo para tentar novamente mais rápido.
+- Esta configuração permite ajustar o tempo de espera antes de tentar novamente o pedido.
+- Padrão: 5 segundos. Você pode alterá-lo para 2 segundos, por exemplo, para uma tentativa mais rápida.
+

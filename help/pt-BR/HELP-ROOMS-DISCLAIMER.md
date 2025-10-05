@@ -1,12 +1,13 @@
-- As discussões em salas **não** são aconselhamento fiscal, jurídico ou de investimento
-- As discussões em salas **não** são uma indicação para comprar/vender ações
-- Não é possível compartilhar ou buscar informações pessoais identificáveis, incluindo nome, e-mail, telefone ou qualquer outro tipo de contato. Respeite a privacidade de todos
-- Não é possível promover serviços ou produtos ou links de referência
-- Não é permitido spam, flood ou postar mensagens difamatórias
-- Não é permitido discurso de ódio ou bullying. Argumentos respeitosos e amigáveis são aceitáveis
-- Não é permitido conteúdo adulto, xingamentos, ataques raciais, pessoais, insultos, palavrões, vulgaridade ou conteúdo degradante
+- As discussões em salas **não** constituem aconselhamento fiscal, jurídico ou de investimento
+- As discussões em salas **não** constituem indicação para compra/venda de ações
+- Não é permitido compartilhar ou buscar informações pessoais identificáveis, incluindo nome, e-mail, telefone ou qualquer outro tipo de contato. Respeite a privacidade de todos
+- Não é permitido promover serviços, produtos ou links de indicação
+- É proibido fazer spam, floodar ou publicar mensagens difamatórias
+- É proibido discurso de ódio ou bullying. Argumentos respeitosos e amigáveis são aceitáveis
+- Não são permitidos conteúdo adulto, xingamentos, ataques raciais, pessoais, insultos, palavrões, vulgaridade ou conteúdo degradante
 - Seja gentil, respeitoso e cortês e respeite os direitos e opiniões dos outros
 - Seja profissional e prestativo
 - Faça sua própria pesquisa e não aceite conselhos/discussões da comunidade para tomar decisões financeiras
 - NÃO espelhe negociações e sempre tenha seu próprio plano de negociação
-- Foco: Discuta apenas ações e mercados. Evite mensagens de olá, oi e bom dia.
+- Foco: Discuta apenas ações e mercados. Evite mensagens de "olá", "oi" e "bom dia".
+-

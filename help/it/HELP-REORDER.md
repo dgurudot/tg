@@ -1,5 +1,5 @@
 # **Riordina**
 
-- Questa impostazione consente di **regolare l'ordine delle colonne** e anche di **abilitare o disabilitare** colonne specifiche per la visualizzazione.
-- Premi a lungo e trascina/rilascia una colonna specifica per modificare l'ordine specifico della colonna rispetto ad altre colonne.
+- Questa impostazione consente di **modificare l'ordine delle colonne** e anche di **abilitare o disabilitare** la visualizzazione di colonne specifiche.
+- Premere a lungo e trascinare/rilasciare una colonna specifica per modificarne l'ordine specifico rispetto alle altre.
 

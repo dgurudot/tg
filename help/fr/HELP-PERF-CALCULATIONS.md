@@ -1,7 +1,7 @@
 # **Comment nous calculons les performances**
-- **Le % de gain** reflète la fourchette de profit pour une transaction spécifique. Il indique également l'objectif de profit atteint par la couleur verte.
-- La transaction est « clôturée » lorsque nous ne recommandons aucun achat supplémentaire pour les actions et que nous sommes dans la zone de vente. Vous pouvez continuer à maintenir la zone de vente pour les transactions swing et longues.
-- Le profit minimum capturé est compris entre B1 (premier prix d'achat) et S1 (premier objectif de vente) que nous avons atteint.
-- Si vous maintenez au-delà du S1 dans la zone de vente, vous obtenez le potentiel de profit maximum et il est indiqué dans la plage de % de gain où nous avons atteint l'objectif S3.
-- Les transactions journalières n'ont pas de maintien au-delà d'une journée, nous ne suivons donc généralement pas l'atteinte des objectifs S2, S3, bien que les utilisateurs puissent toujours choisir de ne vendre qu'une partie à S1, puis de réaliser davantage de profits à S2, S3 et au-delà le même jour. Pour les transactions journalières (avec la balise D), nous affichons uniquement le profit minimum pour une transaction spécifique.
-- Les transactions swing sont marquées avec la balise « S » (couleur ambre). Les transactions à long terme sont marquées avec l'étiquette de couleur « L » (vert) située à côté du symbole sur le côté droit.
+- Le **% de gain** reflète la fourchette de profit pour une transaction spécifique. Il indique également l'objectif de profit atteint en vert.
+- Une transaction est « clôturée » lorsque nous ne recommandons aucun achat supplémentaire et que nous sommes en zone de vente. Vous pouvez maintenir votre position dans la zone de vente pour les positions swing et longues.
+- Le profit minimum réalisé s'étend du prix B1 (premier prix d'achat) au prix S1 (premier objectif de vente) atteint.
+- Si vous maintenez votre position au-delà du S1 dans la zone de vente, vous obtenez le potentiel de profit maximal, indiqué dans la fourchette de % de gain lorsque nous avons atteint l'objectif S3.
+- Les transactions journalières ne nécessitent pas de maintien au-delà d'une journée ; nous ne suivons donc généralement pas l'atteinte des objectifs S2 et S3, bien que les utilisateurs puissent choisir de ne vendre qu'une partie du cours à S1, puis de réaliser davantage de profits à S2, S3 et au-delà le même jour. Pour les transactions journalières (avec la balise D), nous affichons uniquement le profit minimum pour une transaction spécifique.
+- Les transactions swing sont marquées de la balise « S » (couleur orange). Les transactions à long terme sont signalées par une étiquette de couleur « L » (verte) située à côté du symbole sur le côté droit.

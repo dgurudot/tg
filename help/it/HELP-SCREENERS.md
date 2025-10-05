@@ -1,10 +1,10 @@
 # **Screeners**
 
-Il mercato azionario viene scansionato ogni 5-15 minuti per un intervallo di capitalizzazione di mercato specifico per filtrare quanto segue:
+Il mercato azionario viene analizzato ogni 5-15 minuti per individuare un intervallo di capitalizzazione di mercato specifico, filtrando i seguenti elementi:
 
-- **Gainers**: i principali Gainers nel mercato
-- **Losers**: i principali Losers nel mercato
-- **Active**: i titoli più attivi nel mercato in base all'attività di volume
-- **Gappers**: i principali gappers nel mercato
+- **In rialzo**: I titoli con i maggiori guadagni sul mercato
+- **In perdita**: I titoli con i maggiori perdite sul mercato
+- **Attivi**: I titoli più attivi sul mercato in base all'attività di volume
+- **Gapper**: I principali gapper sul mercato
 
-**Nota**: usa il filtro dal menu in alto a destra per aggiornare in base a simboli specifici, capitalizzazione di mercato, intervallo di prezzo, volume, variazione % e gap %
+**Nota**: Utilizza il filtro dal menu in alto a destra per aggiornare in base a simboli specifici, capitalizzazione di mercato, intervallo di prezzo, volume, variazione percentuale e gap %

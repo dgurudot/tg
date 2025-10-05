@@ -1,37 +1,38 @@
 # **Posições**
 
-Exibe o portfólio atual no **modo de grade (padrão)** ou **modo de tabela**. 
-Você pode alterar o modo e habilitar/desabilitar usando o botão azul no canto inferior direito da tela.
-Clique em configurações no canto superior esquerdo para reordenar e habilitar/desabilitar cabeçalhos específicos.
+Exibe o portfólio atual no **modo de grade (padrão)** ou no **modo de tabela**.
+Você pode alterar o modo e ativar/desativar usando o botão azul no canto inferior direito da tela.
+Clique em configurações no canto superior esquerdo para reordenar e ativar/desativar cabeçalhos específicos.
 
 Você pode selecionar uma conta específica no menu suspenso no canto superior esquerdo.
 Você também pode visualizar o status da conexão da sua conta (verde - conectado, vermelho - desconectado).
-Pressionar longamente a conta força uma reconexão para trocar.
+Pressionar longamente a conta força uma reconexão com a bolsa.
 
-**Modo de grade (padrão):**
-- **Cabeçalho:** Símbolo (esquerda), Quantidade (direita)
-- **Linha 1:** Indicador de pedido (esquerda), Preço de marca (direita)
-- **Linha 2:** Ganho diário % (esquerda), Ganho diário (direita)
-- **Linha 3:** Ganho % (esquerda), Ganho (direita)
+**Modo de Grade (Padrão):**
+- **Cabeçalho:** Símbolo (Esquerda), Quantidade (Direita)
+- **Linha 1:** Indicador de Ordem (Esquerda), Preço de Marca (Direita)
+- **Linha 2:** Ganho Diário % (Esquerda), Ganho Diário (Direita)
+- **Linha 3:** Ganho % (Esquerda), Ganho (Direita)
 
-**Modo de tabela (padrão):**
+**Modo de Tabela (Padrão):**
 - **Símbolo:** Nome do símbolo
 - **Marca:** Preço atual do símbolo
 - **Custo:** Preço de compra (ou média atual)
 - **Qtd:** Quantidade total
-- **Ganho diário:** Valor do ganho líquido durante o dia
-- **Ganho diário %:** % do ganho líquido durante o dia
+- **Ganho Diário:** Valor do ganho líquido durante o dia
+- **Ganho Diário %:** % do ganho líquido durante o dia
 - **Ganho:** Ganho líquido
 - **Ganho %:** % do ganho líquido
-- **Valor (opcional):** Valor líquido com base no preço atual
-- **Custo (opcional):** Custo líquido com base no preço de custo
+- **Valor (Opcional):** Valor líquido com base no preço atual
+- **Custo (Opcional):** Custo líquido com base no preço de custo
 
-**Conta rápida Info:**
+**Conta Rápida Informações:**
 Exibido na parte inferior da tela de posições
-- **Linha 1:** Ganho diário %, Ganho diário (Valor do ganho diário), BP (Poder de compra), Valor (opcional para o valor total de todas as posições)
-- **Linha 2:** Ganho %, Ganho (Valor total do ganho), EQ (Patrimônio total da conta), Custo (opcional para o custo total de todas as posições)
+- **Linha 1:** % de Ganho Diário, Ganho Diário (Valor do Ganho Diário), BP (Poder de Compra), Valor (Opcional para o valor total de todas as posições)
+- **Linha 2:** % de Ganho, Ganho (Valor Total do Ganho), EQ (Patrimônio Líquido Total da Conta), Custo (Opcional para o custo total de todas as posições)
 
 **Cores:**
-- A cor **Verde** ou **Vermelho** na posição indica lucro ou perda para uma posição específica.
-- A cor **Cinza** na posição indica nenhum lucro/perda para uma posição específica.
-- O ponto **Azul** na posição indica uma ordem ativa para uma posição específica. Pressionar longamente na posição permite um salto rápido para uma ordem específica.
+- A cor **Verde** ou **Vermelho** na posição indica lucro ou prejuízo para uma posição específica.
+- A cor **Cinza** na posição indica que não há lucro/prejuízo para uma posição específica.
+- O ponto **Azul** na posição indica uma ordem ativa para uma posição específica. Pressionar longamente a posição permite um salto rápido para uma ordem específica.
+

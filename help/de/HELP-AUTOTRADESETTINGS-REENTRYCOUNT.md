@@ -1,11 +1,11 @@
 # **Anzahl der Wiederholungsversuche**
 
-## Zweck: 
+## Zweck:
 
-- Mit dieser Einstellung können Sie die Anzahl der Wiederholungsversuche anpassen, die wir mit einem Offset für Limit-Orders unternehmen, bevor wir die endgültige Marktorder platzieren.
+– Mit dieser Einstellung können Sie die Anzahl der Wiederholungsversuche für Limit-Orders mit Offset festlegen, bevor eine Marktorder platziert wird.
 
 ## Beispiel:
 
-- Wenn Ihre Wiederholungsanzahl 1 beträgt, versucht Signal zunächst, die Order zum im Signal erhaltenen Preis auszuführen. 
-- Wenn sie nicht ausgeführt wird, gibt es nur 1 Wiederholungsversuch (basierend auf der Einstellung der Wiederholungsanzahl und kann geändert werden) und es wird der Briefkurs plus Offset für das Kaufsignal oder der Geldkurs minus Offset für das Verkaufssignal verwendet. 
-- Sobald die Wiederholungsversuche erschöpft sind, wird die Marktorder platziert.
+– Wenn die Wiederholungsanzahl 1 beträgt, versucht das Signal zunächst, die Order zum im Signal erhaltenen Preis auszuführen.
+– Wird die Order nicht ausgeführt, erfolgt nur ein Wiederholungsversuch (basierend auf der Einstellung für die Wiederholungsanzahl, die geändert werden kann). Dabei wird der Briefkurs plus Offset für Kauf- bzw. der Geldkurs minus Offset für Verkaufs-Signal verwendet.
+– Sobald alle Wiederholungsversuche abgeschlossen sind, wird eine Marktorder platziert.
