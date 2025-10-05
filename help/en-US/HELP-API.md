@@ -8,11 +8,6 @@ The **API Management** screen allows you to manage your TradeGrub API keys — u
 
 All existing API keys are displayed in a simple, easy-to-read table.
 
-| Name | Key | Permissions | Created Date | Actions |
-|------|-----|--------------|---------------|----------|
-| My Trading Key | `tgx4c...9uP` | TradingView | 2025-09-20 | 🗑️ Delete |
-| REST Access | `tgx5a...7dF` | REST | 2025-09-22 | 🗑️ Delete |
-
 ### Table Columns
 - **Name** → The label you assign when creating the key.
 - **Key** → The unique identifier used for authentication.
@@ -33,11 +28,22 @@ You will be prompted to specify:
 | Field | Description |
 |--------|--------------|
 | **Name** | A friendly name to identify this key (e.g., *TradingView Signals*). |
-| **Permissions** | Choose one or both: <br> - **TradingView** → Required to receive and process TradingView webhook signals. <br> - **REST** → Required for accessing TradeGrub REST APIs. |
+| **Permissions** | Choose one or both: - **TradingView** → Required to receive and process TradingView webhook signals. - **REST** → Required for accessing TradeGrub REST APIs. |
 
 Once created, the new API key will appear instantly in your table view.
 
 > 💡 You can create multiple keys — for example, one for your personal TradingView account and another for your automated REST integration.
+
+---
+
+## 🔐 API Secret Visibility
+
+When a new API key is created, a **secret** is generated and displayed **only once** for security reasons.  
+You will have the option to **copy** it during creation — make sure to store it safely.
+
+> ⚠️ **Note:**  
+> The secret **cannot be viewed again later**.  
+> You must securely save it, as it will be required when using the API key in **TradingView** or **REST API** integrations.
 
 ---
 
