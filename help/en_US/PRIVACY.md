@@ -2,6 +2,8 @@
 
 **Last updated  12/15/2020**
 
+**Revised September 19, 2026**
+
   
 
 Thank you for choosing to be part of our community at  TradeGrub  ("**Company**", "**we**", "**us**", or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our  policy, or our practices with regards to your personal information, please contact us at  privacy@tradegrub.com
@@ -36,6 +38,9 @@ We receive and store any information you provide to us. For example, through the
 	• Telephone number
 	• Information related to stocks and assets you engage with through the Services (such as stocks on your watch list) (“Stock Tracking Information”)
 	• Financial or payment information
+	• Brokerage connection information that you authorize, such as account identifiers, access tokens or credentials, and the positions, orders, balances and transactions we retrieve from your brokerage
+	• Charts, layouts, scripts, strategies, alerts, watchlists and settings that you create
+	• Messages you send to us for support, and, if you use our API, your API keys and request activity
 	• Anything you upload, post or choose to share (for example, comments and posts you submit publicly, photographs you upload, etc.), which can include Personal Data if you include Personal Data in such content
 	
 Please note that certain information may be required to register with us or to take advantage of some of our features.
@@ -66,6 +71,8 @@ Whenever you interact with our Services, we automatically receive and record inf
 **2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?**
 
 **_In Short:_** _We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations._
+
+**We do not sell your personal information.**
 
 We may process or share data based on the following legal basis:
 
@@ -105,7 +112,7 @@ More specifically, we may need to process your data or share your personal infor
 
 **_In Short:_** _We may use cookies and other tracking technologies to collect and store your information._
 
-We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. We use analytics tools to understand how our Services are used. You can refuse or delete cookies through your browser settings, and Section 11 explains how, although refusing cookies may limit some features.
 
   
 
@@ -144,6 +151,8 @@ The services may contain advertisements from third parties that are not affiliat
 We will only keep your personal information for as long as it is necessary for the purposes set out in this  privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). 
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+When you delete your account or ask us to delete your information, we delete it, except for a limited amount of data that we keep afterwards where needed to meet legal and regulatory requirements, for audits, and to prevent abuse of the Services, for example repeat abuse by a removed account. We keep only what is needed for those purposes and use it only for them.
 
   
 
@@ -213,3 +222,52 @@ If you have questions or comments about this policy, you may  email us at  priva
 **15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
 Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please send us an email at privacy@tradegrub.com. We will respond to your request within 30 days.
+
+**16. HOW DO WE HANDLE INFORMATION IN STRATEGIST, OUR AI ASSISTANT?**
+
+**_In Short:_** _Strategist works through third-party AI providers. What is sent, and to whom, depends on how you use it._
+
+**Using TradeGrub credits.** Your messages and any attachments you add are sent through our servers to the AI provider we route the request to, so that it can respond. Our servers record usage information for billing, such as the number of tokens, the model, the cost, the status and the time. These billing records do not include the text of your messages or of the replies.
+
+**Using your own key.** Your key is stored in your browser on your device and is not sent to our servers, and it does not sync between your devices. Keep that device and browser profile secure. Your requests go directly from your browser to the AI provider you chose, and that provider's privacy policy applies to them.
+
+**Conversation history and attachments.** Your conversation history is kept in your browser on your device and is not uploaded to us. Attachments are used for the message you send them with and are not stored by us.
+
+**Voice dictation.** If you use dictation, your browser's own speech service turns your speech into text. We do not receive your audio, but your browser may send it to that service under its provider's terms.
+
+Please do not include sensitive information in Strategist that you do not want an AI provider to process.
+
+**17. HOW DO WE HANDLE BROKERAGE CONNECTIONS AND MARKET DATA?**
+
+**_In Short:_** _We use the access you authorize to show your accounts and place your orders._
+
+When you connect a brokerage, we use the access you authorize to retrieve your account information, positions, orders and transactions, and to place orders when you instruct us to. We use this information to provide the features you asked for. We protect brokerage credentials and tokens with safeguards designed for that purpose, and you can disconnect a brokerage at any time. Your brokerage's own terms and privacy policy apply to the data it holds. Market data providers that supply data to our Services are listed in Section 19.
+
+**18. WHAT DO WE COLLECT THROUGH OUR API AND WIDGETS?**
+
+**_In Short:_** _Technical information needed to deliver the service, apply limits and keep it secure._
+
+**API.** If you use our API, we use your API key and record request activity, such as the endpoint, the time and the volume, to authenticate requests, apply rate limits and protect the service.
+
+**Widgets.** When a widget is loaded on a website or app, our servers receive technical information such as the visitor's IP address, browser and device information and the page that requested it, as with any web request. We use it to deliver the widget, keep it secure and apply usage limits. The site owner who embeds a widget is responsible for the notices they give their own visitors.
+
+**19. WHO ARE OUR SERVICE PROVIDERS?**
+
+**_In Short:_** _We use third parties to run the Services. Each has its own privacy policy._
+
+- **Payments:** Stripe.
+- **Market and reference data:** Polygon, Twelve Data, Alpha Vantage, SEC EDGAR and public government data sources.
+- **Your brokerages,** when you connect them.
+
+**20. WHAT ARE OUR LEGAL BASES FOR USING YOUR INFORMATION?**
+
+**_In Short:_** _If you are in the European Economic Area or the United Kingdom, we rely on the following legal bases._
+
+We use your information to perform our contract with you, for example to provide your account and the Services you ask for. We use it for our legitimate interests, for example to keep the Services secure, prevent fraud and abuse, and understand and improve how the Services are used. We rely on your consent where the law requires it, for example for marketing emails and non-essential cookies, and you can withdraw consent at any time. We also use it where we must to comply with a legal obligation.
+
+**21. WHAT HAPPENS IF THERE IS A SECURITY INCIDENT?**
+
+**_In Short:_** _We will tell you and the authorities when the law requires it._
+
+We use technical and organizational measures to protect your information, but no system is completely secure. If a security incident affects your personal information, we will notify the people affected and the relevant authorities as required by applicable law.
+
