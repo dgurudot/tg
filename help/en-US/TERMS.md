@@ -2,6 +2,8 @@
 
 Last updated  09/10/2021
 
+Revised September 19, 2026
+
 **1. AGREEMENT TO TERMS**
 
 These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and TradeGrub LLC ("Company", "we", "us", or "our"), concerning your access to and use of the [http://www.tradegrub.com](http://www.tradegrub.com/) website, app as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the "Site"). You agree that by accessing the Site, you have read, understood, and agree to be bound by all of these Terms of Use. 
@@ -10,6 +12,8 @@ These Terms of Use constitute a legally binding agreement made between you, whet
 
 If you do not agree with any term of provision of our Terms of Use you should not use our Site, Services, Content or Information. Please be advised that your continued use of the Site, Services, Content, or Information provided shall indicate your consent and agreement to our Terms and Conditions.
 
+**What these Terms cover.** These Terms apply to everything we offer under the TradeGrub name, including our chart platform, our trading platform (which connects to your brokerage accounts), our API platform, Strategist (our AI assistant) and our embeddable widgets, together with our websites and mobile apps (together, the "Services"). Section 32 describes each of them. Some Services have additional terms, which are posted where you access them and apply in addition to these Terms.
+
 By using TradeGrub Services, you're agreeing to be bound by all of these Terms of Use ("Terms and Conditions" or "Terms of Use" or "Terms") including the binding arbitration and class action waiver detailed below.
 
 Supplemental terms of use or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason. 
@@ -17,7 +21,7 @@ Supplemental terms of use or documents that may be posted on the Site from time 
 We’re constantly trying to improve our Services, so we may need to change this Term of Use from time to time as well, but we will alert you to material changes by prominently placing a notice on the website, by sending you an email, and/or by some other means.
 The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. 
 
-We will alert you about any changes by updating the "Last updated" date of these Terms of Use, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Use to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.
+We will alert you about any changes by updating the "Last updated" or "Revised" date of these Terms of Use, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Use to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.
 
 The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
 
@@ -78,13 +82,19 @@ You agree to pay all charges or fees at the prices then in effect for your purch
 
 We reserve the right to correct any errors or mistakes in pricing, even if we have already requested or received payment. We also reserve the right to refuse any order placed through the Site.
 
+Paid plans renew automatically until you cancel. If a renewal payment fails, your paid features may be paused until payment succeeds. We do not delete your data because a payment failed. Credits for Strategist are bought separately and are used as you use the feature (see Section 33). Purchases made through an app store are billed by that store under its own terms.
+
 All payments are securely processed by Stripe. View Stripe's [terms](https://stripe.com/legal/link-account-terms) and [privacy](https://stripe.com/privacy) policies.
 
-**7. CANCELLATION**
+**7. CANCELLATION AND 30-DAY RETURN POLICY**
 
-All purchases are non-refundable. You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term.
+You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term.
 
-If you are unsatisfied with our services, please email us at terms@tradegrub.com
+**30-day return policy.** If you are not satisfied with a paid purchase, tell us within 30 days of the purchase date by emailing support@tradegrub.com or terms@tradegrub.com. Our support team will reach out to you, look into the issue you reported, and work with you to resolve it to your satisfaction. If we cannot resolve it, we will refund the purchase. Approved refunds are returned to the original payment method, and how quickly they appear depends on your bank or card issuer.
+
+This policy does not cover charges made by parties other than us, such as fees charged by your brokerage, an exchange or a data provider, or charges from an AI provider when you use your own key with Strategist. Purchases made through an app store are refunded by that store under its own policy. Nothing in this section limits any refund or cancellation right you have under applicable law.
+
+If you are unsatisfied with our services at any other time, please email us at terms@tradegrub.com and we will try to help.
 
 **8. SOFTWARE**
 
@@ -105,6 +115,14 @@ As a user of the Site, you agree not to:
 4. Copy or adapt the Site's software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
 
 5. Use the Site in a manner inconsistent with any applicable laws or regulations.
+
+6. Share your login credentials with another person, or allow more than one person to use a single account. Each account is for one individual. Using your account on many devices is fine. See Section 31 (Fair Use Policy).
+
+7. Resell, sublicense or give others access to the Services or their data, except as we expressly allow.
+
+8. Overload, disrupt or attack the Services or their infrastructure, including through denial-of-service attacks, or use automated means to get around rate limits or usage limits.
+
+9. Scrape, harvest or bulk-download data from the Services, other than through our API within its terms.
 
 In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the site or its content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet; (l) forge headers or otherwise manipulate identifiers in order to disguise the origin of any information transmitted through the Services; (m) “frame” or “mirror” any part of the Services, without our prior written authorization or use meta tags or code or other devices containing any reference to us in order to direct any person to any other service or Web site for any purpose; (n) modify, adapt, translate, reverse engineer, decipher, decompile, separate, or otherwise disassemble any portion of the Services or any software used on or for the Services; or (o) to interfere with or circumvent the security features of the Services. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.
 
@@ -258,7 +276,7 @@ TradeGrub contains statements and statistics that have been obtained from source
 
 -   We want to help you make money. However, TradeGrub is not in the business of rendering personalized investment advice. We can't know all the relevant facts about you and your individual needs, and we cannot claim or represent that any particular Services are suitable for you. Accordingly, you agree that any recommendation or action taken by a Service does not constitute a recommendation that a particular security, strategy, or action is suitable for you. If you want personal advice, then you should seek a registered investment advisor.
     
--   TradeGrub may partner with third parties in order to make buying our Services recommendations easier for you. We will not, and cannot, trade on your behalf at your brokerage. Only you can decide whether or not a stock is right for you and you agree to be liable for any trades you initiate at your brokerage using tools that we or our partners provide.
+-   TradeGrub may partner with third parties in order to make buying our Services recommendations easier for you. We do not place trades at your brokerage on our own initiative. We place orders only when you instruct us to, either directly or through rules and automated settings that you create and enable. Only you can decide whether or not a stock is right for you and you agree to be liable for any trades you initiate at your brokerage using tools that we or our partners provide.
     
 -   We are neither licensed nor qualified to provide investment advice. The contents shared are not provided to any particular individual with a view toward their individual circumstances. The information shared is not an offer to buy or sell securities.
     
@@ -302,6 +320,19 @@ Nothing in this Agreement or in the TradeGrub website constitutes an offer or a 
 -   TradeGrub LLC enable customers to trade directly on specific broker account from TradeGrub interface. TradeGrub connects to brokerages, subscription and free datafeeds for market data. You can get real-time market data feed from specific brokers based on licensing terms and data source. You also have an option to select specific subscription based real time data feed. TradeGrub provides broker connectivity as a convenience functionality to end customer. You can choose to use your specific brokerage apps and platform directly as well. TradeGrub LLC is not affiliated with any of the third-party providers and not responsible for any aspect of the third-party content, including its accuracy and availability. Use of any specific names of third parties is simply for identification purposes only and does not imply, nor is intended to imply, any affiliation, endorsement, or business relationship with any third-party online brokers.
 
 
+### Automated and Rule-Based Trading
+
+The trading platform includes features such as rules, automated trade settings, re-entry and stop settings, rebalancing and alerts that can lead to orders being sent to your brokerage. These features act only on the settings you choose and only after you enable them. You are solely responsible for setting them up correctly, for reviewing and monitoring them, and for turning them off. Orders may not be filled, or may be filled at prices different from what you expect, because of market conditions, price movement between a trigger and a fill, delays or errors in data, rejected orders, or outages at us, your brokerage or an exchange. We do not guarantee that any order will be sent, accepted or filled, or that any automated setting will produce a profit or avoid a loss.
+
+### Simulated, Backtested and Paper Trading Results
+
+Hypothetical, simulated and backtested results have limitations. Unlike an actual performance record, they do not represent real trading. Because the trades were not actually executed, the results may over or under compensate for the effect of market factors such as liquidity, slippage, fees and taxes. They are designed with the benefit of hindsight and rely on historical data, which may be incomplete or inaccurate. No representation is made that any account will or is likely to achieve profits or losses similar to those shown. This applies to backtests, optimizations, strategies and scripts run in our charts, including any produced with Strategist, and to results in paper trading accounts. Results depend on the inputs and criteria that you choose, and are provided for informational and educational purposes only. Any testimonials or examples we show may not be representative of other users and do not guarantee future performance or success.
+
+### AI-Generated Content
+
+Content produced by Strategist is generated by AI models. It may be inaccurate, incomplete or out of date, and it is not investment, legal, tax or financial advice. See Section 33.
+
+
 **23. LIMITATIONS OF LIABILITY**
 
 In no event will we or our directors, employees, or agents be liable to you or any third party for any direct, indirect, consequential, exemplary, incidental, special, or punitive damages, including lost profit, lost revenue, loss of data, or other damages arising from your use of the site, even if we have been advised of the possibility of such damages. Notwithstanding anything to the contrary contained herein, our liability to you for any cause whatsoever and regardless of the form of the action, will at all times be limited to the amount paid, if any, by you to us during the six (6) month period prior to any cause of action arising. Certain us state laws and international laws do not allow limitations on implied warranties or the exclusion or limitation of certain damages. If these laws apply to you, some or all of the above disclaimers or limitations may not apply to you, and you may have additional rights.
@@ -316,7 +347,9 @@ We will maintain certain data that you transmit to the Site for the purpose of m
 
 ### Data
 -   TradeGrub LLC does provide data feed for quotes, news, account activity from your respective brokers where it is provided. You are governed by the broker data feed terms of service for using the data feed. You will be required to sign and agree to your respective broker terms of service for using real time data feed.
--   TradeGrub LLC also use data feed from IEX and “Data provided by IEX Cloud” https://iexcloud.io for default delayed quotes, news, company information and other fundamental and technical data. We also use data for certain features that is real-time data from only 5 top US stock exchanges, that's formidable market coverage and 99.95% price accuracy – without the costly exchange fees typically associated with real-time market data streams.
+-   TradeGrub LLC also obtains market data, filings and reference data from other sources. These include SEC EDGAR filings that we retrieve directly, market data providers such as Polygon and Twelve Data, public government data sources, and the brokerage you connect for your own account data. We provide data for exchanges and markets worldwide. Some data may be delayed. Which markets and sources provide real-time data changes over time, so we do not publish a fixed list here. Availability, delay and coverage depend on the source, your plan and the licensing terms of the data source, and may change.
+-   Data in the Services is licensed from third parties or comes from public sources. It is provided "as is" without warranty from us, our data providers or the exchanges, should be verified independently before you trade, and may not be redistributed, except through features we provide for that purpose, such as widgets under Section 34.
+-   Charts in the Services are rendered by our own charting engine.
 
 
 **26. NO OTHER RIGHTS**
@@ -350,7 +383,77 @@ This site is not intended for distribution, or use by, any person in any country
 
 These Terms of Use and any policies or operating rules posted by us on the Site or in respect to the Site constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms of Use shall not operate as a waiver of such right or provision. These Terms of Use operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Terms of Use is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Use and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of Use or use of the Site. You agree that these Terms of Use will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.
 
-**30. CONTACT US**
+**31. FAIR USE POLICY**
+
+Some features are described as unlimited, such as alerts, layouts, backtests, custom timeframes and bar replay, or as having no limit. Unlimited means we do not set a fixed number on ordinary use. It does not mean unlimited use of our systems. This policy applies to every feature we describe as unlimited or as having no limit, on every plan.
+
+**Reasonable use.** You agree to use the Services in a way that is consistent with normal use by an individual trader or investor, and that does not degrade the Services for other users or place an unreasonable load on our systems or on those of our data providers and brokerage partners.
+
+**Monitoring.** We may monitor use of the Services, including usage volume and patterns, to keep them secure and available, to enforce these Terms, and to detect and prevent abuse, including denial-of-service attacks, automated abuse and account sharing. Rate limits and other technical limits, including those described in our API documentation, apply in addition to this policy.
+
+**What is not allowed.** Using the Services to attack, overload or disrupt them or anyone else. Creating alerts, requests or other activity at a volume or in a manner designed or likely to overload the Services. Using automation to get around rate limits or usage limits. Using unlimited features to resell, redistribute or build a competing data or alerting service.
+
+**Devices and accounts.** There is no limit on the number of devices you can use with your account. Each account is for one person. Sharing your login credentials with other people, or letting more than one person use one account, is a violation of this policy and of Section 9, however many devices are involved. If several people need access, each should have their own account. Contact us if you would like to discuss options for teams.
+
+**If we find a problem.** Where we reasonably can, we will contact you first, explain what we found and give you a chance to fix it. We may limit or throttle the activity, restrict specific features, or suspend or terminate the account if the use is serious, repeated, harmful to others, or a threat to the security or availability of the Services. We may act immediately and without notice to stop an attack or a security threat.
+
+**Questions.** If you think you will need more than ordinary use, or believe your use was limited by mistake, email support@tradegrub.com.
+
+**32. THE SERVICES**
+
+**Chart platform.** Charts, indicators, drawing tools, pattern detection, strategies, scripting and backtesting. These tools are for research and education. Results from them, including backtests, are hypothetical (see Section 22).
+
+**Trading platform.** Connects to brokerage accounts that you authorize so you can view positions, orders and account activity, place orders, and set up rules and automated settings. You give us the access the connection needs, such as an access token or credentials, and you can disconnect a brokerage at any time. Orders are executed by your brokerage under its terms, and we are not a broker-dealer. You are responsible for your brokerage account, your orders and your rules.
+
+**API platform.** Programmatic access to market data, account data and trading functions at tradegrub.io. Use of the API is also governed by the API Terms at https://tradegrub.io/terms, which apply in addition to these Terms. If they conflict for your use of the API, the API Terms apply. Keep your API keys secret. You are responsible for all activity under them.
+
+**Strategist.** Our AI assistant. See Section 33.
+
+**Widgets.** Embeddable components for your own website or app. See Section 34.
+
+**Plans and changes.** Which features are included depends on your plan. We may add, change or discontinue features from time to time, as described in Section 18.
+
+**33. STRATEGIST (AI ASSISTANT)**
+
+Strategist is our AI assistant. It can answer questions, help you research, and help you write indicators, scripts and strategies and run backtests.
+
+**Not advice.** Strategist output is generated by AI models. It can be wrong, incomplete, out of date or misleading, and it can differ each time you ask. It is not investment, legal, tax or financial advice and is not a recommendation to buy, sell or hold anything. You are responsible for checking what it produces before you rely on it, and for any script, strategy, setting or order that you create, run or place based on it. Backtests and simulations it produces are hypothetical (see Section 22).
+
+**How requests are processed.** Strategist works through third-party AI model providers. You can use it in two ways. With credits, your request goes through our servers to an AI provider that we choose, and we charge credits based on your usage. With your own key, you enter your own API key for an AI provider that you choose, your requests go from your browser directly to that provider under its terms, and any charges are billed to you by that provider. We are not responsible for third-party AI providers, their models or their availability.
+
+**Credits.** Credits are bought through Stripe and are used as you use Strategist. Refunds are handled under Section 7.
+
+**Your inputs.** Do not submit anything you do not have the right to submit, or anything unlawful. You are responsible for what you provide and for how you use the output. Our Privacy Policy explains what we store.
+
+**Acceptable use.** Do not use Strategist to break the law, to get around limits, to extract or copy the models, or in any way that violates Section 9, Section 31 or the terms of the AI providers. We may limit or suspend access to Strategist for misuse.
+
+**34. WIDGETS AND EMBEDDING**
+
+Widgets are embeddable components, such as charts and market data displays, that we let you place on your own website or app using our embed code or SDK.
+
+**License.** Subject to these Terms, we give you a limited, non-exclusive, non-transferable, revocable license to display widgets, as we provide them, on websites and apps that you own or operate. Keep any attribution, branding and links in the widget intact. You may not modify the widget code, remove or hide attribution, or use widgets in a way that suggests we endorse you or your products.
+
+**Data.** Data shown in widgets comes from third-party providers, may be delayed, is subject to those providers' restrictions, and may not be extracted, stored, redistributed or used for anything other than displaying the widget to your visitors.
+
+**Your site.** You are responsible for your website or app and your visitors, including any notice or consent you need to give them, and for not presenting widget content as investment advice. A widget may collect technical information from your visitors, as described in our Privacy Policy.
+
+**Availability.** We do not guarantee that widgets will be available, uninterrupted or unchanged. Usage limits (see Section 31) may apply. We may change, limit or discontinue widgets, and may disable a widget that violates these Terms.
+
+**35. YOUR CONTENT AND COPYRIGHT COMPLAINTS**
+
+**Your scripts and settings.** You keep ownership of the scripts, strategies, layouts, alerts and settings that you create, and, as between you and us, of the output that Strategist generates for you, subject to the rights of third parties and the data restrictions in Section 25. You give us a license to host, store and process them as needed to provide the Services to you. Section 11 continues to apply to anything you publish or share publicly. We own the platform, including our software, charting engine and built-in indicators.
+
+**Copyright complaints.** If you believe content on the Services infringes your copyright, email terms@tradegrub.com with a description of the work, where the content appears, your contact details, a statement that you believe in good faith that the use is not authorized, and a statement that your information is accurate. We may remove content and may terminate accounts of repeat infringers.
+
+**36. EXPORT CONTROLS AND SANCTIONS**
+
+You may not use the Services in violation of export control or sanctions laws. You confirm that you are not located in a country or region subject to a comprehensive embargo, and that you are not on any list of prohibited or restricted persons maintained by a government that applies to us.
+
+**37. EVENTS BEYOND OUR CONTROL**
+
+We are not liable for any delay or failure to perform caused by events beyond our reasonable control, including natural disasters, war, terrorism, labor disputes, power or internet outages, cyberattacks, government action, and failures or outages of third-party providers, exchanges or brokerages.
+
+**38. CONTACT US**
 
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at:
 
