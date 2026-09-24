@@ -150,4 +150,4 @@ and gain.
 ## Good to know
 
 **Setup covers some of this:** Staff & access, Groups & features and Messaging in Setup do
-the same jobs with review and a record. Prefer them where they fit. See Setup (`setup.md`).
+the same jobs with review and a record. Prefer them where they fit. See Setup.

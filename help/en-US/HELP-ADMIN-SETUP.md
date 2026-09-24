@@ -66,7 +66,7 @@ shows on the Approvals screen. See Approvals.
 
 This tab lists the groups of clients in your tenant and lets you ask for a feature to be
 turned on or off. It does not explain how features are decided. For that, and for what
-happens when a group and a user disagree, read Feature rules (`feature-rules.md`).
+happens when a group and a user disagree, read Feature rules.
 
 If you have no access to the tab in this group, you see "You do not have access to Groups
 & features in this tenant."
@@ -108,7 +108,7 @@ state. A second admin decides the request, as described in Feature rules.
 & features to request a feature change for this tenant." and no form.
 
 To include or exclude a feature for one group or one user, use Manage Group Features or
-Manage User Features under Other tools (`legacy-tools.md`).
+Manage User Features under Other tools.
 
 ## Messaging
 

@@ -69,7 +69,7 @@ submitted. Waiting for another approver." Another superadmin must approve it. Se
 Coming soon. Each tab shows "is not built yet" for now.
 
 **Plans & campaigns:** until then, use Manage Services, In App Services, Manage Campaigns
-and Manage Rewards under Other tools (`legacy-tools.md`).
+and Manage Rewards under Other tools.
 
 **Maintenance:** until then, use the Maintenance tool under Other tools.
 
