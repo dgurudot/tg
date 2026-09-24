@@ -95,8 +95,7 @@ updates that belong to it cannot be deleted. This cannot be undone.
 
 choose a group under "Select a Group" and a feature under "Select
 a Feature", then choose **Add to Include** or **Add to Exclude**. The screen lists what the
-group already includes and excludes. For how the settings combine, see Feature rules
-(`feature-rules.md`).
+group already includes and excludes. For how the settings combine, see Feature rules.
 
 ### Manage Services
 
