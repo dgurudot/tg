@@ -57,14 +57,17 @@ and by client is on the Risk screen.
 
 ## Automation
 
-This tab appears with your Automation access. It holds two launchers, **Send trade signal**
-and **Rebalance a group**, which open the existing tools. With View access you see a note
-that sending and rebalancing need Edit access. A list of systems is added when it becomes
-available. **Rebalance a group…** and **Send trade signal…** are also available from the
-legacy tools menu.
+This tab appears with your Automation access. **Auto-trading systems** lists each system
+that has recorded trade signals, one row per system and client. **Status** is Active, Idle or
+Failing, worked out from recent signals. **Last signal** shows in your local time; the detail
+panel also shows the exact UTC time. The list is built from recorded signals, so it can be
+empty or miss signals sent before recording began. The note under the table says what it
+covers. You can filter and sort by system, client, status, last result, last signal and
+signals in the last 24 hours. You cannot pause, resume or stop a system from here yet.
 
-**Systems:** the list of auto-trading systems, with their state, followers, last signal and
-problems. Pause, Resume and Stop are requests, because they move every follower at once.
+**Send trade signal** and **Rebalance a group** work as before and open the existing tools.
+With View access you see a note that sending and rebalancing need Edit access. **Rebalance a
+group…** and **Send trade signal…** are also available from the legacy tools menu.
 
 ## Instruments
 
