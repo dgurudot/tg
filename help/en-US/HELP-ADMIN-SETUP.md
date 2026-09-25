@@ -1,8 +1,8 @@
 # Setup
 
 Setup is where you decide who on your team can do what, manage groups of clients and the
-features they get, and send messages to your clients. It has three tabs: **Staff & access**,
-**Groups & features** and **Messaging**.
+features they get, and send messages to your clients. It has four tabs: **Staff & access**,
+**Groups & features**, **Features** and **Messaging**.
 
 ## How to Open
 
@@ -21,94 +21,99 @@ features they get, and send messages to your clients. It has three tabs: **Staff
 Staff & access shows every admin who has access to your group, and what each one can do on
 each screen.
 
-**Search:** find an admin by name or Admin ID.
+**Search staff:** find an admin by name or Admin ID.
 
-**The grid:** one row per admin, with the columns Name, Admin ID and Grants. On a wide
-screen the grants show as a row of small cells, one per screen: Approvals, Clients, Trading,
-Risk, Funding, Reports, Compliance and Setup. On a phone each admin is a card that lists
-only the screens they can use.
+**Team matrix / List:** the matrix shows one row per admin and one column per screen:
+Approvals, Clients, Trading, Risk, Funding, Reports, Compliance and Setup. The list swaps the
+screen columns for a tool count and a one-line summary such as "Approvals Approve, Clients
+Edit". On a phone each admin is a card that lists only the screens they can use.
 
-**Reading a cell:** **V** is View, **E** is Edit, **A** is Approve, and a dash means no
-access. A dot after the letter means the level differs between tools on that screen. A
-shaded cell means the access covers every group, not only this one.
+**Access:** narrows the people shown by what they can do on a screen. For each screen pick
+Any, None, View+, Edit+ or Approve. Every row you can see is already loaded, so the result
+is complete. **Clear** removes the filters.
+
+**Export:** copies the rows on screen as CSV.
+
+**Reading a cell:** **A** is Approve, **E** is Edit, **V** is View, and a dash means no
+access. A dot on the cell means the tools on that screen are at different levels; the cell
+shows the highest. A cyan outline means the access covers every group, not only this one.
+That marker appears only when the system reports it.
+
+**Updated and refresh:** the header shows when the list loaded. Nothing refreshes by itself.
+Choose the refresh button to load it again.
 
 **Empty:** "No staff have access to this tenant yet."
 
-**Open an admin:** tap a row to open their access.
+**Open an admin:** tap a row to open their access, or tap a cell to open it at that screen.
 
 ### Changing an admin's access
 
-With View access you see a plain list of the tools the admin holds, or "No grants for this
-tenant." With Edit access or higher you can change them.
+The editor shows the admin's name and Admin ID, an **Effective now** strip with what they
+hold, and one row per tool under each screen. With View access every control is off and there
+is no save bar.
 
-**Tools:** the sheet lists the tools under each screen. Under Clients you see Client 360,
-Accounts and Onboarding & KYC. Under Trading you see Orders, trades, positions,
-Instruments and Automation. Under Reports you see Reports. Under Compliance you see Audit
-trail and Cases. Under Setup you see Staff & access, Groups & features and Messaging (news,
-updates, notifications). Approvals, Risk and Funding each have one tool.
-
-**Level:** for each tool, choose **None**, **View**, **Edit** or **Approve**. You can never
-give a level higher than your own. Reports tops out at Edit and Audit trail at View.
+**Level:** for each tool, choose **None**, **View**, **Edit** or **Approve**. A level above
+your own on that tool is hatched and cannot be picked; press and hold it to see why. Reports
+tops out at Edit and Audit trail at View. **Changed** marks a tool you have changed.
 
 **Maintenance:** shows "Superadmin only. Not grantable per tenant."
 
-**Reason (required):** say why you are changing the access.
+**If the admin holds more than you:** saving replaces the admin's whole set of access, and
+the save is refused if the set includes anything above your own level. The editor tells you
+which access is the problem and turns Review off until it is lowered to your level. Access
+the editor has no control for is kept as it is.
 
-**Review…:** turns on once you have changed something and given a reason. The review lists
-each change as "None → Edit" and marks it "(applies now)" or "(becomes a request)".
-Approve-level grants always need a second approver. Choose **Back** to keep editing, or
-**Save** (for example "Save 2 and request 1") to confirm.
+**Save bar:** shows how many changes you have made. **Discard** puts everything back.
+**Review...** opens the review.
 
-**After you save:** you see "Request submitted for approval." Anything that is a request
-shows on the Approvals screen. See Approvals.
+**Review:** lists each change as "None → Edit" and marks it "becomes a request". Every change
+goes to a second approver, so nothing changes until it is approved. Give a **Reason
+(required)**, then choose **Request N changes**, or **Back** to keep editing. The back arrow
+asks before it throws away unsaved changes.
+
+**After you save:** you see "Request submitted for approval. Nothing changes until it is
+approved." The request shows on the Approvals screen. See Approvals.
 
 ## Groups & features
 
-This tab lists the groups of clients in your tenant and lets you ask for a feature to be
-turned on or off. It does not explain how features are decided. For that, and for what
-happens when a group and a user disagree, read Feature rules.
+Groups & features lists the groups of clients in your tenant. Choose a group to see its
+features and to ask for support actions. It does not explain how features are decided. For
+that, and for what happens when a group and a user disagree, read Feature control.
 
 If you have no access to the tab in this group, you see "You do not have access to Groups
 & features in this tenant."
 
-### Cohort groups
+**Search groups:** looks through every group, not only the ones on screen. It may take a
+moment on a tenant with many groups.
 
-**The grid:** one row per group, with Group, Members and Features. Each feature the group
-has shows as a small label on the row.
+**The list:** the first entry is "Everyone in this tenant". Then one entry per group with its
+member count. More groups load as you scroll; **Load more** does the same by tap. On a phone
+choosing a group opens it full width, with a back arrow.
 
 **Empty:** "No cohort groups for this tenant yet."
 
-**Open a group:** tap a row to see the group's name, its member count and its features. With
-Edit access you also get two actions. With View access you see "View only. You cannot
-request actions for this group."
+**Features set for this group:** each feature the group has a setting for, and whether it is
+On or Off. This is a read-only view. Features are changed in one place, so choose **Change in
+Features** to open the Features tab, where every change names its scope.
 
-**Request sign-out…:** asks for everyone in the group to be signed out. Give a **Reason
-(required)**. Tick **Also clear local data** to clear what is stored on their devices too.
-Choose **Submit request**, or **Cancel**. You see "Sign-out requested."
+**Force sign-out group...:** asks for everyone in the group to be signed out. The dialog
+shows how many members it applies to. Give a **Reason (required)**. Tick **Also clear local
+data** to clear what is stored on their devices too. You see "Sign-out requested."
 
-**Request clear cache…:** asks for the app's stored data to be cleared for the group. Give a
-**Reason (required)**, then **Submit request**. You see "Clear cache requested."
+**Clear cache for group:** asks for the app's stored data to be cleared for the group. Give a
+**Reason (required)**. You see "Clear cache requested."
 
-**All clients in this tenant:** the same two actions, but for every client in your tenant
-instead of one group. This button sits in the grid toolbar.
+For "Everyone in this tenant" the same two actions apply to every client in your tenant.
+A second admin decides each request. With View access you see "View only. You cannot request
+actions for this group."
 
-### Request a tenant-wide feature change
+Group members and accounts are not listed here yet. To include or exclude a group for a
+feature use the Features tab; for adding users to a group use Manage User Groups under Other
+tools.
 
-**Choose a feature:** pick from the list.
+## Features
 
-**Enable** or **Disable:** the change you want.
-
-**Reason (required):** say why.
-
-**Request change:** sends the request. It applies to every client in your tenant, not to
-one group. This screen only sends the request. It does not show the feature's current
-state. A second admin decides the request, as described in Feature rules.
-
-**View only:** with View access you see "View only. Ask someone with Edit access on Groups
-& features to request a feature change for this tenant." and no form.
-
-To include or exclude a feature for one group or one user, use Manage Group Features or
-Manage User Features under Other tools.
+See Feature control.
 
 ## Messaging
 
@@ -117,25 +122,27 @@ Messaging sends a message to your clients and keeps a log of what you sent.
 **No access:** without Edit access on News, Update or Notification, you see "You do not
 have Edit access on News, Update, or Notification sending for this tenant." and no form.
 
-**Kind:** **News**, **Update** or **Notification**. The list shows only the kinds you can
-send.
+**News / Update / Notification:** the type. A type you cannot send is hatched.
 
-**Audience:** always "every client in this tenant." You cannot narrow it here.
+**Compose / Sent:** switches between writing and the log.
 
-**Title** and **Message:** both are required before you can continue.
+**Audience:** always everyone in this tenant. You cannot narrow it here yet.
 
-**Preview and send:** while it checks recipients it shows "Checking recipients…". You then
-confirm with "Send this News?" (or Update, or Notification), which shows how many people it
-reaches, the title and the message. Choose **Send** or **Cancel**.
+**Title** and **Message:** both are required before you can continue. **Preview on a phone**
+shows them as you type.
+
+**Send...:** while it checks recipients it shows "Checking recipients...". You then confirm
+with "Send this News?" (or Update, or Notification), which shows how many people it reaches,
+the title and the message. Choose **Send to N** or **Cancel**.
 
 **After you send:** you see "Sent to 120 people." (with your real count) and the form
 clears. The message goes out straight away. It does not wait for approval.
 
 ### Sent log
 
-**Columns:** Sent, Kind and Recipients.
-
-**Search:** filters the entries already loaded, by kind.
+**Columns:** Sent, Kind, Audience, Recipients and Sent by. It loads more as you scroll, and
+scrolls sideways on a narrow screen. Search is not offered here, because a search over only
+the entries already loaded would leave out older sends.
 
 **Empty:** "Nothing sent for this tenant yet."
 

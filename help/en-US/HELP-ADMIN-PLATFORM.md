@@ -1,8 +1,8 @@
 # Platform
 
 Platform is for the people who run the whole service. It shows every tenant together, the
-health of the service and the jobs that run in the background. It has five tabs:
-**Tenants**, **Health & jobs**, **Plans & campaigns**, **Maintenance** and **Security**.
+health of the service and the jobs that run in the background. It has four tabs:
+**Tenants**, **Health & jobs**, **Plans & campaigns** and **Maintenance**.
 
 ## How to Open
 
@@ -10,7 +10,7 @@ health of the service and the jobs that run in the background. It has five tabs:
 
 **Tablet and phone:** below 1000 pixels wide the side menu becomes a drawer. Open it with the menu button at the top left, then choose **Platform**.
 
-**Tab:** Choose a tab under the title: **Tenants**, **Health & jobs**, **Plans & campaigns**, **Maintenance** or **Security**.
+**Tab:** Choose a tab under the title: **Tenants**, **Health & jobs**, **Plans & campaigns** or **Maintenance**.
 
 **Access needed:** Only superadmins can open Platform.
 
@@ -25,55 +25,68 @@ selector at the top does not change what you see here.
 
 ## Tenants
 
-**Search:** find a tenant by name.
+**Search:** find a tenant by name or id. The search covers every tenant, not only the rows on screen.
 
-**Columns:** Tenant, members, Staff, State and Region. A value that is not available shows
-a dash.
+**Columns:** Tenant (with its member count), Staff, State and Region. You can add Clients and
+Tenant id from the column chooser. A value that is not available shows a dash. The `default`
+row is the all-users group: it has no Break-glass button.
+
+**More rows:** choose **Load 50 more** at the bottom of the list. The list is paged, so only
+what you have loaded is on screen.
 
 **Empty:** "No tenants yet." If a search finds nothing you see "No tenants match" followed by
 what you typed.
 
-**Open a tenant:** tap a row to see its name, members, staff, state and region. The detail
+**Open a tenant:** tap a row to see its name, id, members, staff, state and region. The detail
 refreshes when it opens. If it cannot, you see "Could not refresh this tenant's detail.
 Showing the last known values."
 
-**Break-glass…:** opens the tenant with full access for an emergency. You must give a
-**Reason (required)**. The dialog, titled "Break-glass into" followed by the tenant name,
-warns that it "writes a distinguished audit action, and notifies that tenant's admins. Every
-use is reviewed." Choose **Break glass**, or **Cancel**. Access applies straight away, with
-no second approver. You see "Break-glass access to" the tenant "granted and audited."
+**Break-glass…:** in the row or in the detail. Opens the tenant with full access for an
+emergency. You must give a **Reason (required)**. The dialog, titled "Break-glass into"
+followed by the tenant name, warns that it "writes a distinguished audit action, and notifies
+that tenant's admins. Every use is reviewed." Choose **Break glass**, or **Cancel**. Access
+applies straight away, with no second approver. You see "Break-glass access to" the tenant
+"granted and audited."
+
+**Not here:** there is no New tenant or Export, because neither is available yet.
 
 ## Health & jobs
 
-**Component status:** at the top, one row per part of the service. Each shows its name, a
-state (**Operational**, **Degraded**, **Down**, **Maintenance** or **Unknown**), a response
-time in ms or the error, and when it was last checked. While it loads you see a progress
-bar. If none are reported you see "No component status reported yet." If it fails you see
-"Could not load component status."
+One table: **Component**, **Status**, **Detail** and **When**. The parts of the service come
+first, worst first, then the job runs, newest first. Times are your local time.
 
-**Jobs:** below that, the background jobs and their runs. Columns are Job, Status, Started
-and Triggered by. You can also add Rows and Error. Status is **Running**, **OK**, **Error**
-or **Skipped**.
+**Status:** components show **Up**, **Degraded**, **Down**, **Maintenance** or **Unknown**.
+Jobs show **Running**, **OK**, **Error** or **Skipped**. A failed job or a down component has
+a red row.
 
-**Empty:** "No platform jobs have run yet."
+**Detail:** a response time in ms, or the error. For a job, when it ran, how long it took and
+how many rows it handled.
 
-**Open a run:** tap a row to see its status, start and finish time, who triggered it, the
-rows it handled and any error.
+**Search:** type a job key exactly (for example `daily_checks`) to see only that job's runs.
+The parts of the service are hidden while you search. You see "No runs for job key" followed
+by what you typed when there are none.
+
+**More rows:** **Load 50 more**. Type and Triggered by are in the column chooser.
+
+**Empty:** "Nothing has reported yet."
+
+**Open a row:** tap it to see the details. A job run also offers **Run now…**.
 
 **Run now…:** with Edit or Approve access, asks for the job to run immediately for every
 tenant it covers. Give a **Reason (required)**, then **Submit request**. You see "Request
 submitted. Waiting for another approver." Another superadmin must approve it. See Approvals.
 
-## Plans & campaigns, Maintenance and Security
+## Plans & campaigns and Maintenance
 
-Coming soon. Each tab shows "is not built yet" for now.
+These open the existing screens, unchanged. **Plans & campaigns** has **Services**, **In-app
+services**, **Campaigns** and **Rewards**. **Maintenance** removes old data in bulk (see
+Other tools). On a phone each one opens full screen. The same tools stay under Other
+tools.
 
-**Plans & campaigns:** until then, use Manage Services, In App Services, Manage Campaigns
-and Manage Rewards under Other tools.
+There is no Security tab yet.
 
-**Maintenance:** until then, use the Maintenance tool under Other tools.
-
-**Security:** nothing to use yet.
+**Refresh:** the header shows when the list was loaded ("Updated hh:mm"). Nothing refreshes by
+itself. Choose the refresh button to load again.
 
 ## Good to know
 
