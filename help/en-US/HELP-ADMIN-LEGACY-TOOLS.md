@@ -12,13 +12,13 @@ being replaced by the main screens over time.
 
 **Send Trade:** it does not open a screen. It opens a symbol search on top of the screen you are on.
 
-**Access needed:** the seven superadmin tools need a superadmin role. Each group tool needs its own access in the group you are working in.
+**Access needed:** the eight superadmin tools need a superadmin role. Each group tool needs its own access in the group you are working in.
 
 **Locked:** tools you cannot use are not listed. There is no lock. If a tool you expect is missing, switch group with **Tenant** at the top, or ask a superadmin for access.
 
 ## Who sees which tool
 
-**Superadmin tools:** seven tools, shown only to superadmins. They work across every group.
+**Superadmin tools:** eight tools, shown only to superadmins. They work across every group.
 
 **Group tools:** the rest belong to one group at a time. You see a tool only when your role
 gives you access to it in the group you are working in, and they are listed A to Z. If you
@@ -52,6 +52,12 @@ none, you see "No data found".
 the list of services sold inside the app. Use the plus button to
 create one. With none, you see "No Services Created".
 
+### Maintenance
+
+removes old data in bulk. Choose a target (**News**, **Trades** or
+**Updates**), set a start and end date, then choose **Purge Data**. An open signal and the
+updates that belong to it cannot be deleted. This cannot be undone.
+
 ### Manage Campaigns
 
 create and edit campaigns that award bonus points. Each has a
@@ -84,12 +90,6 @@ button reloads the list, with the same warning as Add Admin.
 
 opens the Rebalancer as an admin, so you can work with it on behalf of
 your clients.
-
-### Maintenance
-
-removes old data in bulk. Choose a target (**News**, **Trades** or
-**Updates**), set a start and end date, then choose **Purge Data**. An open signal and the
-updates that belong to it cannot be deleted. This cannot be undone.
 
 ### Manage Group Features
 
