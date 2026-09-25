@@ -90,7 +90,15 @@ tools.
 
 ## Security
 
-**Security:** shows "Not enabled for this tenant" until the access model is set up.
+**Security:** the tab shows the platform default security policy and, once you pick a tenant,
+that tenant's own policy: the IP allowlist, the longest session, the re-authentication
+window, the new device alert and the audit retention period. Until the policy is enabled for
+your environment the tab says it is using built-in defaults. Enforcement is controlled by the
+server, not from this screen, so a value can be recorded but not yet applied. Audit retention
+is display only: audit history is append-only and nothing deletes from it. Choose **Request
+change** to propose a new value. A second approver has to approve it before it applies. A
+wrong IP allowlist can lock admins out, but superadmins are never blocked. Until it is
+enabled the tab shows Not enabled for this tenant.
 
 **Refresh:** the header shows when the list was loaded ("Updated hh:mm"). Nothing refreshes by
 itself. Choose the refresh button to load again.

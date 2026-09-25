@@ -149,16 +149,20 @@ audience is worked out again at send time, so the head count can change. Schedul
 works only when your organisation's scheduler is switched on.
 
 **Scheduled tab:** lists your own pending scheduled messages. **Cancel** stops one before it
-is sent. The Sent log shows a scheduled message only after it has been delivered.
+is sent.
 
 **After you send:** you see "Sent to 120 people." (with your real count) and the form
 clears. The message goes out straight away. It does not wait for approval.
 
 ### Sent log
 
-**Columns:** Sent, Kind, Audience, Recipients and Sent by. It loads more as you scroll, and
-scrolls sideways on a narrow screen. Search is not offered here, because a search over only
-the entries already loaded would leave out older sends.
+The Sent log lists every message the console sent or scheduled, newest first. Each row shows
+the time, the kind, the audience, the title with a short preview, the recipient count and a
+status: Sent, Failed, Scheduled or Cancelled. Filter by status or kind, search by title or
+audience, and tap a row to see the message excerpt, the error of a failed send and the
+request and job ids to quote to support. Scheduled messages appear at the end of the list;
+cancel your own from the Scheduled tab. Until your organisation has switched the message log
+on, the Sent log shows the older list of sent messages.
 
 **Empty:** "Nothing sent for this tenant yet."
 
