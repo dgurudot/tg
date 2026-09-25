@@ -19,11 +19,22 @@ change against the previous period, green when it went up and red when it went d
 **Tiles:** tap a tile to open the screen behind it.
 
 **Daily checks:** each check shows OK, a warning or a failure, with a count. Tap a check to
-open its list. With Edit access you can use **Run checks** to run them again.
+open the screen that owns it. With Edit access you can use **Run checks** to run them again.
 
-**Nearest a limit:** the items closest to a risk limit, taken from your clients' journals.
-Items at 90% of a limit or more show gold, and items at or over the limit show red. If
-nothing has been measured yet, you see "No limits have been measured yet."
+**Nearest a limit:** the items closest to a risk limit, taken from your clients' journals,
+with a bar for how much of the limit is used. Items at 90% or more show gold, and items at
+or over the limit show red. The card appears once limits have been measured; until then it
+is not shown.
 
 **Nothing to show:** a new group with no activity shows "Nothing to show for this tenant
 yet."
+
+**On a phone:** the top of the page shows **Approvals** (open approvals) and **Checks**
+(how many checks need attention). Tap Approvals to open it, or Checks to jump to the list.
+Pull down to refresh, or tap **Refresh** beside the update time.
+
+**Fresh and stale data:** Overview shows the last result it loaded, with the time it was
+loaded, and never refreshes on its own. Results are kept for a few minutes and reused when
+you come back. If the data on screen is older than that, or a refresh failed and you chose
+**Show last loaded**, a gold line says "Showing data from hh:mm. Refresh to update." Press
+**Refresh** when you want current numbers.

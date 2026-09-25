@@ -1,7 +1,8 @@
 # Risk
 
-Risk shows your group's exposure and the rules that watch it. It has three tabs:
-**Exposure**, **Alerts** and **Rules**.
+Risk shows your group's exposure and the rules that watch it. It has **Exposure** and
+**Rules**, and an **Alerts** tab that appears once alerts are switched on for your
+platform.
 
 ## How to Open
 
@@ -20,19 +21,26 @@ Risk shows your group's exposure and the rules that watch it. It has three tabs:
 Exposure is built from your clients' journals. It is not client assets and not broker
 margin.
 
-**Group by:** **By asset class** or **By client**. Open a row to see the level below it.
+**Levels:** client, then account, then instrument. Open a row to see the level below it.
+The **By asset class** view appears only when the platform can group that way.
 
-**Columns:** Notional, Limit and Used. Rows at 90% of a limit or more show gold, and rows
-at or over the limit show red.
+**Columns:** Notional, Limit and Used. Limit names the limit that applies to the row.
+Rows at 90% of a limit or more show gold, and rows at or over the limit show red. A dash
+under Used means the usage is not measured for that limit yet.
 
-**Over 90% only:** shows only the rows close to or over a limit.
-
-**Search:** by symbol or client.
+**Over 90% only** and **Search:** both look across the whole tree, not only the rows you
+have opened. The first time you use one, the full tree loads once.
 
 ## Alerts
 
-Coming soon. Alerts will appear here when a rule is breached, for you to acknowledge or
-raise as a case.
+The tab is hidden until alerts are available. When it appears:
+
+**Open** and **All:** the shortcut for the State filter. **Filter icons** in the column
+headers filter by rule, observed value, state, due time and owner. On a phone, use the
+**Filters** chip. Active filters show as chips you can remove, with **Clear filters**.
+
+**Acknowledge** and **Raise case:** open an alert and act on it. Acknowledge is direct
+and recorded. Raise case hands the alert to Compliance.
 
 ## Rules
 
@@ -41,9 +49,19 @@ Rules raise an alert when a threshold is crossed. They never block an order.
 **Current** and **History:** History shows every approved change, with who asked and who
 approved.
 
-**Search and scope:** search by rule name, and filter by scope.
+**Search, Scope and column filters:** every column has a filter icon. Filters cover every
+rule in your tenant. Where the platform cannot filter a column yet, its icon is greyed
+with "Not filterable yet".
 
 **New rule…** and **Request change:** with Edit access, give the details and a reason.
 Every rule change is a request, and the rule shows **Pending change** until it is decided.
 
-**Last observed:** "Not measured yet" means the rule has not been checked yet.
+**Last observed:** "Not measured yet" means the rule has not been checked yet. It fills
+in once the platform starts measuring limits.
+
+## Loading and freshness
+
+Lists load more as you scroll, and the table scrolls sideways when it is wider than your
+screen. Nothing refreshes on its own. If you are looking at saved data that has gone
+stale, the header time turns gold and a line says when it was fetched. Choose the refresh
+icon to update.

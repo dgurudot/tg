@@ -1,7 +1,8 @@
 # Trading
 
 Trading shows your clients' orders and the tools that trade for many clients at once. It
-has five tabs: **Orders**, **Trades**, **Positions**, **Automation** and **Instruments**.
+shows the tabs your group has data for. Today that is **Orders**. **Automation** and
+**Instruments** appear on their own once your group has that data.
 
 ## How to Open
 
@@ -9,9 +10,9 @@ has five tabs: **Orders**, **Trades**, **Positions**, **Automation** and **Instr
 
 **Tablet and phone:** below 1000 pixels wide the side menu becomes a drawer. Open it with the menu button at the top left, then choose **Trading**.
 
-**Tab:** Choose a tab under the title: **Orders**, **Trades**, **Positions**, **Automation** or **Instruments**. A tab only shows when your role gives you the matching tool. **Orders** always shows.
+**Tab:** Choose a tab under the title: **Orders**, **Automation** or **Instruments**. A tab only shows when your role gives you the matching tool and your group has that data. **Orders** always shows.
 
-**Access needed:** You need access to at least one of Orders, trades, positions, Instruments or Automation. **View** lets you read. **Edit** lets you make requests. Each tab follows its own tool, so you may see some tabs and not others.
+**Access needed:** You need access to at least one of Orders, Instruments or Automation. **View** lets you read. **Edit** lets you make requests. Each tab follows its own tool, so you may see some tabs and not others.
 
 **Locked:** if you have access in another group but not the one you are working in, **Trading** shows a lock in the menu. Opening it says "You do not have access to Trading in this tenant" and names the group where you do have access. Switch group with **Tenant** at the top. If you have no access in any group, **Trading** is not in the menu at all.
 
@@ -20,39 +21,53 @@ has five tabs: **Orders**, **Trades**, **Positions**, **Automation** and **Instr
 **Views:** **Open**, **Today** and **History**. **Needs attention** shows rejected and
 expired orders.
 
-**Filters:** Side (Buy or Sell) and Source (Manual, Connected broker or Automation). In
-History you can also filter by the kind of change and by who made it.
-
 **Search:** by symbol, order id or account id.
+
+**Filters:** Side (Buy or Sell) and Source (Manual, Connected broker or Automation) sit next
+to the views. Tap **Filters** to filter by any column: time, client, account, symbol, side,
+type, status, order id, time in force, source, order state or broker. On a computer you can
+also open the menu on a column heading. Every filter applies to all matching orders, so the list and the
+count always agree. A filter you have set shows as a chip; tap the chip to remove it, or tap
+**Clear filters**. A filter that is not available yet is dimmed and says "Not filterable
+yet".
+
+**Sort:** open a column heading's menu and choose ascending or descending. Sorting also applies to all matching orders.
+
+**Columns:** the column chooser adds order id, external id, time in force, source, value and
+more. **Last change**, market, filled quantity, average price, IP address and approver appear
+when your group's data includes them.
 
 **Open an order:** tap a row to see the order's details and its lifecycle: Created, Sent to
 broker, Filled or rejected, and Settlement. Settlement shows "not tracked". **Open in
 History** shows every change to that order.
+
+**History mode:** switch **Current** to **History** to see every change to orders, with the
+before and after values. Filter it by the kind of change and by who made it.
+
+**Stale data:** a list you opened before shows at once with the time it was loaded. Nothing
+refreshes by itself. Tap **Refresh** to load it again.
 
 **Export:** the export runs in the background. Find the file under Reports, on the Exports
 tab.
 
 ## Trades and Positions
 
-Coming soon. Filled orders show under Orders in the meantime, and exposure by asset class
+These tabs are not shown yet. Filled orders show under Orders, and exposure by asset class
 and by client is on the Risk screen.
 
 ## Automation
 
-**Rebalance a group…** and **Send trade signal…** work today.
+This tab appears when your group has auto-trading data. **Rebalance a group…** and **Send
+trade signal…** are also available from the legacy tools menu.
 
 **Systems:** the list of auto-trading systems, with their state, followers, last signal and
 problems. Pause, Resume and Stop are requests, because they move every follower at once.
-If your group has no system data yet, the tab says so.
-
-**Sent signals** and **Rebalances:** the logs are coming soon.
 
 ## Instruments
 
-The instruments your clients trade, with their settings and **Set at**, which tells you
-where each setting comes from: platform, market, group or this security.
+This tab appears when your group has instrument data. It lists the instruments your clients
+trade, with their settings and **Set at**, which tells you where each setting comes from:
+platform, market, group or this security.
 
 **Request a setting change…:** change the trading mode, minimum size, lot size or order
 step for one security. Give a reason. This is a request.
-
-If your group has no instrument data yet, the tab says so.

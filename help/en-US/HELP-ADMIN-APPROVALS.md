@@ -31,12 +31,33 @@ The request appears on the Approvals screen under **Mine**.
 ## The Approvals screen
 
 **For me:** requests you can decide, with the ones that expire soonest first. Columns show
-the request id, what it changes, the screen it belongs to, who asked, when, and when it
-expires.
+the request number, what it changes, the screen it belongs to, who asked, when, and when it
+expires. Names are shown, not ids.
 
-**Mine:** requests you made and what happened to them.
+**Mine:** requests you made and what happened to them. Each row says who decided it and
+why, or that it is still waiting for another approver.
 
 **Decided:** requests you approved or rejected.
+
+**Count badges:** For me shows how many are waiting on you. Mine shows how many of your
+requests are still pending once you have opened it.
+
+## Finding a request
+
+**Search:** type a name, an action, a target or part of the reason.
+
+**Module, State, Expires:** tap the chip, then pick a value. State appears on Mine and
+Decided. Expires appears on For me.
+
+**Filters:** the request number and a date range.
+
+**Sort:** choose Expiring first, Newest first or Oldest first when it is available for your group.
+The chip is hidden otherwise.
+
+**Export:** the download button copies the requests you have loaded as CSV. Load more first
+to include the rest.
+
+**Refresh:** the screen never refreshes by itself. Use the refresh button.
 
 ## Approving
 
@@ -48,7 +69,7 @@ applies. You see "Approved. Applying now." and then "Applied."
 
 ## Rejecting
 
-**Reject:** choose **Reject…**, give a reason, then **Submit rejection**. The change does
+**Reject:** choose **Reject…**, give a reason, then **Reject**. The change does
 not happen.
 
 ## Expiry
