@@ -42,6 +42,21 @@ fails you see "This report did not run" with the reason.
 **Export:** choose **Export** and pick **CSV**, **Excel (.xlsx)** or **PDF**. You see
 "Export started. Find it in Reports → Exports when it finishes."
 
+**Exceptions:** rejected or expired orders, plus failed or stuck jobs. Filter **Source** is
+ORDER or JOB.
+
+**Operational metrics:** job outcomes and durations, and staff activity by action. Filter
+**Section** is JOB_RUNS or ADMIN_ACTIVITY.
+
+**Risk and exposure:** risk limits, then positions by exposure. Filter **Row type** is LIMIT
+or POSITION.
+
+**Summaries:** these three reports are summaries and cannot be grouped.
+
+**Computed by the server:** **Group by** and the KPIs are computed by the server over every
+matching row, not only the rows on screen. Orders has no Sum or Average KPI. If the server
+cannot do a Group by or KPI you chose, you see "The server did not accept this report".
+
 ## My reports
 
 My reports holds the reports you saved.

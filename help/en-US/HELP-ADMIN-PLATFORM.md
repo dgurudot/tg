@@ -48,7 +48,12 @@ that tenant's admins. Every use is reviewed." Choose **Break glass**, or **Cance
 applies straight away, with no second approver. You see "Break-glass access to" the tenant
 "granted and audited."
 
-**Not here:** there is no New tenant or Export, because neither is available yet.
+**Region:** the Region column shows a dash when no region is set.
+
+**New tenant** and **Retire:** both are requests that another superadmin must approve. Nothing
+changes until then. A tenant cannot be retired while it has members or groups.
+
+**Not here:** there is no Export, because it is not available yet.
 
 ## Health & jobs
 
@@ -83,7 +88,9 @@ services**, **Campaigns** and **Rewards**. **Maintenance** removes old data in b
 Other tools). On a phone each one opens full screen. The same tools stay under Other
 tools.
 
-There is no Security tab yet.
+## Security
+
+**Security:** shows "Not enabled for this tenant" until the access model is set up.
 
 **Refresh:** the header shows when the list was loaded ("Updated hh:mm"). Nothing refreshes by
 itself. Choose the refresh button to load again.

@@ -32,18 +32,37 @@ are coming soon.
 The profile has five tabs: **Overview**, **Orders**, **Profile**, **Access** and
 **Timeline**. Each tab loads when you open it.
 
-**Overview:** key facts at a glance and the pinned note. Open positions are coming soon.
+**Overview:** key facts at a glance and the pinned note. See Client 360 Overview below.
 
 **Orders:** the client's orders, by **Open**, **Today** or **Needs attention**.
 
 **Profile:** status, assigned manager and details. With Edit access, **Request manager
-change…** asks for a new manager. Identity documents are coming soon.
+change…** asks for a new manager. See Profile details below.
 
 **Access:** the client's roles and the features they have. Each feature shows the group
 default and whether the client has their own setting. You cannot change features here
 yet; see Feature rules.
 
 **Timeline:** notes and history, newest first.
+
+### Client 360 Overview
+
+**Plan:** a tile showing the client's plan.
+
+**Open alerts:** a tile shown only if you have risk access.
+
+**Exposure:** shown per currency. Amounts are never added across currencies.
+
+**Open positions:** a table of the client's open positions. It covers journal accounts only,
+and a note under the table says so.
+
+### Profile details
+
+**Personal:** name, email, country and legal type, from real data.
+
+**Subscriptions:** the client's subscriptions, from real data.
+
+**Address** and **Documents:** show "Not enabled for this tenant".
 
 ## Actions (Edit access)
 
@@ -59,8 +78,22 @@ yet; see Feature rules.
   applies at once and is recorded.
 - **User features…:** opens the Access tab.
 - **Move to group…:** moves the client to another group. This is a request.
-- **Open support tickets:** coming soon.
+- **Open support tickets:** opens your tenant's helpdesk link. It is disabled when no link
+  is set. Setting the link is a request that needs approval.
 - **Suspend client…:** give a reason. This is a request.
+
+## Bulk request
+
+**Bulk request:** with Edit access, choose **Bulk request** on the Clients tab. Tick the
+clients you want, or choose **Select loaded** to tick every client loaded on screen. Then
+choose **Request change** and pick **Change status**, **Move to group** or **Suspend**. Give
+a reason.
+
+**One request per client:** it creates one request for each client, up to 200. Each request
+needs approval.
+
+**Pending requests:** if any client already has a pending request of that kind, the whole
+batch is refused.
 
 ## Sign-ups tab
 

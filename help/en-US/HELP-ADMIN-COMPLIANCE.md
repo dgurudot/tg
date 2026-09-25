@@ -86,5 +86,14 @@ filters set you see "No audit events match those filters."
 
 ## Not on this screen yet
 
-**Cases:** a place to open and track compliance cases is planned. It is not shown until
-cases can be stored.
+**Cases:** see the Cases section below.
+
+## Cases
+
+**Raise a case:** you raise a case from a risk alert.
+
+**States:** a case is **Open**, **In review** or **Closed**.
+
+**Closing a case:** closing needs a resolution note, and it cannot be undone.
+
+**View access:** you can read cases but not change them.
