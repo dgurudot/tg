@@ -57,15 +57,20 @@ and by client is on the Risk screen.
 
 ## Automation
 
-This tab appears when your group has auto-trading data. **Rebalance a group…** and **Send
-trade signal…** are also available from the legacy tools menu.
+This tab appears with your Automation access. It holds two launchers, **Send trade signal**
+and **Rebalance a group**, which open the existing tools. With View access you see a note
+that sending and rebalancing need Edit access. A list of systems is added when it becomes
+available. **Rebalance a group…** and **Send trade signal…** are also available from the
+legacy tools menu.
 
 **Systems:** the list of auto-trading systems, with their state, followers, last signal and
 problems. Pause, Resume and Stop are requests, because they move every follower at once.
 
 ## Instruments
 
-This tab appears when your group has instrument data. It lists the instruments your clients
+This tab is a read-only catalogue of instruments, with symbol, name, market, exchange,
+sector and asset type. Instrument settings and change requests appear when they become
+available. When your group has instrument data it lists the instruments your clients
 trade, with their settings and **Set at**, which tells you where each setting comes from:
 platform, market, group or this security.
 

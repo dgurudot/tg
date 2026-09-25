@@ -56,6 +56,9 @@ is no save bar.
 your own on that tool is hatched and cannot be picked; press and hold it to see why. Reports
 tops out at Edit and Audit trail at View. **Changed** marks a tool you have changed.
 
+**Preset:** a preset fills the grants for a common role. The editor lowers any level above
+your own.
+
 **Maintenance:** shows "Superadmin only. Not grantable per tenant."
 
 **If the admin holds more than you:** saving replaces the admin's whole set of access, and
@@ -107,7 +110,12 @@ For "Everyone in this tenant" the same two actions apply to every client in your
 A second admin decides each request. With View access you see "View only. You cannot request
 actions for this group."
 
-Group members and accounts are not listed here yet. To include or exclude a group for a
+**Members and Accounts:** a group has **Members** and **Accounts** sub-tabs, when your server
+supports it.
+
+**New group:** creates a group. This is a request.
+
+To include or exclude a group for a
 feature use the Features tab; for adding users to a group use Manage User Groups under Other
 tools.
 
@@ -126,7 +134,7 @@ have Edit access on News, Update, or Notification sending for this tenant." and 
 
 **Compose / Sent:** switches between writing and the log.
 
-**Audience:** always everyone in this tenant. You cannot narrow it here yet.
+**Audience:** choose the whole tenant or one group.
 
 **Title** and **Message:** both are required before you can continue. **Preview on a phone**
 shows them as you type.
@@ -134,6 +142,14 @@ shows them as you type.
 **Send...:** while it checks recipients it shows "Checking recipients...". You then confirm
 with "Send this News?" (or Update, or Notification), which shows how many people it reaches,
 the title and the message. Choose **Send to N** or **Cancel**.
+
+**Schedule…:** when your server supports it, **Schedule…** sends later. Pick a date and time
+in your own time zone, up to 30 days ahead. The confirmation shows the exact UTC time. The
+audience is worked out again at send time, so the head count can change. Scheduled sending
+works only when your organisation's scheduler is switched on.
+
+**Scheduled tab:** lists your own pending scheduled messages. **Cancel** stops one before it
+is sent. The Sent log shows a scheduled message only after it has been delivered.
 
 **After you send:** you see "Sent to 120 people." (with your real count) and the form
 clears. The message goes out straight away. It does not wait for approval.
@@ -145,6 +161,17 @@ scrolls sideways on a narrow screen. Search is not offered here, because a searc
 the entries already loaded would leave out older sends.
 
 **Empty:** "Nothing sent for this tenant yet."
+
+## Support link
+
+**Support link:** under Groups & features, **Everyone in this tenant** shows the tenant's
+support link. This is the address that **Open support tickets** opens in a client's profile.
+
+**Request change…:** needs Edit access and a reason. The address must be https, with no user
+name or password, and at most 2048 characters. It takes effect only after a second approver
+approves it.
+
+**Remove:** leave the address empty to request removal.
 
 ## Good to know
 
