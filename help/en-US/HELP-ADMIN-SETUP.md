@@ -143,8 +143,13 @@ shows them as you type.
 with "Send this News?" (or Update, or Notification), which shows how many people it reaches,
 the title and the message. Choose **Send to N** or **Cancel**.
 
-**Schedule:** when your server supports it, **Schedule** sends later. Times are UTC, up to 30
-days ahead. You can cancel a scheduled message before it is due.
+**Schedule…:** when your server supports it, **Schedule…** sends later. Pick a date and time
+in your own time zone, up to 30 days ahead. The confirmation shows the exact UTC time. The
+audience is worked out again at send time, so the head count can change. Scheduled sending
+works only when your organisation's scheduler is switched on.
+
+**Scheduled tab:** lists your own pending scheduled messages. **Cancel** stops one before it
+is sent. The Sent log shows a scheduled message only after it has been delivered.
 
 **After you send:** you see "Sent to 120 people." (with your real count) and the form
 clears. The message goes out straight away. It does not wait for approval.
@@ -159,7 +164,14 @@ the entries already loaded would leave out older sends.
 
 ## Support link
 
-**Support link:** the tenant helpdesk URL is set by request. It must be https.
+**Support link:** under Groups & features, **Everyone in this tenant** shows the tenant's
+support link. This is the address that **Open support tickets** opens in a client's profile.
+
+**Request change…:** needs Edit access and a reason. The address must be https, with no user
+name or password, and at most 2048 characters. It takes effect only after a second approver
+approves it.
+
+**Remove:** leave the address empty to request removal.
 
 ## Good to know
 
